@@ -1,0 +1,14 @@
+# -------------------------------------------------------------------
+# If we are on Windows, ignore the Linux/WSL specific files
+# -------------------------------------------------------------------
+{{ if eq .chezmoi.os "windows" }}
+.bashrc
+.config/nvim
+{{ end }}
+
+# -------------------------------------------------------------------
+# If we are on Linux (WSL2), ignore the Windows specific files
+# -------------------------------------------------------------------
+{{ if eq .chezmoi.os "linux" }}
+AppData
+{{ end }}
