@@ -1,0 +1,13 @@
+[user]
+	name = renton555
+	email = thomas.luedke@gmail.com
+[init]
+	defaultBranch = main
+[credential "https://github.com"]
+	helper = 
+	helper = !/home/tluedke/.local/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/home/tluedke/.local/bin/gh auth git-credential
+[pull]
+	rebase = true
