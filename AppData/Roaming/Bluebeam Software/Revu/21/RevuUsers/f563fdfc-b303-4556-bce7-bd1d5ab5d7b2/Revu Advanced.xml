@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ToolSetConfigs>
+  <ToolSet Index="0">
+    <Hidden>False</Hidden>
+    <Path>My Tools.btx</Path>
+    <Title>My Tools</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>True</IsNumbered>
+    <FromTopLevel>True</FromTopLevel>
+  </ToolSet>
+  <ToolSet Index="1">
+    <Hidden>False</Hidden>
+    <Path>Recent Tools</Path>
+    <Title>Recents</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>False</IsNumbered>
+    <FromTopLevel>True</FromTopLevel>
+  </ToolSet>
+  <ToolSet Index="2">
+    <Hidden>False</Hidden>
+    <Path>Architect Review.btx</Path>
+    <Title>Architect Review</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>False</IsNumbered>
+  </ToolSet>
+  <ToolSet Index="3">
+    <Hidden>False</Hidden>
+    <Path>Contractor Review.btx</Path>
+    <Title>Contractor Review</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>False</IsNumbered>
+  </ToolSet>
+  <ToolSet Index="4">
+    <Hidden>False</Hidden>
+    <Path>Engineer Review.btx</Path>
+    <Title>Engineer Review</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>False</IsNumbered>
+  </ToolSet>
+  <ToolSet Index="5">
+    <Hidden>False</Hidden>
+    <Path>General Use.btx</Path>
+    <Title>General Measurements</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>False</IsNumbered>
+  </ToolSet>
+  <ToolSet Index="6">
+    <Hidden>False</Hidden>
+    <Path>Design Symbols.btx</Path>
+    <Title>Design Symbols</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>False</IsNumbered>
+  </ToolSet>
+  <ToolSet Index="7">
+    <Hidden>False</Hidden>
+    <Path>Construction Symbols.btx</Path>
+    <Title>Construction Symbols</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>False</IsNumbered>
+  </ToolSet>
+  <ToolSet Index="8">
+    <Hidden>False</Hidden>
+    <Path>P - Cobb.btx</Path>
+    <Title>P - Cobb</Title>
+    <Collapsed>False</Collapsed>
+    <ViewSymbol>True</ViewSymbol>
+    <IsNumbered>False</IsNumbered>
+    <FromTopLevel>True</FromTopLevel>
+  </ToolSet>
+</ToolSetConfigs>

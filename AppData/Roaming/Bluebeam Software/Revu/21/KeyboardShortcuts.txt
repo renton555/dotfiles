@@ -1,0 +1,178 @@
+Refresh Document                  Shift+F5
+Highlight                         Ctrl+F7
+Select                            V
+Select All                        Ctrl+A
+Select Text                       Shift+T
+Select All Text                   Ctrl+Shift+A
+Snapshot                          G
+Snapshot Content                  Shift+G
+Dimmer                            Ctrl+F5
+Show Grid                         Shift+F9
+Rulers                            Ctrl+R
+Snap to Grid                      Ctrl+Shift+F9
+Snap to Content                   Ctrl+Shift+F8
+Snap to Markup                    Ctrl+Shift+F7
+Actual Size                       Ctrl+8
+Continuous mode                   Ctrl+5
+Fit Page                          Ctrl+9
+Fit Width                         Ctrl+0
+Continuous Side by Side mode      Ctrl+7
+Page Down                         PgDn
+First Page                        Home, Ctrl+Home
+Last Page                         End, Ctrl+End
+Next Page                         Ctrl+Right
+Previous Page                     Ctrl+Left
+Page Up                           PgUp
+Side by Side                      Ctrl+6
+Single page mode                  Ctrl+4
+Dark Mode                         Ctrl+Shift+L
+Zoom In                           Plus, Oemplus, Shift+Plus, Shift+Oemplus, Ctrl+Plus, Ctrl+Oemplus
+Zoom Out                          Minus, OemMinus, Shift+Minus, Shift+OemMinus, Ctrl+Minus, Ctrl+OemMinus
+Close                             Ctrl+F4
+Create PDF                        Ctrl+N
+Exit                              Ctrl+Q
+Open                              Ctrl+O
+Copy Page to Snapshot             Ctrl+Alt+C
+Crop Pages                        Shift+Alt+O
+Delete Pages                      Ctrl+Shift+D
+Deskew                            Ctrl+Alt+D
+Email                             Ctrl+E
+Extract Pages                     Ctrl+Shift+X
+Flatten                           Ctrl+Shift+M
+Unflatten                         Ctrl+Shift+U
+Publish As Flattened              Ctrl+Alt+F
+Insert Blank Page                 Ctrl+Shift+N
+Insert Pages                      Ctrl+Shift+I
+Print                             Ctrl+P
+Document Properties               Ctrl+D
+Replace Pages                     Ctrl+Shift+Y
+Rotate Counterclockwise           Shift+Alt+Minus
+Rotate Clockwise                  Shift+Alt+Plus
+Rotate Pages                      Ctrl+Shift+R
+Save                              Ctrl+S
+Save All                          Shift+F2
+Save As                           Ctrl+Shift+S
+Align Bottom                      Ctrl+Alt+B
+Flip Horizontal                   Ctrl+Alt+H
+Align Left                        Ctrl+Alt+L
+Align Center                      Ctrl+Alt+E
+Align Right                       Ctrl+Alt+R
+Align Top                         Ctrl+Alt+T
+Align Middle                      Ctrl+Alt+M
+Flip Vertical                     Ctrl+Alt+V
+Autosize Text Box                 Alt+Z
+Arrow                             A
+Bring to Front                    Ctrl+Shift+]
+Bring Forward                     Ctrl+]
+Send to Back                      Ctrl+Shift+[
+Send Backward                     Ctrl+[
+Callout                           Q
+Cloud                             C
+Cloud+                            Shift+C
+Dimension                         Shift+D
+Edit Action                       Ctrl+Shift+E
+Edit Contents                     F2
+Export Markups                    Ctrl+F2
+Format Painter                    B
+Group                             Ctrl+G
+Add && Edit 3D Content            Ctrl+Alt+3
+Image                             I
+Image from Scanner                Shift+I
+Camera                            Ctrl+Alt+I
+Import                            Ctrl+F3
+Line                              L
+Note                              N
+Pen                               P
+Polygon                           Shift+P
+Polyline                          Shift+N
+Rectangle                         R
+Review Text                       Shift+Alt+R
+Squiggly                          Shift+U
+Stamp                             S
+Text Box                          T
+Lock                              Ctrl+L
+Ungroup                           Ctrl+Shift+G
+Remove Selected from Group        Ctrl+Shift+Alt+G
+Underline                         U
+Typewriter                        W
+Add Space                         Shift+S
+Next Measurement                  Shift+M
+Measure Tool                      M
+Length                            D
+Area                              Shift+Alt+A
+Perimeter                         Shift+Alt+P
+Polylength                        Shift+Alt+Q
+Diameter                          Shift+Alt+D
+Angle                             Shift+Alt+G
+Radius                            Shift+Alt+U
+Volume                            Shift+Alt+V
+Count                             Shift+Alt+C
+Dynamic Fill                      J
+Add Bookmark                      Ctrl+B
+Re-Open Files when Revu closed    Ctrl+Alt+O
+Copy                              Ctrl+C, Ctrl+Ins
+Multiply                          Ctrl+M
+Offset                            O
+Cut                               Ctrl+X, Shift+Del
+Delete                            Del
+Paste                             Ctrl+V, Shift+Ins
+Hide                              Shift+H
+Paste in Place                    Ctrl+Shift+V
+Preferences                       Ctrl+Shift+P
+Redo                              Ctrl+Y, Ctrl+Shift+Z
+Undo                              Ctrl+Z
+Cut Content                       X
+Help                              F1
+Lasso                             Shift+O
+Presentation                      Ctrl+Enter
+Keyboard Shortcuts                Shift+K
+Refresh                           F5
+Search                            Ctrl+F, Alt+1
+Next Result                       F3
+Previous Result                   Shift+F3
+Create PDF Package                Ctrl+Alt+Z
+Show Context Menu                 Shift+F10
+Remote Files                      Alt+K
+Check Spelling in Markups && Form Fields   F7
+Menu Bar                          F9
+Full Screen                       F11
+Navigation Bar                    F4
+Status Bar                        F8
+Always On Top                     Z
+Hide Panels                       Shift+F4
+Rotate View Clockwise             Ctrl+Shift+Plus, Ctrl+Shift+Oemplus
+Rotate View Counterclockwise      Ctrl+Shift+Minus
+Balance                           Shift+F12
+Close All                         Ctrl+Shift+W
+Next Document                     Ctrl+Tab
+Previous Document                 Ctrl+Shift+Tab
+Split Vertical                    Ctrl+2
+Split Horizontal                  Ctrl+H
+Toggle Split                      Ctrl+I
+Switch                            Ctrl+1
+Unsplit                           Ctrl+Shift+2
+WebTab                            Ctrl+T
+Previous View                     Alt+Left
+Next View                         Alt+Right
+Welcome to Revu                   F12
+Bookmarks                         Alt+B
+JavaScript Console                Alt+J
+Layers                            Alt+Y
+Markups                           Alt+L
+Thumbnails                        Alt+T
+3D Model Tree                     Alt+3
+Spaces                            Alt+S
+Signatures                        Alt+4
+Sets                              Alt+2
+Measurements                      Alt+U
+Properties                        Alt+P
+Tool Chest                        Alt+X
+File Access                       Alt+A
+Studio                            Alt+C
+Links                             Alt+N
+Editor                            Ctrl+Shift+F
+JavaScript                        Ctrl+Shift+J
+Forms                             Alt+Q
+OCR                               Ctrl+Shift+O
+Apply Redactions                  Shift+A
+Mark for Redaction                Shift+R

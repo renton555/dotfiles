@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BluebeamUserDefinedColumns>
+  <BSIColumnItem Index="0" Subtype="Number">
+    <Name>Is Width</Name>
+    <DisplayOrder>-1</DisplayOrder>
+    <DefaultValue>0</DefaultValue>
+    <Deleted>True</Deleted>
+    <Format>Normal</Format>
+    <Precision>0</Precision>
+    <Totals>False</Totals>
+    <Max>1</Max>
+  </BSIColumnItem>
+  <BSIColumnItem Index="1" Subtype="Number">
+    <Name>Is Count</Name>
+    <DisplayOrder>-1</DisplayOrder>
+    <DefaultValue>0</DefaultValue>
+    <Deleted>True</Deleted>
+    <Format>Normal</Format>
+    <Precision>0</Precision>
+    <Totals>False</Totals>
+    <Max>1</Max>
+  </BSIColumnItem>
+  <BSIColumnItem Index="2" Subtype="Number">
+    <Name>Is Measurement</Name>
+    <DisplayOrder>-1</DisplayOrder>
+    <DefaultValue>1</DefaultValue>
+    <Deleted>True</Deleted>
+    <Format>Normal</Format>
+    <Precision>0</Precision>
+    <Totals>False</Totals>
+    <Max>1</Max>
+  </BSIColumnItem>
+  <BSIColumnItem Index="3" Subtype="Formula">
+    <Name>Width Price</Name>
+    <DisplayOrder>-1</DisplayOrder>
+    <Deleted>True</Deleted>
+    <Format>Currency</Format>
+    <Currency>Dollar</Currency>
+    <Precision>2</Precision>
+    <Expression>[Is Width] * [Measurement Width] * [Unit Cost]</Expression>
+  </BSIColumnItem>
+  <BSIColumnItem Index="4" Subtype="Number">
+    <Name>Qty Added</Name>
+    <DisplayOrder>3</DisplayOrder>
+    <DefaultValue>0</DefaultValue>
+    <Deleted>False</Deleted>
+    <Format>Normal</Format>
+    <Precision>2</Precision>
+    <Totals>False</Totals>
+  </BSIColumnItem>
+  <BSIColumnItem Index="5" Subtype="Formula">
+    <Name>Measure Price</Name>
+    <DisplayOrder>-1</DisplayOrder>
+    <Deleted>True</Deleted>
+    <Format>Currency</Format>
+    <Currency>Dollar</Currency>
+    <Precision>2</Precision>
+    <Expression>[Is Measurement] * [Unit Cost] * [Measurement]</Expression>
+  </BSIColumnItem>
+  <BSIColumnItem Index="6" Subtype="Number">
+    <Name>Unit Cost</Name>
+    <DisplayOrder>1</DisplayOrder>
+    <DefaultValue>0</DefaultValue>
+    <Deleted>False</Deleted>
+    <Format>Currency</Format>
+    <Currency>Dollar</Currency>
+    <Precision>2</Precision>
+    <Totals>False</Totals>
+    <Min>0</Min>
+  </BSIColumnItem>
+  <BSIColumnItem Index="7" Subtype="Formula">
+    <Name>Subtotal</Name>
+    <DisplayOrder>-1</DisplayOrder>
+    <Deleted>True</Deleted>
+    <Format>Normal</Format>
+    <Precision>2</Precision>
+    <Expression>[Width Price] + [Measure Price] + [Count Price]</Expression>
+  </BSIColumnItem>
+  <BSIColumnItem Index="8" Subtype="Formula">
+    <Name>Test</Name>
+    <DisplayOrder>-1</DisplayOrder>
+    <Deleted>True</Deleted>
+    <Format>Normal</Format>
+    <Precision>2</Precision>
+    <Expression>[Depth] * [Measurement]</Expression>
+  </BSIColumnItem>
+  <BSIColumnItem Index="9" Subtype="Choice">
+    <Name>Cost Type</Name>
+    <DisplayOrder>0</DisplayOrder>
+    <DefaultValue>Cost x M</DefaultValue>
+    <Deleted>False</Deleted>
+    <Format>Normal</Format>
+    <Precision>0</Precision>
+    <Items>
+      <Item Index="0">
+        <Value>Cost x M</Value>
+        <Number>1</Number>
+      </Item>
+      <Item Index="1">
+        <Value>Cost x 1</Value>
+        <Number>2</Number>
+      </Item>
+      <Item Index="2">
+        <Value>Cost x M x D</Value>
+        <Number>3</Number>
+      </Item>
+    </Items>
+    <AllowCustom>False</AllowCustom>
+  </BSIColumnItem>
+  <BSIColumnItem Index="10" Subtype="Formula">
+    <Name>Subtotal 2</Name>
+    <DisplayOrder>-1</DisplayOrder>
+    <Deleted>True</Deleted>
+    <Format>Normal</Format>
+    <Precision>2</Precision>
+    <Expression>[Measurement] * ([Cost Type] - 1) * ([Cost Type] - 2) / 2 + [Count] * ([Cost Type] - 1) * ([Cost Type] - 3) + [Area] * ([Cost Type] - 2) * ([Cost Type] - 3) / 2</Expression>
+  </BSIColumnItem>
+  <BSIColumnItem Index="11" Subtype="Formula">
+    <Name>Price Total</Name>
+    <DisplayOrder>5</DisplayOrder>
+    <Deleted>False</Deleted>
+    <Format>Currency</Format>
+    <Currency>Dollar</Currency>
+    <Precision>2</Precision>
+    <Expression>[Unit Cost] * [Qty Total] * (100 + [Markup]) / 100</Expression>
+  </BSIColumnItem>
+  <BSIColumnItem Index="12" Subtype="Formula">
+    <Name>Qty Total</Name>
+    <DisplayOrder>4</DisplayOrder>
+    <Deleted>False</Deleted>
+    <Format>Normal</Format>
+    <Precision>2</Precision>
+    <Expression>[Qty Added] + [Measurement] * ([Cost Type] - 2) * ([Cost Type] - 3) / 2 - (([Cost Type] - 1) * ([Cost Type] - 3) * 1) + 1 / 12 * [Depth] * [Measurement] * ([Cost Type] - 1) * ([Cost Type] - 2) / 2</Expression>
+  </BSIColumnItem>
+  <BSIColumnItem Index="13" Subtype="Number">
+    <Name>Markup</Name>
+    <DisplayOrder>2</DisplayOrder>
+    <DefaultValue>0</DefaultValue>
+    <Deleted>False</Deleted>
+    <Format>Normal</Format>
+    <Precision>0</Precision>
+    <Totals>False</Totals>
+    <Min>-100</Min>
+  </BSIColumnItem>
+</BluebeamUserDefinedColumns>
