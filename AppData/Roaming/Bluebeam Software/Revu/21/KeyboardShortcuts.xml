@@ -185,7 +185,7 @@
     <Feature>View.Single</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>196684</Keys>
+    <Keys>196676</Keys>
     <Feature>View.InvertColors</Feature>
   </Shortcut>
   <Shortcut>
@@ -237,16 +237,16 @@
     <Feature>Zoom.Out</Feature>
   </Shortcut>
   <Shortcut>
+    <Keys>196691</Keys>
+    <Feature>Space.Highlight</Feature>
+  </Shortcut>
+  <Shortcut>
     <Keys>131187</Keys>
     <Feature>File.CloseDocument</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>131159</Keys>
     <Feature>File.CloseDocument</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>131150</Keys>
-    <Feature>File.CreatePDF</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>131153</Keys>
@@ -261,27 +261,11 @@
     <Feature>Document.CopyPageToSnapShot</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>327759</Keys>
-    <Feature>Document.CropPages</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>196676</Keys>
-    <Feature>Document.DeletePages</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>393284</Keys>
-    <Feature>Document.Deskew</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>131141</Keys>
-    <Feature>Document.Email</Feature>
-  </Shortcut>
-  <Shortcut>
     <Keys>196696</Keys>
     <Feature>Document.ExtractPages</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>196685</Keys>
+    <Keys>196678</Keys>
     <Feature>Document.Flatten</Feature>
   </Shortcut>
   <Shortcut>
@@ -289,24 +273,16 @@
     <Feature>Document.UnFlatten</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>393286</Keys>
-    <Feature>Document.FlattenAs</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>196686</Keys>
+    <Keys>131150</Keys>
     <Feature>Document.InsertBlankPage</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>196681</Keys>
-    <Feature>Document.InsertPages</Feature>
+    <Keys>196686</Keys>
+    <Feature>Document.New</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>131152</Keys>
     <Feature>Document.Print</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>131140</Keys>
-    <Feature>Document.Properties</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>196697</Keys>
@@ -339,10 +315,6 @@
   <Shortcut>
     <Keys>65649</Keys>
     <Feature>Document.SaveAll</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>196691</Keys>
-    <Feature>Document.SaveAs</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>393282</Keys>
@@ -445,24 +417,12 @@
     <Feature>Markup.Highlight</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>393267</Keys>
-    <Feature>Markup.3D</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>393315</Keys>
-    <Feature>Markup.3D</Feature>
+    <Keys>131144</Keys>
+    <Feature>Markup.Hyperlink</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>73</Keys>
     <Feature>Markup.Image</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>65609</Keys>
-    <Feature>Markup.ImageFromScanner</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>393289</Keys>
-    <Feature>Markup.ImageFromCamera</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>131186</Keys>
@@ -481,14 +441,6 @@
     <Feature>Markup.Pen</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>65616</Keys>
-    <Feature>Markup.Polygon</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>65614</Keys>
-    <Feature>Markup.Polyline</Feature>
-  </Shortcut>
-  <Shortcut>
     <Keys>393281</Keys>
     <Feature>Markup.Rebuild</Feature>
   </Shortcut>
@@ -503,10 +455,6 @@
   <Shortcut>
     <Keys>65621</Keys>
     <Feature>Markup.Squiggly</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>83</Keys>
-    <Feature>Markup.Stamp</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>84</Keys>
@@ -529,12 +477,16 @@
     <Feature>Markup.Underline</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>87</Keys>
-    <Feature>Markup.Typewriter</Feature>
+    <Keys>83</Keys>
+    <Feature>Space.Add</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>65619</Keys>
-    <Feature>Space.Add</Feature>
+    <Feature>Space.Edit</Feature>
+  </Shortcut>
+  <Shortcut>
+    <Keys>65616</Keys>
+    <Feature>Destination.Add</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>65613</Keys>
@@ -547,38 +499,6 @@
   <Shortcut>
     <Keys>68</Keys>
     <Feature>Measure.Length</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>327745</Keys>
-    <Feature>Measure.Area</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>327760</Keys>
-    <Feature>Measure.Perimeter</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>327761</Keys>
-    <Feature>Measure.Polylength</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>327748</Keys>
-    <Feature>Measure.Diameter</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>327751</Keys>
-    <Feature>Measure.Angle</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>327765</Keys>
-    <Feature>Measure.Radius</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>327766</Keys>
-    <Feature>Measure.Volume</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>327747</Keys>
-    <Feature>Measure.Count</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>74</Keys>
@@ -789,7 +709,7 @@
     <Feature>Presentation</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>65611</Keys>
+    <Keys>196799</Keys>
     <Feature>KeyboardShortcuts</Feature>
   </Shortcut>
   <Shortcut>
@@ -807,10 +727,6 @@
   <Shortcut>
     <Keys>65650</Keys>
     <Feature>Search.Previous</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>393306</Keys>
-    <Feature>Set.ArchivePackage</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>65657</Keys>
@@ -865,10 +781,6 @@
     <Feature>View.RotateCounterclockwise</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>65659</Keys>
-    <Feature>View.Balance</Feature>
-  </Shortcut>
-  <Shortcut>
     <Keys>196695</Keys>
     <Feature>View.CloseAll</Feature>
   </Shortcut>
@@ -889,15 +801,11 @@
     <Feature>View.DocumentPrevious</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>131122</Keys>
+    <Keys>262364</Keys>
     <Feature>View.Split</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>131170</Keys>
-    <Feature>View.Split</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>131144</Keys>
+    <Keys>262253</Keys>
     <Feature>View.SplitHorizontal</Feature>
   </Shortcut>
   <Shortcut>
@@ -1005,10 +913,6 @@
     <Feature>Tab.Hyperlinks</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>196678</Keys>
-    <Feature>Form.Editor</Feature>
-  </Shortcut>
-  <Shortcut>
     <Keys>196682</Keys>
     <Feature>GlobalScripts</Feature>
   </Shortcut>
@@ -1019,13 +923,5 @@
   <Shortcut>
     <Keys>196687</Keys>
     <Feature>Document.OCR</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>65601</Keys>
-    <Feature>Document.ApplyRedactions</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>65618</Keys>
-    <Feature>Markup.Redaction</Feature>
   </Shortcut>
 </KeyboardShortcuts>

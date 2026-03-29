@@ -153,6 +153,41 @@
         <Visible>True</Visible>
         <Added>True</Added>
       </Column>
+      <Column Key="UserDefined0">
+        <Width>66</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="UserDefined1">
+        <Width>66</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="UserDefined2">
+        <Width>66</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="UserDefined3">
+        <Width>66</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="UserDefined4">
+        <Width>66</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="UserDefined5">
+        <Width>66</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="UserDefined6">
+        <Width>66</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
       <Column Key="Depth">
         <Width>24</Width>
         <Visible>False</Visible>
@@ -392,7 +427,7 @@
   <Record Key="DockContainer">
     <DockRoot Name="Left">
       <Collapsed>False</Collapsed>
-      <Size>326</Size>
+      <Size>567</Size>
       <DockPanel>
         <Active>File Manager</Active>
         <DockTab Name="File Manager" />
@@ -406,8 +441,8 @@
       </DockPanel>
     </DockRoot>
     <DockRoot Name="Right">
-      <Collapsed>True</Collapsed>
-      <Size>325</Size>
+      <Collapsed>False</Collapsed>
+      <Size>801</Size>
       <DockPanel>
         <Active>Properties</Active>
         <DockTab Name="Properties" />
@@ -648,44 +683,107 @@
       </Items>
     </ToolStrip>
     <ToolStrip>
-      <Name>toolStripOrder</Name>
+      <Name>toolStripFont</Name>
       <X>0</X>
       <Y>0</Y>
       <Visible>False</Visible>
       <New>True</New>
       <Location>Top</Location>
       <Items>
-        <Item>Markup.BringToFront</Item>
-        <Item>Markup.SendToBack</Item>
-        <Item>Markup.BringForward</Item>
-        <Item>Markup.SendBackward</Item>
+        <Item>Combo.Font</Item>
+        <Item>Combo.FontSize</Item>
+        <Item />
+        <Item>DropDown.ColorText</Item>
+        <Item />
+        <Item>Button.Bold</Item>
+        <Item>Button.Italic</Item>
+        <Item>Button.Underline</Item>
+        <Item>Button.Strikethrough</Item>
+        <Item />
+        <Item>Button.TextAlignLeft</Item>
+        <Item>Button.TextAlignCenter</Item>
+        <Item>Button.TextAlignRight</Item>
+        <Item Visible="False" />
+        <Item Visible="False">Button.TextVAlignTop</Item>
+        <Item Visible="False">Button.TextVAlignMiddle</Item>
+        <Item Visible="False">Button.TextVAlignBottom</Item>
+        <Item Visible="False" />
+        <Item Visible="False">Button.Superscript</Item>
+        <Item Visible="False">Button.Subscript</Item>
       </Items>
     </ToolStrip>
     <ToolStrip>
-      <Name>toolStripDMS</Name>
+      <Name>toolStripAppearance</Name>
       <X>0</X>
       <Y>0</Y>
       <Visible>False</Visible>
       <New>True</New>
       <Location>Top</Location>
       <Items>
-        <Item>Combo.DMS</Item>
-        <Item>DMS.Login</Item>
-        <Item>DMS.Open</Item>
-        <Item>DMS.SaveAs</Item>
-        <Item>DMS.CheckIn</Item>
+        <Item>DropDown.ColorFill</Item>
+        <Item>DropDown.Opacity</Item>
+        <Item>DropDown.HatchPattern</Item>
       </Items>
     </ToolStrip>
     <ToolStrip>
-      <Name>toolStripDigitalSignature</Name>
+      <Name>toolStripPanZoom</Name>
       <X>0</X>
       <Y>0</Y>
       <Visible>False</Visible>
       <New>True</New>
       <Location>Top</Location>
       <Items>
-        <Item>Document.Sign</Item>
-        <Item>Markup.DigitalSignature</Item>
+        <Item>Select</Item>
+        <Item Visible="False">Edit.SelectText</Item>
+        <Item>Pan</Item>
+        <Item>Zoom</Item>
+        <Item>Measure.Tool</Item>
+        <Item Visible="False">Snapshot</Item>
+        <Item>Lasso</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripDocument</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.HeadersAndFooters</Item>
+        <Item>Document.CropPages</Item>
+        <Item>Document.Flatten</Item>
+        <Item>Edit.EraseContent</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripAdvancedText</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Edit.Text</Item>
+        <Item />
+        <Item>Markup.ReviewText</Item>
+        <Item />
+        <Item>Markup.Underline</Item>
+        <Item>Markup.Squiggly</Item>
+        <Item>Markup.Strikethrough</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripRedaction</Name>
+      <Module>Redaction</Module>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Markup.Redaction</Item>
+        <Item>Document.ApplyRedactions</Item>
       </Items>
     </ToolStrip>
     <ToolStrip>
@@ -717,6 +815,47 @@
       </Items>
     </ToolStrip>
     <ToolStrip>
+      <Name>toolStripDigitalSignature</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.Sign</Item>
+        <Item>Markup.DigitalSignature</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripDMS</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Combo.DMS</Item>
+        <Item>DMS.Login</Item>
+        <Item>DMS.Open</Item>
+        <Item>DMS.SaveAs</Item>
+        <Item>DMS.CheckIn</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripOrder</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Markup.BringToFront</Item>
+        <Item>Markup.SendToBack</Item>
+        <Item>Markup.BringForward</Item>
+        <Item>Markup.SendBackward</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
       <Name>toolStripStyles</Name>
       <X>0</X>
       <Y>0</Y>
@@ -728,110 +867,6 @@
         <Item>DropDown.LineStart</Item>
         <Item>DropDown.LineEnd</Item>
         <Item>DropDown.LineStyle</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripAdvancedText</Name>
-      <X>0</X>
-      <Y>0</Y>
-      <Visible>False</Visible>
-      <New>True</New>
-      <Location>Top</Location>
-      <Items>
-        <Item>Edit.Text</Item>
-        <Item />
-        <Item>Markup.ReviewText</Item>
-        <Item />
-        <Item>Markup.Underline</Item>
-        <Item>Markup.Squiggly</Item>
-        <Item>Markup.Strikethrough</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripDocument</Name>
-      <X>0</X>
-      <Y>0</Y>
-      <Visible>False</Visible>
-      <New>True</New>
-      <Location>Top</Location>
-      <Items>
-        <Item>Document.HeadersAndFooters</Item>
-        <Item>Document.CropPages</Item>
-        <Item>Document.Flatten</Item>
-        <Item>Edit.EraseContent</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripPanZoom</Name>
-      <X>0</X>
-      <Y>0</Y>
-      <Visible>False</Visible>
-      <New>True</New>
-      <Location>Top</Location>
-      <Items>
-        <Item>Select</Item>
-        <Item Visible="False">Edit.SelectText</Item>
-        <Item>Pan</Item>
-        <Item>Zoom</Item>
-        <Item>Measure.Tool</Item>
-        <Item Visible="False">Snapshot</Item>
-        <Item>Lasso</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripAppearance</Name>
-      <X>0</X>
-      <Y>0</Y>
-      <Visible>False</Visible>
-      <New>True</New>
-      <Location>Top</Location>
-      <Items>
-        <Item>DropDown.ColorFill</Item>
-        <Item>DropDown.Opacity</Item>
-        <Item>DropDown.HatchPattern</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripRedaction</Name>
-      <Module>Redaction</Module>
-      <X>0</X>
-      <Y>0</Y>
-      <Visible>False</Visible>
-      <New>True</New>
-      <Location>Top</Location>
-      <Items>
-        <Item>Markup.Redaction</Item>
-        <Item>Document.ApplyRedactions</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripFont</Name>
-      <X>0</X>
-      <Y>0</Y>
-      <Visible>False</Visible>
-      <New>True</New>
-      <Location>Top</Location>
-      <Items>
-        <Item>Combo.Font</Item>
-        <Item>Combo.FontSize</Item>
-        <Item />
-        <Item>DropDown.ColorText</Item>
-        <Item />
-        <Item>Button.Bold</Item>
-        <Item>Button.Italic</Item>
-        <Item>Button.Underline</Item>
-        <Item>Button.Strikethrough</Item>
-        <Item />
-        <Item>Button.TextAlignLeft</Item>
-        <Item>Button.TextAlignCenter</Item>
-        <Item>Button.TextAlignRight</Item>
-        <Item Visible="False" />
-        <Item Visible="False">Button.TextVAlignTop</Item>
-        <Item Visible="False">Button.TextVAlignMiddle</Item>
-        <Item Visible="False">Button.TextVAlignBottom</Item>
-        <Item Visible="False" />
-        <Item Visible="False">Button.Superscript</Item>
-        <Item Visible="False">Button.Subscript</Item>
       </Items>
     </ToolStrip>
     <ToolStrip>

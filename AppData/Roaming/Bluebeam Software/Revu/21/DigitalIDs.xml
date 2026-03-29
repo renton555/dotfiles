@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevuDigitalIDs Version="1">
+  <DigitalID Type="PFX">
+    <Thumbprint>277662D63501495ABF3AA90AD67929DB3CDBCB11</Thumbprint>
+    <ValidFrom>11/25/2025 12:49:44 PM</ValidFrom>
+    <ValidTo>11/25/2035 12:49:44 PM</ValidTo>
+    <Subject>C=US, E=thomas@haskelsearsdesign.com, O=Haskel Sears Design, OU=General Manager, CN=Thomas Luedke</Subject>
+    <Issuer>C=US, E=thomas@haskelsearsdesign.com, O=Haskel Sears Design, OU=General Manager, CN=Thomas Luedke</Issuer>
+    <Usage>Digital Signatures and Data Encryption</Usage>
+    <Appearance>
+      <Title>Standard Text</Title>
+      <Graphic>Name</Graphic>
+      <GraphicPosition>Left</GraphicPosition>
+      <Logo>True</Logo>
+      <Labels>True</Labels>
+      <AutoSize>True</AutoSize>
+      <FontSize>9</FontSize>
+      <Alignment>Left</Alignment>
+      <TextItem Key="Name" Show="True" Index="0" />
+      <TextItem Key="DistinguishedName" Show="True" Index="1" />
+      <TextItem Key="Location" Show="True" Index="2" />
+      <TextItem Key="Reason" Show="True" Index="3" />
+      <TextItem Key="ContactInfo" Show="True" Index="4" />
+      <TextItem Key="Date" Show="True" Index="5" />
+    </Appearance>
+    <Path>C:\Users\thoma\AppData\Roaming\Bluebeam Software\Revu\21\Thomas Luedke.pfx</Path>
+  </DigitalID>
+</RevuDigitalIDs>

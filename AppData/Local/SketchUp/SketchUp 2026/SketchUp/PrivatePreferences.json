@@ -1,0 +1,1258 @@
+{
+    "This Computer Only": {
+        "5D+ Auto Tag": {
+            "language": "\"en-US\"",
+            "last_save_path": "\"C:/Users/thoma/Documents\"",
+            "latestUrls": "{\"homepageEn\"=>\"https://5dplus.info\", \"homepageVi\"=>\"https://5dplus.info\", \"facebook\"=>\"https://www.facebook.com/5dplus.sketchup\", \"email\"=>\"support@5dplus.info\", \"store\"=>\"https://5dplus.info/store.html\", \"userOrders\"=>\"https://app.lemonsqueezy.com/my-orders\", \"samples\"=>\"https://5dplus.info/download/auto-tag/index.html\", \"userManualEn\"=>\"https://www.canva.com/design/DAG4s62wJZE/zG0WLLIMMtmRnUkGlAVR0A/view?embed\", \"userManualVi\"=>\"https://www.canva.com/design/DAG4s7c4HpM/2SStBz_DtsNS67Z2h_Rs0g/view?embed\", \"releaseNotesEn\"=>\"https://www.canva.com/design/DAG4ssZwGpE/UDzMFD-2GYONJzq5bjiYJA/view?embed\", \"releaseNotesVi\"=>\"https://www.canva.com/design/DAG4sl2L93Y/UUEnyoWrrhED2mt4cFVXWw/view?embed\", \"noticeEn\"=>\"https://www.canva.com/design/DAGV0C2fP-k/e4Vylg9VGgMXSTdAyu3VMQ/view?embed\", \"noticeVi\"=>\"https://www.canva.com/design/DAGV0C2fP-k/e4Vylg9VGgMXSTdAyu3VMQ/view?embed\"}",
+            "latestVersion": "\"2.5.3\"",
+            "newVersion": "false",
+            "settingsFolder": "\"C:/Users/thoma/AppData/Roaming\""
+        },
+        "5D+ Plus": {
+            "converted_2.1.0": "true",
+            "converted_2.1.4": "true",
+            "crs_folder": "\"C:/02-Dotfiles/01 Settings/02 Curic Section\"",
+            "deep_select_level": "0",
+            "draw_info": "false",
+            "grids_folder": "\"\"",
+            "grids_styles_folder": "\"style 1\"",
+            "info_box_fixed": "false",
+            "instance": "\"458e7a35-7e53-4177-af6c-3873e6fe200e\"",
+            "instance_date": "\"2026-03-27\"",
+            "labels_folder": "\"\"",
+            "labels_styles_folder": "\"style 1\"",
+            "language": "\"en-US\"",
+            "last_export_path": "\"C:/03-Temp/5D Settings2026-03-01/newer/even newer\"",
+            "last_import_path": "\"C:/03-Temp/5D Settings2026-03-01/newer/even newer\"",
+            "latestUrls": "{\"homepageEn\"=>\"https://5dplus.info\", \"homepageVi\"=>\"https://5dplus.info\", \"facebook\"=>\"https://www.facebook.com/5dplus.sketchup\", \"email\"=>\"support@5dplus.info\", \"store\"=>\"https://5dplus.info/store.html\", \"userOrders\"=>\"https://app.lemonsqueezy.com/my-orders\", \"samples\"=>\"https://5dplus.info/download/plus/index.html\", \"userManualEn\"=>\"https://www.dropbox.com/scl/fi/vyw8u73krqxshdb860t2g/5D-PLUS-USER-MANUAL-2.0.paper?rlkey=v3hi9fceo13d8hecesy41bwqc&st=0mwx4wau&dl=0\", \"userManualVi\"=>\"https://www.dropbox.com/scl/fi/04kfwykwqyzm0viryj0um/5D-PLUS-H-NG-D-N-S-D-NG-2.0.paper?rlkey=dmo9u2bqw8jl6o43cugvipfdt&st=3agrr36a&dl=0\", \"releaseNotesEn\"=>\"https://www.canva.com/design/DAG-OrOAsoo/XckzRMY4vkHMKACwhOkXCA/view?embed\", \"releaseNotesVi\"=>\"https://www.canva.com/design/DAG-OrOAsoo/XckzRMY4vkHMKACwhOkXCA/view?embed\", \"noticeEn\"=>\"https://www.canva.com/design/DAG5am8iYBo/mSs8TZaMv3PelfaYXHHy9A/view?embed\", \"noticeVi\"=>\"https://www.canva.com/design/DAG5am8iYBo/mSs8TZaMv3PelfaYXHHy9A/view?embed\", \"tutorialsEn\"=>{\"autoIfc\"=>\"https://www.youtube.com/embed/mC0PgYDbpdo?si=SpZyoLCHFqZL_ZeH\", \"clippingMask\"=>\"https://www.canva.com/design/DAHALTa0QbI/aRMo50LjRAWe6d6J3weR8Q/view?embed\", \"columnGrid\"=>\"https://www.canva.com/design/DAG_HSSwDJ0/LSnbp2-VKjLLXrTXuHisXw/view?embed\", \"detailScene\"=>\"https://www.canva.com/design/DAG_DoCbE40/U1OyEUQKVOV9WOiXUgBUkg/view?embed\", \"grids\"=>\"https://www.canva.com/design/DAG_t-Sjl90/vDcv7EfMYa5GbmimwQobnA/view?embed\", \"lessonStyles\"=>\"https://www.canva.com/design/DAG0d4tPYpQ/MFou2r2ehmu8DgMQKh2Clg/view?embed\", \"lessonTags\"=>\"https://www.canva.com/design/DAG0d6cO2K4/XDrxUXidBU_Z5ggoPUi5TQ/view?embed\", \"license\"=>\"https://www.youtube.com/embed/IZmxtP_u-gU?si=TXlDz3oOxGysuC-QF\", \"sectionLabel\"=>\"https://www.canva.com/design/DAG_EAjmi6c/1qjQYZs-mT8DGjN5vjbTXQ/view?embed\", \"selector\"=>\"https://www.youtube.com/embed/3lS4FvwqEVg?si=u-Pz4eHvVZkHpSJE\"}, \"tutorialsVi\"=>{\"autoIfc\"=>\"https://www.youtube.com/embed/mC0PgYDbpdo?si=SpZyoLCHFqZL_ZeH\", \"clippingMask\"=>\"https://www.canva.com/design/DAHALTa0QbI/aRMo50LjRAWe6d6J3weR8Q/view?embed\", \"columnGrid\"=>\"https://www.canva.com/design/DAG_HSSwDJ0/LSnbp2-VKjLLXrTXuHisXw/view?embed\", \"detailScene\"=>\"https://www.canva.com/design/DAG_DoCbE40/U1OyEUQKVOV9WOiXUgBUkg/view?embed\", \"grids\"=>\"https://www.canva.com/design/DAG_t-Sjl90/vDcv7EfMYa5GbmimwQobnA/view?embed\", \"lessonStyles\"=>\"https://www.canva.com/design/DAG0d7ub6UQ/vHnXgM73tYbFewtydbVhGw/view?embed\", \"lessonTags\"=>\"https://www.canva.com/design/DAG0d6RrpLk/xGXZXJ3BYRn9r22f5JPd_Q/view?embed\", \"license\"=>\"https://www.youtube.com/embed/IZmxtP_u-gU?si=TXlDz3oOxGysuC-QF\", \"sectionLabel\"=>\"https://www.canva.com/design/DAG_EAjmi6c/1qjQYZs-mT8DGjN5vjbTXQ/view?embed\", \"selector\"=>\"https://www.youtube.com/embed/3lS4FvwqEVg?si=u-Pz4eHvVZkHpSJE\"}}",
+            "latestVersion": "\"2.1.5\"",
+            "newVersion": "false",
+            "select_deepest": "false",
+            "show_classify": "false",
+            "show_visibility": "false",
+            "styles_folder": "\"C:/01-Local Work/02-SketchUp/07-Styles\"",
+            "tags_folder": "\"C:/02-Dotfiles/01 Settings/02 Curic Section\"",
+            "translated": "true"
+        },
+        "Application": {
+            "lastSeenMarketingNotificationId": 19,
+            "RunCounterSU": 132
+        },
+        "Common": {
+            "AcceptedTerms": true
+        },
+        "ComponentCreateDlg": {
+            "cx": 311,
+            "cy": 557,
+            "x": 1433,
+            "y": 395
+        },
+        "Curic Axes": {
+            "bottom_only": "false"
+        },
+        "Curic Scale++": {
+            "dim_text_size": "0",
+            "License Checked": "true"
+        },
+        "Curic Section View": {
+            "section_state": "\"ev_section\""
+        },
+        "Curic Single-Line Text": {
+            "License Checked": "true"
+        },
+        "Curic Studio": {
+            "License Checked": "true"
+        },
+        "Curic Text": {
+            "License Checked": "true"
+        },
+        "CURIC::MeasurePP": {
+            "1.0.2": "\"1772164593\""
+        },
+        "CURIC::ScalePlusPlus": {
+            "1.1.1": "\"1773681582\""
+        },
+        "CURIC::SingleText": {
+            "1.0.0": "\"1773681582\""
+        },
+        "CURIC::Studio": {
+            "1.2.0": "\"1773681582\""
+        },
+        "curic_behavior": {
+            "state": "0"
+        },
+        "curic_dio2": {
+            "multi_object": "false",
+            "object_mode": "0",
+            "radius": "41.71294568723089",
+            "solid_tool": "1"
+        },
+        "curic_lengthsnapping": {
+            "length": "0.125"
+        },
+        "curic_oi": {
+            "cut_mode": "2",
+            "distance_offset": "18.0",
+            "d_offset": "0.75",
+            "inside_face": "true",
+            "mode_offset": "0",
+            "show_distance_opposite": "true",
+            "show_vbo_loban": "false"
+        },
+        "ExtensionErrorsDialog": {
+            "Geometry": "01d9d0cb00030000000002c9000001d60000066b000003d3000002c9000001f40000066b000003d300000000000000000a00000002c9000001f40000066b000003d3"
+        },
+        "Extensions": {
+            "5D+ Auto Info1.6.1": 1,
+            "5D+ Auto Layout0.0.3": 1,
+            "5D+ Auto Measure1.2.5": 1,
+            "5D+ Auto Tag2.5.3": 1,
+            "5D+ Library1.4.1": 1,
+            "5D+ Plus2.1.5": 1,
+            "5D+ Snippet1.0.0": 0,
+            "5d_auto_info.rb": 1,
+            "5d_auto_layout.rb": 1,
+            "5d_auto_measure.rb": 1,
+            "5d_auto_tag.rb": 1,
+            "5d_library.rb": 1,
+            "5d_plus.rb": 1,
+            "5d_snippet.rb": 0,
+            "Add Location1.7.8": 0,
+            "Add Location1.8.2": 0,
+            "AI Assistant1.0.3": 0,
+            "AI Render1.2025.12.12": 0,
+            "AI Render1.2026.01.09": 0,
+            "Bevel1.1.0": 1,
+            "component_namer.rb": 1,
+            "Curic Align1.6.9 (♡ 10-2 ♡)": 1,
+            "Curic Axes1.5.0": 1,
+            "Curic Deep Properties1.0.0": 1,
+            "Curic DIO 21.3.0": 1,
+            "Curic Extend1.1.0": 0,
+            "Curic Hidden1.3.0": 0,
+            "Curic Length Snapping2.0.0": 1,
+            "Curic Line++1.0.2": 0,
+            "Curic Make2D1.4.1": 0,
+            "Curic Measure++1.0.2": 0,
+            "Curic Mirror2.0.2": 0,
+            "Curic OI2.2.0": 1,
+            "Curic Scale++1.1.1": 1,
+            "Curic Section View1.2.0": 1,
+            "Curic Section2.4.0": 1,
+            "Curic Single-Line Text1.0.0": 1,
+            "Curic Space1.1.2": 1,
+            "Curic Stretch1.3.0": 1,
+            "Curic Studio1.2.0": 1,
+            "Curic Text1.0.0-beta2": 0,
+            "curic_!studio.rb": 1,
+            "curic_align.rb": 1,
+            "curic_axes.rb": 1,
+            "curic_deep_properties.rb": 1,
+            "curic_dio2.rb": 1,
+            "curic_extend.rb": 0,
+            "curic_hidden.rb": 0,
+            "curic_lengthsnapping.rb": 1,
+            "curic_linepp.rb": 0,
+            "curic_make2d.rb": 0,
+            "curic_measure_pp.rb": 0,
+            "curic_mirror.rb": 0,
+            "curic_oi.rb": 1,
+            "curic_scale++.rb": 1,
+            "curic_section.rb": 1,
+            "curic_section_view.rb": 1,
+            "curic_single_text.rb": 1,
+            "curic_space.rb": 1,
+            "curic_stretch.rb": 1,
+            "curic_text.rb": 0,
+            "cutlist_prep.rb": 1,
+            "DM_Bevel.rb": 1,
+            "DM_ProfileBuilder4.rb": 1,
+            "Dynamic Components1.8.3": 1,
+            "Eneroth View Memory1.2.1": 1,
+            "ene_view_memory.rb": 1,
+            "f3d_flextools.rb": 1,
+            "Fbu Definitions Plus": 1,
+            "Fbu_Definitions_Plus.rb": 1,
+            "FlexTools2.17.0": 1,
+            "habitat_site_context.rb": 0,
+            "ladb_opencutlist.rb": 1,
+            "Lost & Found Hidden Windows1.0.0": 1,
+            "lost_and_found.rb": 1,
+            "Material Resizer": 1,
+            "MaterialResizer.rb": 1,
+            "Migrate Extensions1.0.1": 0,
+            "Mozaik.rbs": 1,
+            "OpenCutList8.0.0-dev": 1,
+            "Profile Builder 44.0.5": 1,
+            "Sandbox Tools2.3.5": 0,
+            "Solid Inspector²2.5.1": 1,
+            "su_assistant.rb": 0,
+            "su_diffusion.rb": 0,
+            "su_dynamiccomponents.rb": 1,
+            "su_extension_migrator.rb": 0,
+            "su_sandbox.rb": 0,
+            "tt_solid_inspector2.rb": 1
+        },
+        "F3dFlex": {
+            "opt_check_latest_versions__": "true",
+            "opt_component_finder__cid": "\"167472817418969589922909793416\"",
+            "opt_current_version__flextools_2": "\"2.17.0\"",
+            "opt_c__": "213",
+            "opt_latest_version__component_finder": "\"1.8.1\"",
+            "opt_latest_version__component_finder_pack": "\"1.8.1\"",
+            "opt_latest_version__flextools_2": "\"2.18.3\"",
+            "opt_latest_version__flip_door": "\"1.6.5\"",
+            "opt_locale__": "\"automatic\"",
+            "opt_show_getting_started_tooltips__": "false",
+            "opt_show_getting_started__": "false",
+            "opt_show_updates_available__": "false"
+        },
+        "File Locations": {
+            "Classifications": "C:\\Users\\thoma\\AppData\\Roaming\\SketchUp\\SketchUp 2026\\SketchUp\\Classifications\\",
+            "ComponentBrowser": "C:\\ProgramData\\SketchUp\\SketchUp 2026\\SketchUp\\Components\\",
+            "ComponentBrowser1": "C:\\ProgramData\\SketchUp\\SketchUp 2026\\SketchUp\\Components\\",
+            "ComponentBrowser2": "C:\\ProgramData\\SketchUp\\SketchUp 2026\\SketchUp\\Components\\",
+            "Components": "C:\\Users\\thoma\\AppData\\Roaming\\SketchUp\\SketchUp 2026\\SketchUp\\Components\\",
+            "Environments": "C:\\Users\\thoma\\AppData\\Roaming\\SketchUp\\SketchUp 2026\\SketchUp\\Environments\\",
+            "EnvironmentsBrowser": "C:\\ProgramData\\SketchUp\\SketchUp 2026\\SketchUp\\Environments\\",
+            "Images": "C:\\Users\\thoma\\OneDrive\\Documents\\",
+            "ImportExport": "C:\\Users\\thoma\\OneDrive\\Documents\\",
+            "Materials": "C:\\Users\\thoma\\AppData\\Roaming\\SketchUp\\SketchUp 2026\\SketchUp\\Materials\\",
+            "MaterialsBrowser": "C:\\ProgramData\\SketchUp\\SketchUp 2026\\SketchUp\\Materials\\Solid Colors\\",
+            "MaterialsBrowser2": "C:\\ProgramData\\SketchUp\\SketchUp 2026\\SketchUp\\Materials\\",
+            "Models": "C:\\Users\\thoma\\OneDrive\\Documents\\",
+            "Styles": "C:\\Users\\thoma\\AppData\\Roaming\\SketchUp\\SketchUp 2026\\SketchUp\\Styles\\",
+            "StylesBrowser": "C:\\ProgramData\\SketchUp\\SketchUp 2026\\SketchUp\\Styles\\",
+            "StylesBrowser2": "C:\\ProgramData\\SketchUp\\SketchUp 2026\\SketchUp\\Styles\\",
+            "Templates": "C:\\Users\\thoma\\AppData\\Roaming\\SketchUp\\SketchUp 2026\\SketchUp\\Templates\\",
+            "Textures": "C:\\Users\\thoma\\OneDrive\\Documents\\"
+        },
+        "ladb_opencutlist": {
+            "core.last_listed_news_timestamp": "1765383957493",
+            "core.muted_update_build": "\"202603071721\"",
+            "core.presets": "{\"tool_smart_draw_options\"=>{\"action_0\"=>{\"_default\"=>{\"shape_offset\"=>\"0\", \"construction\"=>false, \"rectangle_centered\"=>false, \"measure_from_vertex\"=>false, \"pull_centered\"=>false, \"ask_name\"=>false}}, \"action_2\"=>{\"_default\"=>{\"shape_offset\"=>\"0\", \"construction\"=>false, \"measure_from_vertex\"=>false, \"measure_reversed\"=>false, \"pull_centered\"=>false, \"ask_name\"=>true}}}, \"tool_smart_reshape_options\"=>{\"action_0\"=>{\"_default\"=>{\"stretch_measure_type\"=>\"offset\", \"axes\"=>\"entity\", \"centred\"=>false, \"make_unique\"=>false}}}, \"cutlist_options\"=>{\"0\"=>{\"HSD 2025\"=>{\"auto_orient\"=>false, \"flipped_detection\"=>false, \"smart_material\"=>false, \"dynamic_attributes_name\"=>true, \"part_number_with_letters\"=>false, \"part_number_sequence_by_group\"=>true, \"part_folding\"=>false, \"hide_entity_names\"=>false, \"hide_descriptions\"=>false, \"hide_tags\"=>false, \"hide_cutting_dimensions\"=>true, \"hide_bbox_dimensions\"=>false, \"hide_final_areas\"=>true, \"hide_edges\"=>false, \"hide_faces\"=>true, \"hide_material_colors\"=>false, \"minimize_on_highlight\"=>false, \"tags\"=>[\"\"], \"group_order_strategy\"=>\"material_type>material_name>-std_thickness>-std_width\", \"part_order_strategy\"=>\"-edge_pattern>-thickness>-width>-length>-count>name>tags>thickness_layer_count\", \"dimension_column_order_strategy\"=>\"thickness>width>length\"}, \"HSD 2026\"=>{\"auto_orient\"=>false, \"flipped_detection\"=>false, \"smart_material\"=>false, \"dynamic_attributes_name\"=>false, \"part_number_with_letters\"=>false, \"part_number_sequence_by_group\"=>true, \"part_folding\"=>true, \"hide_entity_names\"=>false, \"hide_descriptions\"=>false, \"hide_tags\"=>false, \"hide_cutting_dimensions\"=>false, \"hide_bbox_dimensions\"=>false, \"hide_final_areas\"=>true, \"hide_edges\"=>false, \"hide_faces\"=>true, \"hide_material_colors\"=>false, \"minimize_on_highlight\"=>false, \"tags\"=>[\"\"], \"group_order_strategy\"=>\"material_type>material_name>-std_thickness>-std_width\", \"part_order_strategy\"=>\"-edge_pattern>-thickness>-width>-length>-count>name>tags>thickness_layer_count\", \"dimension_column_order_strategy\"=>\"thickness>width>length\"}}}, \"materials_options\"=>{\"0\"=>{\"HSD Materials 2025\"=>{\"material_order_strategy\"=>\"type>name\"}}}, \"cutlist_labels_options\"=>{\"0\"=>{\"Testing 3x10\"=>{\"page_width\"=>\"8.5\\\"\", \"page_height\"=>\"11\\\"\", \"margin_top\"=>\"0.5\\\"\", \"margin_right\"=>\"0.1875\\\"\", \"margin_bottom\"=>\"0.5\\\"\", \"margin_left\"=>\"0.1875\\\"\", \"spacing_h\"=>\"0\", \"spacing_v\"=>\"0.125\\\"\", \"col_count\"=>3, \"row_count\"=>10, \"cutting_marks\"=>false, \"layout\"=>[{\"formula\"=>\"part.name\", \"x\"=>-0.47619047619047616, \"y\"=>-0.41666666666666663, \"rotation\"=>0, \"size\"=>\"2.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#0079bf\", \"custom_formula\"=>\"\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>-0.16666666666666666, \"rotation\"=>0, \"size\"=>\"1.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_width + \\\" x \\\" + @bbox_length\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>0.41666666666666663, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start\", \"color\"=>\"#0079bf\", \"custom_formula\"=>\"if @tags.length > 0\\nbadges = @tags.map { |word| word.upcase }\\n\\\"[\\\" + badges.join(\\\"]\\\\n[\\\")+\\\"]\\\"\\nend\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>0.08333333333333333, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_thickness + \\\" \\\" + @material_name[4..]\"}, {\"formula\"=>\"custom\", \"x\"=>0.47619047619047616, \"y\"=>0.3333333333333333, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Label\\\")\\nhpath.split(\\\" > \\\")[0...-1].map{ |item| \\\"\\#{item} →\\\"}.join(\\\"\\\\n\\\")\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>0.41666666666666663, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Label\\\")\\nhpath.split(\\\" > \\\").last.upcase\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>-0.41666666666666663, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"COMPONENT\\\"\"}], \"part_order_strategy\"=>\"number>name>entity_named_path>entity_name>bin\"}, \"Testing 2x4\"=>{\"page_width\"=>\"8.5\\\"\", \"page_height\"=>\"11\\\"\", \"margin_top\"=>\"0.5\\\"\", \"margin_right\"=>\"0.1875\\\"\", \"margin_bottom\"=>\"0.5\\\"\", \"margin_left\"=>\"0.1875\\\"\", \"spacing_h\"=>\"0\", \"spacing_v\"=>\"0.125\\\"\", \"col_count\"=>2, \"row_count\"=>4, \"cutting_marks\"=>false, \"layout\"=>[{\"formula\"=>\"part.name\", \"x\"=>-0.46875, \"y\"=>-0.16666666666666669, \"rotation\"=>0, \"size\"=>\"1.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.08333333333333334, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_width + \\\" x \\\" + @bbox_length\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#eb5a46\", \"custom_formula\"=>\"if @tags.length > 0\\nbadges = @tags.map { |word| word.upcase }\\n\\n\\\"[\\\" + badges.join(\\\"]\\\\n[\\\")+\\\"]\\\"\\nend\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"1.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#FF0000\", \"custom_formula\"=>\"@instance_name\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.16666666666666669, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_thickness+\\\" \\\" +@material_name[4..]\"}, {\"formula\"=>\"custom\", \"x\"=>0.46875, \"y\"=>0.33333333333333337, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Label\\\")\\nhpath.split(\\\" > \\\")[0...-1].map{ |item| \\\"\\#{item} →\\\"}.join(\\\"\\\\n\\\")\"}, {\"formula\"=>\"custom\", \"x\"=>0.4166666666666667, \"y\"=>0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Label\\\")\\nhpath.split(\\\" > \\\").last.upcase\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'ASSEMBLY'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.16666666666666669, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'COMPONENT'\"}], \"part_order_strategy\"=>\"number>name>entity_named_path>entity_name>bin\"}, \"Christiana 2x4\"=>{\"page_width\"=>\"8.5\\\"\", \"page_height\"=>\"11\\\"\", \"margin_top\"=>\"0.5\\\"\", \"margin_right\"=>\"0.1875\\\"\", \"margin_bottom\"=>\"0.5\\\"\", \"margin_left\"=>\"0.1875\\\"\", \"spacing_h\"=>\"0\", \"spacing_v\"=>\"0.125\\\"\", \"col_count\"=>2, \"row_count\"=>4, \"cutting_marks\"=>false, \"layout\"=>[{\"formula\"=>\"custom\", \"x\"=>0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"end-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Contents\\\")\\n\\n# 1. Split the string using a regex that ignores commas inside brackets.\\n# The split results are mapped and stripped of whitespace.\\nitems = hpath.split(/,(?![^\\\\[]*?\\\\])/).map(&:strip) \\n\\n# Initialize storage\\nno_brackets = []\\nbracket_groups = {} # Dictionary to store groups, key = content inside []\\n\\n# Changed variable name to lowercase\\nbracket_regex = /\\\\[(.*?)\\\\]/ \\n\\nitems.each do |item|\\n  # Attempt to match the bracket content\\n  match = item.match(bracket_regex)\\n\\n  if match\\n    # 1. Item contains brackets. Extract the content for the key.\\n    bracket_content = match[1].strip \\n    \\n    # 2. OMIT THE BRACKETED PART from the item string for cleaner output.\\n    # We replace the bracketed pattern with an empty string and strip any resulting whitespace.\\n    clean_item = item.gsub(bracket_regex, '').strip + \\\" ⬜\\\"\\n    \\n    # 3. Add the CLEAN item to the corresponding group.\\n    if bracket_groups.key?(bracket_content)\\n      bracket_groups[bracket_content] << clean_item\\n    else\\n      bracket_groups[bracket_content] = [clean_item]\\n    end\\n  else\\n    # 4. Item does not contain brackets.\\n    no_brackets << item+\\\" ⬜\\\"\\n  end\\nend\\n\\n# --- 5. Format and Join the Final Output ---\\n\\nfinal_output = []\\n\\n# A. List items without brackets first\\nfinal_output << @component_definition.name.upcase + \\\" ⬜\\\"\\n\\nfinal_output << no_brackets[1...].join(\\\"\\\\n \\\")\\n\\n# B. List items grouped by bracket content\\nbracket_groups.each do |content, items_list|\\n  # Create a distinct heading for the group\\n  final_output << \\\"------------------------------\\\\n[\\#{content}]\\\"\\n  # Join the cleaned items\\n  final_output << items_list.join(\\\"\\\\n\\\")\\nend\\n\\n# Return the result, joining the separate sections with newlines\\nfinal_output.join(\\\"\\\\n\\\")\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start-top\", \"color\"=>\"#FF0000\", \"custom_formula\"=>\"@component_instance\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_thickness+\\\" \\\" +@material_name[5..] \"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.16666666666666669, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Contents\\\")\\n\\n# 1. Split the string using a regex that ignores commas inside brackets.\\n# The split results are mapped and stripped of whitespace.\\nitems = @filename[0..-5] + \\\" - \\\" + hpath.split(/,(?![^\\\\[]*?\\\\])/).map(&:strip)[0]\\n\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'ASSEMBLY'\"}, {\"formula\"=>\"custom\", \"x\"=>0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'COMPONENTS'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.08333333333333334, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'MATERIAL/FINISH'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.25, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'WORK ORDER'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.16666666666666669, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'⬜ Fabrication ____________________________'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.25, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'⬜ Finishing ______________________________'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.33333333333333337, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'⬜ Installation _____________________________'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'⬜ Comments _____________________________'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.08333333333333334, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'QC AUDIT / NOTES'\"}], \"part_order_strategy\"=>\"name>number>entity_named_path>entity_name>bin\"}, \"Christiana 3/4 x 2 1/4\"=>{\"page_width\"=>\"8.5\\\"\", \"page_height\"=>\"11\\\"\", \"margin_top\"=>\"0.5\\\"\", \"margin_right\"=>\"0.1875\\\"\", \"margin_bottom\"=>\"0.5\\\"\", \"margin_left\"=>\"0.1875\\\"\", \"spacing_h\"=>\"0\", \"spacing_v\"=>\"0.125\\\"\", \"col_count\"=>3, \"row_count\"=>10, \"cutting_marks\"=>false, \"layout\"=>[{\"formula\"=>\"part.name\", \"x\"=>-0.47619047619047616, \"y\"=>-0.5, \"rotation\"=>0, \"size\"=>\"2.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#0079bf\", \"custom_formula\"=>\"\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>-0.16666666666666666, \"rotation\"=>0, \"size\"=>\"1.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_width + \\\" x \\\" + @bbox_length\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>0.08333333333333333, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start-top\", \"color\"=>\"#0079bf\", \"custom_formula\"=>\"if @tags.length > 0\\nbadges = @tags.map { |word| word.upcase }\\n\\\"[\\\" + badges.join(\\\"]\\\\n[\\\")+\\\"]\\\"\\nend\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>0.16666666666666666, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@component_instance\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>-0.25, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"DIMENSIONS\\\"\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>-0.08333333333333333, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\nitems = @filename[0..-5] + \\\" - \\\" + @path[1]\\n\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>-0.25, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"end-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"WORK ORDER\\\"\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>0, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"CATEGORY\\\"\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>0, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"end-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"ASSEMBLY / GROUP\\\"\"}], \"part_order_strategy\"=>\"name>number>entity_named_path>entity_name>bin\"}}}, \"tool_smart_handle_options\"=>{\"action_1\"=>{\"_default\"=>{\"copy_measure_type\"=>\"inside\", \"axes\"=>\"entity\", \"mirror\"=>false}}, \"action_2\"=>{\"_default\"=>{\"copy_measure_type\"=>\"outside\", \"axes\"=>\"context\", \"mirror\"=>true}}, \"action_3\"=>{\"_default\"=>{\"axes\"=>\"entity\"}}, \"action_4\"=>{\"_default\"=>{\"axes\"=>\"entity\"}}}, \"tool_smart_paint_options\"=>{\"action_1\"=>{\"_default\"=>{\"edges\"=>0}}, \"action_0\"=>{\"_default\"=>{\"instances\"=>0}}}, \"tool_smart_axes_options\"=>{\"action_0\"=>{\"_default\"=>{\"direction\"=>0}}}, \"cutlist_packing_options\"=>{\"0\"=>{\"Jeffstiana 2025\"=>{\"problem_type\"=>\"rectangleguillotine\", \"optimization_mode\"=>\"auto\", \"objective\"=>\"auto\", \"rectangleguillotine_cut_type\"=>\"exact\", \"rectangleguillotine_number_of_stages\"=>3, \"rectangleguillotine_first_stage_orientation\"=>\"vertical\", \"rectangleguillotine_keep_size\"=>\"\", \"irregular_allowed_rotations\"=>\"0\", \"irregular_allow_mirroring\"=>false, \"spacing\"=>\"1/8\\\"\", \"trimming\"=>\"1/4\\\"\", \"items_formula\"=>\"@number + \\\" - \\\" + @name\", \"origin_corner\"=>0, \"hide_part_list\"=>false, \"part_drawing_type\"=>1, \"colorization\"=>2, \"highlight_primary_cuts\"=>true, \"hide_edges_preview\"=>false, \"time_limit\"=>20, \"verbosity_level\"=>0}}}, \"cutlist_write2d_options\"=>{\"0\"=>{\"Ilya 2025\"=>{\"part_drawing_type\"=>\"1\", \"file_format\"=>\"dxf\", \"unit\"=>0, \"use_count\"=>true, \"anchor\"=>false, \"smoothing\"=>false, \"merge_holes\"=>false, \"merge_holes_overflow\"=>\"0\", \"include_paths\"=>false, \"parts_stroke_color\"=>nil, \"parts_fill_color\"=>\"#000000\", \"parts_holes_stroke_color\"=>\"#000000\", \"parts_holes_fill_color\"=>\"#FFFFFF\", \"parts_depths_stroke_color\"=>nil, \"parts_depths_fill_color\"=>nil, \"parts_paths_stroke_color\"=>\"#0068FF\", \"parts_paths_fill_color\"=>nil}}}, \"cutlist_export_options\"=>{\"0\"=>{\"Door Order\"=>{\"source\"=>1, \"format\"=>\"xlsx\", \"csv_col_sep\"=>2, \"csv_encoding\"=>0, \"source_col_defs\"=>[[{\"name\"=>\"material_type\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_std_dimension\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"part_count\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_volume\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_final_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}], [{\"name\"=>\"name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"bbox_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_length\", \"title\"=>\"Height\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"count\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"\", \"title\"=>\"Material/Finish\", \"formula\"=>\"@material_name[6..]\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}], [{\"name\"=>\"number\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"path\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"instance_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"cutting_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"cutting_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"cutting_thickness\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_thickness\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"final_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"material_type\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"tags\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"edge_ymin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_ymax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_xmin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_xmax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"face_zmax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"face_zmin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"layer\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}]]}, \"Drawer Order\"=>{\"source\"=>1, \"format\"=>\"xlsx\", \"csv_col_sep\"=>2, \"csv_encoding\"=>0, \"source_col_defs\"=>[[{\"name\"=>\"material_type\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_std_dimension\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"part_count\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_volume\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_final_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}], [{\"name\"=>\"name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"bbox_length\", \"title\"=>\"Width\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_width\", \"title\"=>\"Height\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_thickness\", \"title\"=>\"Depth\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"count\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"\", \"title\"=>\"Material\", \"formula\"=>\"@material_name[6..]\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}], [{\"name\"=>\"number\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"path\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"instance_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"cutting_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"cutting_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"cutting_thickness\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_thickness\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"final_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"material_type\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"tags\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"edge_ymin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_ymax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_xmin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_xmax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"face_zmax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"face_zmin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"layer\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}]]}}}}",
+            "settings.dialog_font_size": "1",
+            "settings.dialog_left": "1823",
+            "settings.dialog_maximized_height": "1417",
+            "settings.dialog_maximized_width": "2560",
+            "settings.dialog_print_margin": "1",
+            "settings.dialog_table_row_size": "1",
+            "settings.dialog_top": "1058",
+            "settings.language": "\"en\"",
+            "settings.smart_axes_last_action": "1",
+            "settings.smart_draw_last_action": "0",
+            "settings.smart_handle_last_action": "1",
+            "settings.smart_paint_last_action": "0",
+            "settings.smart_reshape_last_action": "1"
+        },
+        "Line++": {
+            "first_run": "false"
+        },
+        "MainFrame": {
+            "ResetImages": "26.1.189"
+        },
+        "MainWindow": {
+            "DockWidgetState": "7b0a2020202022616c6c446f636b57696467657473223a205b0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20312c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a202d312c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574220a20202020202020207d2c0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226c6f636174696f6e223a20322c0a2020202020202020202020202020202020202020202020202272656374223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a202020202020202020202020202020202020202020202020202020202278223a20323137362c0a202020202020202020202020202020202020202020202020202020202279223a202d310a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20322c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a20302c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f446f636b696e67547261795f313136220a20202020202020207d2c0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226c6f636174696f6e223a20332c0a2020202020202020202020202020202020202020202020202272656374223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203330302c0a202020202020202020202020202020202020202020202020202020202278223a2033302c0a202020202020202020202020202020202020202020202020202020202279223a202d310a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20302c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a20302c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f446f636b696e67547261795f313137220a20202020202020207d0a202020205d2c0a2020202022636c6f736564446f636b57696467657473223a205b0a202020205d2c0a2020202022666c6f6174696e6757696e646f7773223a205b0a202020205d2c0a20202020226d61696e57696e646f7773223a205b0a20202020202020207b0a20202020202020202020202022616666696e6974696573223a205b0a2020202020202020202020205d2c0a2020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a2037320a2020202020202020202020207d2c0a20202020202020202020202022697356697369626c65223a20747275652c0a202020202020202020202020226d756c746953706c69747465724c61796f7574223a207b0a20202020202020202020202020202020226672616d6573223a207b0a20202020202020202020202020202020202020202232223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a20313731332c0a202020202020202020202020202020202020202020202020202020202278223a203438382c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202232222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a2031300a20202020202020202020202020202020202020207d2c0a20202020202020202020202020202020202020202233223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f446f636b696e67547261795f313136220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a202020202020202020202020202020202020202020202020202020202278223a20323230362c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202233222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313136222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a20300a20202020202020202020202020202020202020207d2c0a20202020202020202020202020202020202020202234223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f446f636b696e67547261795f313137220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203438332c0a202020202020202020202020202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202234222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313137222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a20300a20202020202020202020202020202020202020207d0a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c61796f7574223a207b0a2020202020202020202020202020202020202020226368696c6472656e223a205b0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202234222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313137222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203438332c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a20302c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343239310a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203133340a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202232222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a20313731332c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a203438382c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343239310a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203139310a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202233222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313136222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a20323230362c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343239310a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203335340a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020226973436f6e7461696e6572223a20747275652c0a202020202020202020202020202020202020202022697356697369626c65223a2066616c73652c0a2020202020202020202020202020202020202020226f626a6563744e616d65223a2022222c0a2020202020202020202020202020202020202020226f7269656e746174696f6e223a20312c0a20202020202020202020202020202020202020202273697a696e67496e666f223a207b0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226d617853697a65223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a2031363737373231352c0a20202020202020202020202020202020202020202020202020202020227769647468223a2031363737373231350a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a20202020202020202020202020202020202020202020202020202020227769647468223a2038300a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020207d0a2020202020202020202020207d2c0a202020202020202020202020226e6f726d616c47656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20302c0a20202020202020202020202020202020227769647468223a20302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a20300a2020202020202020202020207d2c0a202020202020202020202020226f7074696f6e73223a2033372c0a2020202020202020202020202273637265656e496e646578223a20312c0a2020202020202020202020202273637265656e53697a65223a207b0a2020202020202020202020202020202022686569676874223a20313434302c0a20202020202020202020202020202020227769647468223a20323536300a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a2020202020202020202020202277696e646f775374617465223a20300a20202020202020207d0a202020205d2c0a202020202273637265656e496e666f223a205b0a20202020202020207b0a20202020202020202020202022646576696365506978656c526174696f223a20312c0a2020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20313434302c0a20202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a20300a2020202020202020202020207d2c0a20202020202020202020202022696e646578223a20302c0a202020202020202020202020226e616d65223a2022485020323768220a20202020202020207d2c0a20202020202020207b0a20202020202020202020202022646576696365506978656c526174696f223a20312c0a2020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20313434302c0a20202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202278223a20323536302c0a202020202020202020202020202020202279223a20310a2020202020202020202020207d2c0a20202020202020202020202022696e646578223a20312c0a202020202020202020202020226e616d65223a2022485020333220514844220a20202020202020207d0a202020205d2c0a202020202273657269616c697a6174696f6e56657273696f6e223a20330a7d0a",
+            "Geometry": "01d9d0cb0003000000000a00fffffff9000013ff000005a000000a630000004b000013fe0000059f00000001020000000a0000000a0000000018000013ff000005a0",
+            "ToolBarState": "00000001000000320000000600000003000000000000001a0054006f006f006c004200610072005f0030002f00310032003901000000000000000000000000000000002e0000001a0054006f006f006c004200610072005f0032002f00310030003301000000000000000000000000000000005c0000001e0054006f006f006c004200610072005f0030002f00320034003200320032010000000000000000000000000000000004000000000000001a0054006f006f006c004200610072005f0034002f00350030003201000000000000000000000000000000002e0000001e0054006f006f006c004200610072005f0031002f0032003400320031003201000000000000000000000000000000005c0000001a0054006f006f006c004200610072005f0030002f00330035003501000000000000000000000000000000008a0000001a0054006f006f006c004200610072005f0030002f003300360032010000000000000000000000000000000006000000000000001a0054006f006f006c004200610072005f0030002f00310033003701000000000000000000000000000000002e0000001a0054006f006f006c004200610072005f0030002f00350030003101000000000000000000000000000000005c0000001a0054006f006f006c004200610072005f0030002f00340039003901000000000000000000000000000000008a0000001a0054006f006f006c004200610072005f0030002f0034003700350100000000000000000000000000000000b80000001a0054006f006f006c004200610072005f0030002f0033003600300100000000000000000000000000000000e60000001a0054006f006f006c004200610072005f0030002f003400370037010000000000000000000000000000000008000000000000001e0054006f006f006c004200610072005f0030002f0032003100390039003200000000000000000000000000000000035a000000260054006f006f006c004200610072005f0035002f0046006c006500780054006f006f006c0073000000000000000000000000000100000008000004340000001a0054006f006f006c004200610072005f0030002f0033003600370100000000000000000000000000000004340000001a0054006f006f006c004200610072005f0030002f0033003600350100000000000000000000000000000004340000001a0054006f006f006c004200610072005f0030002f003900390038000000000000000000000000000000000508000000380054006f006f006c004200610072005f0035002f00440079006e0061006d0069006300200043006f006d0070006f006e0065006e0074007301010000009600000096000000010000000300000508000000360054006f006f006c004200610072005f0035002f00500072006f00660069006c00650020004200750069006c0064006500720020003400000000000000000000000000010000000f000006c20000002c0054006f006f006c004200610072005f0035002f002b0044006500660069006e006900740069006f006e00730000000000000000000000000001000000050000000a00000000000000280054006f006f006c004200610072005f0035002f00440049004f00320020005500740069006c007301000000000000000000000000010000000600000001000000320054006f006f006c004200610072005f0035002f00530074007200650074006300680020004f007000740069006f006e00730100000000000000000000000001000000060000008e0000002a0054006f006f006c004200610072005f0035002f00430075007200690063002000440049004f0020003200000000000000000000000000010000000c000001e8000000240054006f006f006c004200610072005f0035002f004300750072006900630020004f0049000000000000000000000000000100000003000002560000002e0054006f006f006c004200610072005f0035002f0043007500720069006300200053007400720065007400630068000000000000000000000000000100000003000002c4000000280054006f006f006c004200610072005f0035002f0043007500720069006300200041007800650073000000000000000000000000000100000001000002f20000002e0054006f006f006c004200610072005f0035002f004300750072006900630020005300630061006c0065002b002b000000000000000000000000000100000001000003200000002a0054006f006f006c004200610072005f0035002f004300750072006900630020005300700061006300650000000000000000000000000001000000010000034e0000002a0054006f006f006c004200610072005f0035002f0043007500720069006300200041006c00690067006e0000000000000000000000000001000000010000037c000000340054006f006f006c004200610072005f0035002f0053006f006c0069006400200049006e00730070006500630074006f007200b200000000000000000000000000010000000100000001000000000000003e0054006f006f006c004200610072005f0035002f004300750072006900630020004c0065006e00670074006800200053006e0061007000700069006e006701010000014b0000015e000000010000000d0000000100000001000000000000001a0054006f006f006c004200610072005f0030002f0032003100310100000000000000000000000000000000000000000200000010000000000000002e0054006f006f006c004200610072005f0035002f00430075007200690063002000530065006300740069006f006e0000000000000000000000000001000000100000018c000000380054006f006f006c004200610072005f0035002f00430075007200690063002000530065006300740069006f006e00200056006900650077000000000000000000000000000100000005000002220000003a0054006f006f006c004200610072005f0035002f004f00700065006e004300750074004c0069007300740020002d00200054006f006f006c0073000000000000000000000000000100000006000002f00000002a0054006f006f006c004200610072005f0035002f004f00700065006e004300750074004c0069007300740000000000000000000000000001000000010000031e000000240054006f006f006c004200610072005f0035002f00350044002b00200050006c00750073000000000000000000000000000100000004000003ac0000002e0054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f00200049006e0066006f000000000000000000000000000100000001000003da000000320054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020004c00610079006f0075007400000000000000000000000000010000000100000408000000340054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020004d006500610073007500720065000000000000000000000000000100000001000004360000002c0054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020005400610067000000000000000000000000000100000001000004640000002a0054006f006f006c004200610072005f0035002f00350044002b0020004c00690062007200610072007900000000000000000000000000010000000100000492000000520054006f006f006c004200610072005f0035002f004300750072006900630020004c0065006e00670074006800200053006e0061007000700069006e0067003a003a0049006d00700065007200690061006c000000000000000000000000000100000008000005a6000000400054006f006f006c004200610072005f0035002f00430075007200690063002000530069006e0067006c0065002d004c0069006e006500200054006500780074000000000000000000000000000100000001000005d4000000320054006f006f006c004200610072005f0035002f0043006f006d0070006f006e0065006e00740020004e0061006d00650072000000000000000000000000000100000001000006020000002c0054006f006f006c004200610072005f0035002f004300750074006c00690073007400200050007200650070000000000000000000000000000100000001000006300000003e0054006f006f006c004200610072005f0035002f0043007500720069006300200044006500650070002000500072006f00700065007200740069006500730000000000000000000000000001000000020000067e0000004a0054006f006f006c004200610072005f0035002f004c006f007300740020002600200046006f0075006e0064002000480069006400640065006e002000570069006e0064006f0077007300000000000000000000000000010000000100000001000000000000001a0054006f006f006c004200610072005f0033002f0032003200310100000000000000000000000000"
+        },
+        "Measure++": {
+            "first_run": "false"
+        },
+        "ModalEditMaterialDlg": {
+            "cx": 360,
+            "cy": 1083,
+            "show": false,
+            "x": 1155,
+            "y": 311
+        },
+        "ModelInfoDlg": {
+            "curPage": 1,
+            "cx": 498,
+            "cy": 433,
+            "show": false,
+            "x": 1351,
+            "y": 453
+        },
+        "OpenedTimeForLocalRecentFiles": {
+            "C:\\01-Local Work\\01-Projects\\810-Riverview\\810 Riverview_T.skp": 1772641446,
+            "C:\\Users\\thoma\\OneDrive\\Desktop\\tired.skp": 1772165105
+        },
+        "Overlays": {
+            "extension-5d.plus.classification": {
+                "enabled": true
+            },
+            "extension-5d.plus.visibility": {
+                "enabled": true
+            },
+            "extension-Curic Line++_overlay": {
+                "enabled": true
+            },
+            "extension-Curic Measure++_overlay": {
+                "enabled": true
+            },
+            "extension-Curic.ScalePlusPlus": {
+                "enabled": true
+            },
+            "extension-ladb_opencutlist.highlight_overlay": {
+                "enabled": true
+            }
+        },
+        "Preferences": {
+            "AAMethod": 4,
+            "BrowserHome": "",
+            "CountOfNewRenderersOnProbation": 0,
+            "DefaultTemplate26": "C:\\Program Files\\SketchUp\\SketchUp 2026\\SketchUp\\Resources\\en-US\\Templates\\Temp01a - Simple.skp",
+            "EnvironmentsBrowserImage": 4,
+            "EnvironmentsBrowserView": 0,
+            "GettingStartedSelectDropDown": false,
+            "LastUpdateCheck": 0.0,
+            "MaterialListCtrl": 1,
+            "MatPromoEnableMetalness": false,
+            "MatPromoEnableRoughness": false,
+            "MatPromoMetallicFactor": 0.10000000149011612,
+            "MatPromoRoughnessFactor": 0.5,
+            "NewModelCount": 10,
+            "OnlineTestURL": "",
+            "PurgeOnSave": 2,
+            "SelectedGPU": "SystemDefaultGPU",
+            "SignInPort": -1,
+            "SnapsDisplayMode": 2,
+            "TryNewRenderer": false,
+            "UseFastFeedback": true,
+            "UseMaxTextureSize": true,
+            "UseNewRenderer": false,
+            "ValidateGraphicsCardPrefs": true,
+            "WheelStyle": 0
+        },
+        "PrefsPS": {
+            "curPage": 0,
+            "cx": 750,
+            "cy": 550,
+            "x": 895,
+            "y": 392
+        },
+        "QtRubyWorkspace\\RubyToolBar-59648": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 37,
+            "X": 90,
+            "Y": 90
+        },
+        "QtRubyWorkspace\\RubyToolBar-59649": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 37,
+            "X": 110,
+            "Y": 110
+        },
+        "QtRubyWorkspace\\RubyToolBar-59650": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 37,
+            "X": 130,
+            "Y": 130
+        },
+        "QtRubyWorkspace\\RubyToolBar-59651": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 101,
+            "X": 150,
+            "Y": 150
+        },
+        "QtRubyWorkspace\\RubyToolBar-59652": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 235,
+            "X": 170,
+            "Y": 170
+        },
+        "QtRubyWorkspace\\RubyToolBar-59653": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 940,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59654": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 986,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59655": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 1032,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59656": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 1078,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59657": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 1124,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59658": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 142,
+            "X": 798,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59659": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 1440,
+            "Y": 1279
+        },
+        "QtRubyWorkspace\\RubyToolBar-59660": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 206,
+            "X": 442,
+            "Y": 72
+        },
+        "QtRubyWorkspace\\RubyToolBar-59661": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 708,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59662": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 868,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59663": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 800,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59664": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 346,
+            "X": 142,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59665": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 154,
+            "X": 0,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59666": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 113,
+            "X": 411,
+            "Y": 430
+        },
+        "QtRubyWorkspace\\RubyToolBar-59667": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 197,
+            "X": 431,
+            "Y": 450
+        },
+        "QtRubyWorkspace\\RubyToolBar-59668": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 69,
+            "X": 278,
+            "Y": 236
+        },
+        "QtRubyWorkspace\\RubyToolBar-59669": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 110,
+            "X": 488,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59670": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 396,
+            "X": 0,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59671": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 148,
+            "X": 396,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59672": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 110,
+            "X": 598,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59673": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 180,
+            "X": 1,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59674": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 752,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59675": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 206,
+            "X": 546,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59676": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 442,
+            "X": 1293,
+            "Y": 0
+        },
+        "QtRubyWorkspace\\RubyToolBar-59677": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 846,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59678": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 148,
+            "X": 1730,
+            "Y": 0
+        },
+        "QtRubyWorkspace\\RubyToolBar-59679": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 218,
+            "X": 858,
+            "Y": 0
+        },
+        "QtRubyWorkspace\\RubyToolBar-59680": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 1662,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59681": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 78,
+            "X": 1584,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59682": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 395,
+            "X": 331,
+            "Y": 350
+        },
+        "QtRubyWorkspace\\RubyToolBar-59683": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 270,
+            "X": 1170,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59684": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 914,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59685": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 730,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59686": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 754,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59687": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 37,
+            "X": 431,
+            "Y": 450
+        },
+        "QtRubyWorkspace\\RubyToolBar-59688": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 1446,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59689": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 1492,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59690": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 1538,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59691": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 442,
+            "X": 1288,
+            "Y": 0
+        },
+        "QtRubyWorkspace\\RubyToolBar-59692": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 892,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar0": {
+            "BarID": 59653,
+            "BarName": "5D+ Auto Info"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar1": {
+            "BarID": 59654,
+            "BarName": "5D+ Auto Layout"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar10": {
+            "BarID": 59661,
+            "BarName": "Curic Axes"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar11": {
+            "BarID": 59681,
+            "BarName": "Curic Deep Properties"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar12": {
+            "BarID": 59664,
+            "BarName": "Curic DIO 2"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar13": {
+            "BarID": 59665,
+            "BarName": "DIO2 Utils"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar14": {
+            "BarID": 59682,
+            "BarName": "Curic Length Snapping"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar15": {
+            "BarID": 59683,
+            "BarName": "Curic Length Snapping::Imperial"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar16": {
+            "BarID": 59669,
+            "BarName": "Curic OI"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar17": {
+            "BarID": 59686,
+            "BarName": "Curic Scale++"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar18": {
+            "BarID": 59670,
+            "BarName": "Curic Section"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar19": {
+            "BarID": 59671,
+            "BarName": "Curic Section View"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar2": {
+            "BarID": 59655,
+            "BarName": "5D+ Auto Measure"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar20": {
+            "BarID": 59651,
+            "BarName": "Dynamic Components"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar21": {
+            "BarID": 59688,
+            "BarName": "Curic Single-Line Text"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar22": {
+            "BarID": 59663,
+            "BarName": "Curic Space"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar23": {
+            "BarID": 59672,
+            "BarName": "Curic Stretch"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar24": {
+            "BarID": 59673,
+            "BarName": "Stretch Options"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar25": {
+            "BarID": 59690,
+            "BarName": "Cutlist Prep"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar26": {
+            "BarID": 59679,
+            "BarName": "FlexTools"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar27": {
+            "BarID": 59674,
+            "BarName": "OpenCutList"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar28": {
+            "BarID": 59675,
+            "BarName": "OpenCutList - Tools"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar29": {
+            "BarID": 59680,
+            "BarName": "Lost & Found Hidden Windows"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar3": {
+            "BarID": 59656,
+            "BarName": "5D+ Auto Tag"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar30": {
+            "BarID": 59692,
+            "BarName": "Solid Inspector²"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar31": {
+            "BarID": 59687,
+            "BarName": "Curic Text"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar32": {
+            "BarID": 59690,
+            "BarName": "Cutlist Prep"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar33": {
+            "BarID": 59679,
+            "BarName": "FlexTools"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar34": {
+            "BarID": 59674,
+            "BarName": "OpenCutList"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar35": {
+            "BarID": 59675,
+            "BarName": "OpenCutList - Tools"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar36": {
+            "BarID": 59680,
+            "BarName": "Lost & Found Hidden Windows"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar37": {
+            "BarID": 59675,
+            "BarName": "OpenCutList - Tools"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar38": {
+            "BarID": 59680,
+            "BarName": "Lost & Found Hidden Windows"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar39": {
+            "BarID": 59680,
+            "BarName": "Lost & Found Hidden Windows"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar4": {
+            "BarID": 59657,
+            "BarName": "5D+ Library"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar40": {
+            "BarID": 59649,
+            "BarName": "AI Assistant"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar41": {
+            "BarID": 59650,
+            "BarName": "AI Render"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar42": {
+            "BarID": 59652,
+            "BarName": "Sandbox"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar5": {
+            "BarID": 59658,
+            "BarName": "5D+ Plus"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar6": {
+            "BarID": 59691,
+            "BarName": "Profile Builder 4"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar7": {
+            "BarID": 59678,
+            "BarName": "+Definitions"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar8": {
+            "BarID": 59689,
+            "BarName": "Component Namer"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Bar9": {
+            "BarID": 59677,
+            "BarName": "Curic Align"
+        },
+        "QtRubyWorkspace\\ToolbarsUser-Summary": {
+            "Bars": 31
+        },
+        "RecentFiles": {
+            "LocalFiles": [
+                {
+                    "path": "C:\\01-Local Work\\01-Projects\\810-Riverview\\810 Riverview_T_hood.skp",
+                    "timestamp": 1774711739
+                },
+                {
+                    "path": "C:\\01-Local Work\\01-Projects\\810-Riverview\\810 Riverview_T.skp",
+                    "timestamp": 1774642121
+                },
+                {
+                    "path": "C:\\01-Local Work\\01-Projects\\26-006-Studio-1000-Scenic-Hwy\\Door and Shadow box.skp",
+                    "timestamp": 1774642086
+                },
+                {
+                    "path": "G:\\Shared drives\\Haskel Sears Design\\01-Leads\\26-007-Legacy-Box\\02-Takeoffs\\inspo for boothss\\2nd rest.skp",
+                    "timestamp": 1774557147
+                },
+                {
+                    "path": "G:\\Shared drives\\Haskel Sears Design\\99-Archive-Projects\\24\\2nd restaurant\\skp\\2nd 5.6.2024 updated column spacing.skp",
+                    "timestamp": 1774556175
+                },
+                {
+                    "path": "G:\\Shared drives\\Haskel Sears Design\\99-Archive-Projects\\24\\24-008-granny's\\shop drawings\\skp\\grannys 6.12.2024 (back bar updated).skp",
+                    "timestamp": 1774556015
+                },
+                {
+                    "path": "C:\\01-Local Work\\01-Projects\\26-006-Studio-1000-Scenic-Hwy\\New Model.skp",
+                    "timestamp": 1774555631
+                },
+                {
+                    "path": "C:\\01-Local Work\\01-Projects\\26-006-Studio-1000-Scenic-Hwy\\Studio 2026-03-23.skp",
+                    "timestamp": 1774440149
+                }
+            ]
+        },
+        "RecentTemplates": {
+            "count": 2,
+            "value0": "C:\\Program Files\\SketchUp\\SketchUp 2026\\SketchUp\\Resources\\en-US\\Templates\\Temp01a - Simple.skp",
+            "value1": "C:/Program Files/SketchUp/SketchUp 2026/SketchUp/Resources/en-US/Templates/Temp03a - Arch.skp"
+        },
+        "SectionToolDlg": {
+            "cx": 291,
+            "cy": 159,
+            "x": 1125,
+            "y": 588
+        },
+        "SkpTagSettings": {
+            "SortCol": 0,
+            "SortOrder": 0
+        },
+        "StatusBarState": {
+            "AttributionVisible": true,
+            "GeoLocationVisible": true,
+            "PromptVisible": true,
+            "VCBLabelVisible": true,
+            "VCBValueVisible": true
+        },
+        "ToolBarCustomize": {
+            "cx": 404,
+            "cy": 309,
+            "x": 1069,
+            "y": 608
+        },
+        "ToolbarSettings": {
+            "LargeIcons": true,
+            "ToolbarState": "ff0000010000000000000013000000000000008100000010005300740061006e00640061007200640000000f0000e100000000000000e101000000000000e1030000000000000000000000000000e123000000000000e122000000000000e125000000000000521d0000000000000000000000000000e12b000000000000e12c0000000000000000000000000000e1070000000000000000000000000000525400000000000000000000008900000012005000720069006e0063006900700061006c000000040000058f000000000000525b0000000000005252000000000000521b0000000000000000000001f50000000e00440072006100770069006e00670000000a0000521c000000000000522700000000000052660000000000005e9f00000000000052680000000000005267000000000000524d0000000000005249000000000000524f000000000000524e0000000000000000000001f3000000080045006400690074000000070000523800000000000052310000000000005289000000000000541500000000000052f40000000000005225000000000000526c0000000000000000000001db000000180043006f006e0073007400720075006300740069006f006e000000060000522000000000000053a20000000000005241000000000000539d000000000000528600000000000055b40000000000000000000003e6000000160053006f006c0069006400200054006f006f006c00730000000700005e8600000000000000000000000000005e880000000000005e890000000000005e8a0000000000005e8b0000000000005e8c0000000000000000000001dd0000000e00530065006300740069006f006e00000004000053590000000000005363000000000000536400000000000075370000000000000000000000d30000001c004c006100720067006500200054006f006f006c0020005300650074000000320000521e00000000000052230000000000005252000000000000521b000000000000525b00000000000052240000000000000000000000000000521c000000000000522700000000000052660000000000005e9f00000000000052680000000000005267000000000000524d0000000000005249000000000000524f000000000000524e0000000000000000000000000000523800000000000052310000000000005289000000000000541500000000000052f4000000000000526c000000000000528600000000000052250000000000000000000000000000522000000000000053a20000000000005241000000000000539d000000000000535900000000000055b40000000000000000000000000000290c000000000000291b000000000000290d000000000000291e000000000000291f0000000000002921000000000000000000000000000052b10000000000002918000000000000291d00000000000053f6000000000000000000000000000055e40000000000005e930000000000005a0c00000000000052c0000000000000000000005e9e0000001200570061007200650068006f00750073006500000007000055e400000000000055e50000000000005e7f00000000000000000000000000005e9300000000000000000000000000005ec10000000000000000000055e80000001e00470065007400740069006e0067002000530074006100720074006500640000001f00005fa80000000000000000000000000000058f0000000000000000000000000000521b000000000000058b0000000000000c7a000000000000058c00000000000000000000000000005231000000000000526c0000000000005238000000000000528900000000000052f400000000000052250000000000000000000000000000522000000000000052520000000000000000000000000000290c000000000000291b000000000000290d000000000000291f000000000000000000000000000055e40000000000005e930000000000005a0c000000000000000000000000000052c00000000000000000000000000000292c000000000000000100005e94000000080054006100670073000000010000528b0000000000000000000001630000000c005300740079006c006500730000000c000029110000000000000000000000000000297b000000000000000000000000000029680000000000000000000000000000290e000000000000290f00000000000029610000000000002910000000000000292b000000000000292d0000000000000000000001680000000c00430061006d006500720061000000090000290c000000000000291b000000000000290d000000000000291e000000000000291f000000000000292100000000000052b1000000000000291d000000000000291800000000000000000000016a0000000a00560069006500770073000000070000290b00000000000029050000000000002906000000000000290700000000000029080000000000002909000000000000290a0000000000000002000000670000000e0053006800610064006f007700730000000300002931000000000000298800000000000029890000000000000003000000dd00000018004d006500610073007500720065006d0065006e007400730000000200005e950000000000005e960000000000000004000001f6000000140043006c006100730073006900660069006500720000000200005e9b000000000000525300000000000000000000016d0000001e005400720069006d0062006c006500200043006f006e006e006500630074000000020000016e0000000000005a1400000000000000000000016f000000100041004900200054006f006f006c00730000000100005fcf00000000",
+            "ToolTipEnabled": true
+        },
+        "TPDT": {
+            "Data": "78 120 10 7 44 67 0 41 78 89 16 71 57 2 88 104 12 86 107 112 4 109 110 71 123 6 77 98 84 81 81 2 117 26 116 "
+        },
+        "WebCommonDialog_5d.auto_tag.custom_dialog": {
+            "Height": 565,
+            "Left": 4584,
+            "Top": 180,
+            "Width": 420
+        },
+        "WebCommonDialog_5d.auto_tag.main_dialog": {
+            "Height": 495,
+            "Left": 4129,
+            "Top": 174,
+            "Width": 290
+        },
+        "WebCommonDialog_5d.plus.custom_dialog": {
+            "Height": 711,
+            "Left": 3248,
+            "Top": 292,
+            "Width": 580
+        },
+        "WebCommonDialog_5d.plus.main_dialog": {
+            "Height": 753,
+            "Left": 611,
+            "Top": 291,
+            "Width": 290
+        },
+        "WebCommonDialog_5d.plus.scenes_dialog": {
+            "Height": 705,
+            "Left": 1886,
+            "Top": 267,
+            "Width": 290
+        },
+        "WebCommonDialog_5d.supporter": {
+            "Height": 1099,
+            "Left": 920,
+            "Top": 81,
+            "Width": 750
+        },
+        "WebCommonDialog_5d.supporter_video": {
+            "Height": 345,
+            "Left": 615,
+            "Top": 78,
+            "Width": 560
+        },
+        "WebCommonDialog_BlendtecWelcomeDialog": {
+            "Height": 670,
+            "Left": 4301,
+            "Top": 455,
+            "Width": 960
+        },
+        "WebCommonDialog_com.componentnamer.dialog": {
+            "Height": 1173,
+            "Left": 389,
+            "Top": 142,
+            "Width": 736
+        },
+        "WebCommonDialog_com.F3d_FlexTools.ComponentFinderDialog": {
+            "Height": 778,
+            "Left": 174,
+            "Top": 204,
+            "Width": 506
+        },
+        "WebCommonDialog_Controller.section.views": {
+            "Height": 473,
+            "Left": 3051,
+            "Top": 151,
+            "Width": 139
+        },
+        "WebCommonDialog_Curic Deep Properties.dialog.material": {
+            "Height": 590,
+            "Left": 509,
+            "Top": 199,
+            "Width": 390
+        },
+        "WebCommonDialog_curic.section.dialog.items": {
+            "Height": 530,
+            "Left": 1237,
+            "Top": 731,
+            "Width": 1000
+        },
+        "WebCommonDialog_curic.section.dialog.main": {
+            "Height": 500,
+            "Left": 615,
+            "Top": 761,
+            "Width": 290
+        },
+        "WebCommonDialog_curic.section.dialog.materials": {
+            "Height": 431,
+            "Left": 3169,
+            "Top": 289,
+            "Width": 300
+        },
+        "WebCommonDialog_ExtensionManager": {
+            "Height": 668,
+            "Left": 784,
+            "Top": 289,
+            "Width": 1000
+        },
+        "WebCommonDialog_ExtensionStore": {
+            "Height": 668,
+            "Left": 581,
+            "Top": 340,
+            "Width": 1006
+        },
+        "WebCommonDialog_fr.lairdubois.opencutlist": {
+            "Height": 1448,
+            "Left": 0,
+            "Top": -8,
+            "UseContentSize": true,
+            "Width": 2560
+        },
+        "WebCommonDialog_fr.lairdubois.opencutlist.modal": {
+            "Height": 730,
+            "Left": 1252,
+            "Top": 331,
+            "UseContentSize": false,
+            "Width": 700
+        },
+        "WebCommonDialog_PB4Dialog": {
+            "Height": 508,
+            "Left": 536,
+            "Top": 166,
+            "Width": 328
+        },
+        "WebCommonDialog_Warehouse": {
+            "Height": 1263,
+            "Left": 2559,
+            "Top": 23,
+            "Width": 1000
+        },
+        "WebDialog_Component Attributes": {
+            "Height": 752,
+            "Left": 18,
+            "Top": 629,
+            "Width": 569
+        },
+        "WebDialog_Component Options": {
+            "Height": 592,
+            "Left": 1028,
+            "Top": 276,
+            "Width": 570
+        },
+        "WebDialog_MaterialResizer": {
+            "Height": 700,
+            "Left": 0,
+            "Top": 0,
+            "Width": 450
+        },
+        "WelcomeDialog": {
+            "ShowOnStartup": false
+        },
+        "Workspace\\Trays": {
+            "Count": 2
+        },
+        "Workspace\\Trays\\Dialogs\\Components": {
+            "BottomHeight": 157,
+            "Expand": true,
+            "height": 347,
+            "Splitter": false,
+            "TopHeight": 157
+        },
+        "Workspace\\Trays\\Dialogs\\Entity Info": {
+            "Expand": false,
+            "ExpandIfHaveDetails": false,
+            "height": -1
+        },
+        "Workspace\\Trays\\Dialogs\\Environments": {
+            "BottomHeight": 157,
+            "height": 293,
+            "Splitter": false,
+            "TopHeight": 157
+        },
+        "Workspace\\Trays\\Dialogs\\Instructor": {
+            "Expand": true,
+            "height": 480
+        },
+        "Workspace\\Trays\\Dialogs\\Materials": {
+            "BottomHeight": 157,
+            "Expand": true,
+            "height": 471,
+            "Splitter": false,
+            "TopHeight": 236
+        },
+        "Workspace\\Trays\\Dialogs\\Outliner": {
+            "Expand": true,
+            "height": 816
+        },
+        "Workspace\\Trays\\Dialogs\\Scenes": {
+            "Expand": true,
+            "height": 587
+        },
+        "Workspace\\Trays\\Dialogs\\Shadows": {
+            "Expand": true,
+            "height": -1
+        },
+        "Workspace\\Trays\\Dialogs\\Styles": {
+            "BottomHeight": 157,
+            "Expand": true,
+            "height": 293,
+            "Splitter": false,
+            "TopHeight": 157
+        },
+        "Workspace\\Trays\\Dialogs\\Tags": {
+            "Expand": true,
+            "height": 102
+        },
+        "Workspace\\Trays\\Tray-0": {
+            "CurrentTab": true,
+            "Id": 116,
+            "InSideBar": false,
+            "Name": "",
+            "PaneCount": 7,
+            "Transient": false
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-0": {
+            "Expanded": false,
+            "Minimized": false,
+            "PaneId": 2
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-1": {
+            "Expanded": true,
+            "Minimized": false,
+            "PaneId": 7
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-2": {
+            "Expanded": true,
+            "Minimized": true,
+            "PaneId": 1
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-3": {
+            "Expanded": true,
+            "Minimized": true,
+            "PaneId": 12
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-4": {
+            "Expanded": true,
+            "Minimized": true,
+            "PaneId": 5
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-5": {
+            "Expanded": true,
+            "Minimized": false,
+            "PaneId": 9
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-6": {
+            "Expanded": true,
+            "Minimized": true,
+            "PaneId": 10
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-7": {
+            "Expanded": false,
+            "Minimized": true,
+            "PaneId": 9
+        },
+        "Workspace\\Trays\\Tray-0\\Pane-8": {
+            "Expanded": true,
+            "Minimized": true,
+            "PaneId": 4
+        },
+        "Workspace\\Trays\\Tray-1": {
+            "CurrentTab": true,
+            "Id": 117,
+            "InSideBar": false,
+            "Name": "Outliner",
+            "PaneCount": 1,
+            "Transient": false
+        },
+        "Workspace\\Trays\\Tray-1\\Pane-0": {
+            "Expanded": true,
+            "Minimized": false,
+            "PaneId": 8
+        }
+    }
+}

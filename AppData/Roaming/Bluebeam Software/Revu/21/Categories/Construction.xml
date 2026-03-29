@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?categories version="1"?>
+<AIA_x0020_Standards>
+  <Category>
+    <Discipline>General</Discipline>
+    <Abbrev>G</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Civil</Discipline>
+    <Abbrev>C</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Landscape</Discipline>
+    <Abbrev>L</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Structural</Discipline>
+    <Abbrev>S</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Architectural Demolition</Discipline>
+    <Abbrev>AD</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Architectural</Discipline>
+    <Abbrev>A</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Interiors</Discipline>
+    <Abbrev>I</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Plumbing</Discipline>
+    <Abbrev>P</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Mechanical</Discipline>
+    <Abbrev>M</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Fire Protection</Discipline>
+    <Abbrev>FP</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Electrical</Discipline>
+    <Abbrev>E</Abbrev>
+  </Category>
+  <Category>
+    <Discipline>Telecom</Discipline>
+    <Abbrev>T</Abbrev>
+  </Category>
+</AIA_x0020_Standards>

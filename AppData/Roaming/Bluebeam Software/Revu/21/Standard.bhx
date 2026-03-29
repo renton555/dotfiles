@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BluebeamRevuHatchSet Version="1">
+  <Title>789c0b2e49cc4b492c4a01000e330332</Title>
+  <Hatch Name="Brick">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Line" X1="-0.05555556" Y1="1" X2="1.055556" Y2="1" />
+    <Element Type="Line" X1="0.5" Y1="1" X2="0.5" Y2="0.5" />
+    <Element Type="Line" X1="-0.05555556" Y1="0.5" X2="1.055556" Y2="0.5" />
+    <Element Type="Line" X1="0" Y1="0.5" X2="0" Y2="0" />
+    <Element Type="Line" X1="-0.05555556" Y1="0" X2="1.055556" Y2="0" />
+    <Element Type="Line" X1="1" Y1="0" X2="1" Y2="0.5" />
+  </Hatch>
+  <Hatch Name="Diagonal Brick">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Line" X1="-0.05555556" Y1="-0.05555556" X2="1.055556" Y2="1.055556" />
+    <Element Type="Line" X1="0.5" Y1="0.5" X2="0" Y2="1" />
+    <Element Type="Line" X1="-0.05555556" Y1="0.9444444" X2="0.05555556" Y2="1.055556" />
+    <Element Type="Line" X1="0.9444444" Y1="-0.05555556" X2="1.055556" Y2="0.05555556" />
+  </Hatch>
+  <Hatch Name="Horizontal">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Line" X1="-0.05555556" Y1="0.75" X2="1.055556" Y2="0.75" />
+    <Element Type="Line" X1="-0.05555556" Y1="0.25" X2="1.055556" Y2="0.25" />
+  </Hatch>
+  <Hatch Name="Vertical">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Line" X1="0.25" Y1="1.055556" X2="0.25" Y2="-0.05555556" />
+    <Element Type="Line" X1="0.75" Y1="1.055556" X2="0.75" Y2="-0.05555556" />
+  </Hatch>
+  <Hatch Name="Diagonal Down">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Line" X1="-0.05555556" Y1="1.055556" X2="1.055556" Y2="-0.05555556" />
+    <Element Type="Line" X1="-0.05555556" Y1="0.05555556" X2="0.05555556" Y2="-0.05555556" />
+    <Element Type="Line" X1="0.9444444" Y1="1.055556" X2="1.055556" Y2="0.9444444" />
+  </Hatch>
+  <Hatch Name="Diagonal Up">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Line" X1="-0.05555556" Y1="0.9444444" X2="0.05555556" Y2="1.055556" />
+    <Element Type="Line" X1="-0.05555556" Y1="-0.05555556" X2="1.055556" Y2="1.055556" />
+    <Element Type="Line" X1="0.9444444" Y1="-0.05555556" X2="1.055556" Y2="0.05555556" />
+  </Hatch>
+  <Hatch Name="Grid">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Line" X1="0.25" Y1="1.055556" X2="0.25" Y2="-0.05555556" />
+    <Element Type="Line" X1="0.75" Y1="1.055556" X2="0.75" Y2="-0.05555556" />
+    <Element Type="Line" X1="-0.05555556" Y1="0.75" X2="1.055556" Y2="0.75" />
+    <Element Type="Line" X1="-0.05555556" Y1="0.25" X2="1.055556" Y2="0.25" />
+  </Hatch>
+  <Hatch Name="Weave">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Line" X1="-0.05555556" Y1="1.055556" X2="0.25" Y2="0.75" />
+    <Element Type="Line" X1="-0.05555556" Y1="0.4444444" X2="0.5555556" Y2="1.055556" />
+    <Element Type="Line" X1="0.4444444" Y1="1.055556" X2="1.055556" Y2="0.4444444" />
+    <Element Type="Line" X1="0.9444444" Y1="1.055556" X2="1.055556" Y2="0.9444444" />
+    <Element Type="Line" X1="-0.05555556" Y1="-0.05555556" X2="0.75" Y2="0.75" />
+    <Element Type="Line" X1="0.25" Y1="0.25" X2="0.5555556" Y2="-0.05555556" />
+    <Element Type="Line" X1="0.5" Y1="0.5" X2="1.055556" Y2="-0.05555556" />
+    <Element Type="Line" X1="1" Y1="0.5" X2="0.75" Y2="0.25" />
+  </Hatch>
+  <Hatch Name="10% Dots">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Dot" X="0" Y="0" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="1" Size="Small" />
+    <Element Type="Dot" X="1" Y="0" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="1" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.125" Y="0.125" Size="Small" />
+    <Element Type="Dot" X="0.125" Y="0.375" Size="Small" />
+    <Element Type="Dot" X="0.125" Y="0.625" Size="Small" />
+    <Element Type="Dot" X="0.125" Y="0.875" Size="Small" />
+    <Element Type="Dot" X="0.375" Y="0.125" Size="Small" />
+    <Element Type="Dot" X="0.375" Y="0.375" Size="Small" />
+    <Element Type="Dot" X="0.375" Y="0.625" Size="Small" />
+    <Element Type="Dot" X="0.375" Y="0.875" Size="Small" />
+    <Element Type="Dot" X="0.625" Y="0.125" Size="Small" />
+    <Element Type="Dot" X="0.625" Y="0.375" Size="Small" />
+    <Element Type="Dot" X="0.625" Y="0.625" Size="Small" />
+    <Element Type="Dot" X="0.625" Y="0.875" Size="Small" />
+    <Element Type="Dot" X="0.875" Y="0.125" Size="Small" />
+    <Element Type="Dot" X="0.875" Y="0.375" Size="Small" />
+    <Element Type="Dot" X="0.875" Y="0.625" Size="Small" />
+    <Element Type="Dot" X="0.875" Y="0.875" Size="Small" />
+  </Hatch>
+  <Hatch Name="20% Dots">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Dot" X="0" Y="0" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.1666667" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.3333333" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.6666667" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.8333334" Size="Small" />
+    <Element Type="Dot" X="0" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.1666667" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.1666667" Y="0.1666667" Size="Small" />
+    <Element Type="Dot" X="0.1666667" Y="0.3333333" Size="Small" />
+    <Element Type="Dot" X="0.1666667" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.1666667" Y="0.6666667" Size="Small" />
+    <Element Type="Dot" X="0.1666667" Y="0.8333334" Size="Small" />
+    <Element Type="Dot" X="0.1666667" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.3333333" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.3333333" Y="0.1666667" Size="Small" />
+    <Element Type="Dot" X="0.3333333" Y="0.3333333" Size="Small" />
+    <Element Type="Dot" X="0.3333333" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.3333333" Y="0.6666667" Size="Small" />
+    <Element Type="Dot" X="0.3333333" Y="0.8333334" Size="Small" />
+    <Element Type="Dot" X="0.3333333" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.1666667" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.3333333" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.6666667" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.8333334" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.6666667" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.6666667" Y="0.1666667" Size="Small" />
+    <Element Type="Dot" X="0.6666667" Y="0.3333333" Size="Small" />
+    <Element Type="Dot" X="0.6666667" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.6666667" Y="0.6666667" Size="Small" />
+    <Element Type="Dot" X="0.6666667" Y="0.8333334" Size="Small" />
+    <Element Type="Dot" X="0.6666667" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.8333334" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.8333334" Y="0.1666667" Size="Small" />
+    <Element Type="Dot" X="0.8333334" Y="0.3333333" Size="Small" />
+    <Element Type="Dot" X="0.8333334" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.8333334" Y="0.6666667" Size="Small" />
+    <Element Type="Dot" X="0.8333334" Y="0.8333334" Size="Small" />
+    <Element Type="Dot" X="0.8333334" Y="1" Size="Small" />
+    <Element Type="Dot" X="1" Y="0" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.1666667" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.3333333" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.6666667" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.8333334" Size="Small" />
+    <Element Type="Dot" X="1" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.08333334" Y="0.08333334" Size="Small" />
+    <Element Type="Dot" X="0.08333334" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.08333334" Y="0.4166667" Size="Small" />
+    <Element Type="Dot" X="0.08333334" Y="0.5833334" Size="Small" />
+    <Element Type="Dot" X="0.08333334" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.08333334" Y="0.9166667" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.08333334" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.4166667" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.5833334" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.25" Y="0.9166667" Size="Small" />
+    <Element Type="Dot" X="0.4166667" Y="0.08333334" Size="Small" />
+    <Element Type="Dot" X="0.4166667" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.4166667" Y="0.4166667" Size="Small" />
+    <Element Type="Dot" X="0.4166667" Y="0.5833334" Size="Small" />
+    <Element Type="Dot" X="0.4166667" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.4166667" Y="0.9166667" Size="Small" />
+    <Element Type="Dot" X="0.5833334" Y="0.08333334" Size="Small" />
+    <Element Type="Dot" X="0.5833334" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.5833334" Y="0.4166667" Size="Small" />
+    <Element Type="Dot" X="0.5833334" Y="0.5833334" Size="Small" />
+    <Element Type="Dot" X="0.5833334" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.5833334" Y="0.9166667" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.08333334" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.4166667" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.5833334" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.75" Y="0.9166667" Size="Small" />
+    <Element Type="Dot" X="0.9166667" Y="0.08333334" Size="Small" />
+    <Element Type="Dot" X="0.9166667" Y="0.25" Size="Small" />
+    <Element Type="Dot" X="0.9166667" Y="0.4166667" Size="Small" />
+    <Element Type="Dot" X="0.9166667" Y="0.5833334" Size="Small" />
+    <Element Type="Dot" X="0.9166667" Y="0.75" Size="Small" />
+    <Element Type="Dot" X="0.9166667" Y="0.9166667" Size="Small" />
+  </Hatch>
+  <Hatch Name="30% Dots">
+    <ScaleX>1</ScaleX>
+    <ScaleY>1</ScaleY>
+    <Size>QuarterInch</Size>
+    <LineWidth>1</LineWidth>
+    <Element Type="Dot" X="0" Y="0" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.1428571" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.2857143" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.4285715" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.5714286" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.7142857" Size="Small" />
+    <Element Type="Dot" X="0" Y="0.8571429" Size="Small" />
+    <Element Type="Dot" X="0" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.1428571" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.1428571" Y="0.1428571" Size="Small" />
+    <Element Type="Dot" X="0.1428571" Y="0.2857143" Size="Small" />
+    <Element Type="Dot" X="0.1428571" Y="0.4285715" Size="Small" />
+    <Element Type="Dot" X="0.1428571" Y="0.5714286" Size="Small" />
+    <Element Type="Dot" X="0.1428571" Y="0.7142857" Size="Small" />
+    <Element Type="Dot" X="0.1428571" Y="0.8571429" Size="Small" />
+    <Element Type="Dot" X="0.1428571" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.2857143" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.2857143" Y="0.1428571" Size="Small" />
+    <Element Type="Dot" X="0.2857143" Y="0.2857143" Size="Small" />
+    <Element Type="Dot" X="0.2857143" Y="0.4285715" Size="Small" />
+    <Element Type="Dot" X="0.2857143" Y="0.5714286" Size="Small" />
+    <Element Type="Dot" X="0.2857143" Y="0.7142857" Size="Small" />
+    <Element Type="Dot" X="0.2857143" Y="0.8571429" Size="Small" />
+    <Element Type="Dot" X="0.2857143" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.4285715" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.4285715" Y="0.1428571" Size="Small" />
+    <Element Type="Dot" X="0.4285715" Y="0.2857143" Size="Small" />
+    <Element Type="Dot" X="0.4285715" Y="0.4285715" Size="Small" />
+    <Element Type="Dot" X="0.4285715" Y="0.5714286" Size="Small" />
+    <Element Type="Dot" X="0.4285715" Y="0.7142857" Size="Small" />
+    <Element Type="Dot" X="0.4285715" Y="0.8571429" Size="Small" />
+    <Element Type="Dot" X="0.4285715" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.5714286" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.5714286" Y="0.1428571" Size="Small" />
+    <Element Type="Dot" X="0.5714286" Y="0.2857143" Size="Small" />
+    <Element Type="Dot" X="0.5714286" Y="0.4285715" Size="Small" />
+    <Element Type="Dot" X="0.5714286" Y="0.5714286" Size="Small" />
+    <Element Type="Dot" X="0.5714286" Y="0.7142857" Size="Small" />
+    <Element Type="Dot" X="0.5714286" Y="0.8571429" Size="Small" />
+    <Element Type="Dot" X="0.5714286" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.7142857" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.7142857" Y="0.1428571" Size="Small" />
+    <Element Type="Dot" X="0.7142857" Y="0.2857143" Size="Small" />
+    <Element Type="Dot" X="0.7142857" Y="0.4285715" Size="Small" />
+    <Element Type="Dot" X="0.7142857" Y="0.5714286" Size="Small" />
+    <Element Type="Dot" X="0.7142857" Y="0.7142857" Size="Small" />
+    <Element Type="Dot" X="0.7142857" Y="0.8571429" Size="Small" />
+    <Element Type="Dot" X="0.7142857" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.8571429" Y="0" Size="Small" />
+    <Element Type="Dot" X="0.8571429" Y="0.1428571" Size="Small" />
+    <Element Type="Dot" X="0.8571429" Y="0.2857143" Size="Small" />
+    <Element Type="Dot" X="0.8571429" Y="0.4285715" Size="Small" />
+    <Element Type="Dot" X="0.8571429" Y="0.5714286" Size="Small" />
+    <Element Type="Dot" X="0.8571429" Y="0.7142857" Size="Small" />
+    <Element Type="Dot" X="0.8571429" Y="0.8571429" Size="Small" />
+    <Element Type="Dot" X="0.8571429" Y="1" Size="Small" />
+    <Element Type="Dot" X="1" Y="0" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.1428571" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.2857143" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.4285715" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.5714286" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.7142857" Size="Small" />
+    <Element Type="Dot" X="1" Y="0.8571429" Size="Small" />
+    <Element Type="Dot" X="1" Y="1" Size="Small" />
+    <Element Type="Dot" X="0.07142857" Y="0.07142857" Size="Small" />
+    <Element Type="Dot" X="0.07142857" Y="0.2142857" Size="Small" />
+    <Element Type="Dot" X="0.07142857" Y="0.3571429" Size="Small" />
+    <Element Type="Dot" X="0.07142857" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.07142857" Y="0.6428572" Size="Small" />
+    <Element Type="Dot" X="0.07142857" Y="0.7857143" Size="Small" />
+    <Element Type="Dot" X="0.07142857" Y="0.9285715" Size="Small" />
+    <Element Type="Dot" X="0.2142857" Y="0.07142857" Size="Small" />
+    <Element Type="Dot" X="0.2142857" Y="0.2142857" Size="Small" />
+    <Element Type="Dot" X="0.2142857" Y="0.3571429" Size="Small" />
+    <Element Type="Dot" X="0.2142857" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.2142857" Y="0.6428572" Size="Small" />
+    <Element Type="Dot" X="0.2142857" Y="0.7857143" Size="Small" />
+    <Element Type="Dot" X="0.2142857" Y="0.9285715" Size="Small" />
+    <Element Type="Dot" X="0.3571429" Y="0.07142857" Size="Small" />
+    <Element Type="Dot" X="0.3571429" Y="0.2142857" Size="Small" />
+    <Element Type="Dot" X="0.3571429" Y="0.3571429" Size="Small" />
+    <Element Type="Dot" X="0.3571429" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.3571429" Y="0.6428572" Size="Small" />
+    <Element Type="Dot" X="0.3571429" Y="0.7857143" Size="Small" />
+    <Element Type="Dot" X="0.3571429" Y="0.9285715" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.07142857" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.2142857" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.3571429" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.6428572" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.7857143" Size="Small" />
+    <Element Type="Dot" X="0.5" Y="0.9285715" Size="Small" />
+    <Element Type="Dot" X="0.6428572" Y="0.07142857" Size="Small" />
+    <Element Type="Dot" X="0.6428572" Y="0.2142857" Size="Small" />
+    <Element Type="Dot" X="0.6428572" Y="0.3571429" Size="Small" />
+    <Element Type="Dot" X="0.6428572" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.6428572" Y="0.6428572" Size="Small" />
+    <Element Type="Dot" X="0.6428572" Y="0.7857143" Size="Small" />
+    <Element Type="Dot" X="0.6428572" Y="0.9285715" Size="Small" />
+    <Element Type="Dot" X="0.7857143" Y="0.07142857" Size="Small" />
+    <Element Type="Dot" X="0.7857143" Y="0.2142857" Size="Small" />
+    <Element Type="Dot" X="0.7857143" Y="0.3571429" Size="Small" />
+    <Element Type="Dot" X="0.7857143" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.7857143" Y="0.6428572" Size="Small" />
+    <Element Type="Dot" X="0.7857143" Y="0.7857143" Size="Small" />
+    <Element Type="Dot" X="0.7857143" Y="0.9285715" Size="Small" />
+    <Element Type="Dot" X="0.9285715" Y="0.07142857" Size="Small" />
+    <Element Type="Dot" X="0.9285715" Y="0.2142857" Size="Small" />
+    <Element Type="Dot" X="0.9285715" Y="0.3571429" Size="Small" />
+    <Element Type="Dot" X="0.9285715" Y="0.5" Size="Small" />
+    <Element Type="Dot" X="0.9285715" Y="0.6428572" Size="Small" />
+    <Element Type="Dot" X="0.9285715" Y="0.7857143" Size="Small" />
+    <Element Type="Dot" X="0.9285715" Y="0.9285715" Size="Small" />
+  </Hatch>
+</BluebeamRevuHatchSet>

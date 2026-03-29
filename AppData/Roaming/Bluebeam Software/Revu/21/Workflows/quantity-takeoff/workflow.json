@@ -1,0 +1,19 @@
+{
+  "Key": "TAKEOFF",
+  "Name": "Quantity Takeoff",
+  "StartPage": "quantity-takeoff.html",
+  "Profile": "Quantity Takeoff",
+  "OrderBy": 3,
+  "Version": "5.2",
+  "Icon": "QuantityTakeoffTutorialImage",
+  "Description": [
+		"This tutorial shows how Revu can be used to measure and count material quantities.", 
+		"    • Apply Area and Slope measurements ", 
+		"    • Apply Volume measurements", 
+		"    • Apply Length, Polylength, and Rise/Drop measurements",
+		"    • Create Count markups with customized appearance properties",
+		"    • Generate a Legend to summarize markup types and subtotals",
+		"    • Connect subtotals to a synchronized workbook in Excel using Quantity Link"
+  ],
+  "Image": "QuantityTakeoffImage"
+}

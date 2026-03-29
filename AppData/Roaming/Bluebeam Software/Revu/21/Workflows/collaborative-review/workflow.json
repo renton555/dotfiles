@@ -1,0 +1,19 @@
+{
+  "Key": "COLLAB",
+  "Name": "Collaborative Review",
+  "StartPage": "collaborative-review.html",
+  "Profile": "Revu",
+  "OrderBy": 4,
+  "Version": "5.4",
+  "Icon": "CollaborativeReviewTutorialImage",
+  "Description": [
+    "Studio Sessions let project teams review, annotate, modify and update the same files at the same time, allowing real-time collaboration for partners worldwide.", 
+	"This tutorial shows how Studio Sessions can be used to collaborate on documents in real time.", 
+	"    • Create a Studio account", 
+	"    • Start a Studio Session", 
+	"    • Invite collaborators to the Studio Session", 
+	"    • Use standardised markups per team", 
+	"    • Communicate using Status, Reply, and Notifications"
+  ],
+  "Image": "CollaborativeReviewImage"
+}

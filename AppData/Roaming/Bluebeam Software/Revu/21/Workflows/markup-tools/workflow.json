@@ -1,0 +1,19 @@
+{
+  "Key": "MARKUPS",
+  "Name": "Markup Tools",
+  "StartPage": "markup-tools.html",
+  "Profile": "Revu",
+  "OrderBy": 2,
+  "Version": "5.2",
+  "Icon": "MarkupsTutorialImage",
+  "Description": [
+		"This tutorial shows how Revu can be used to markup documents.", 
+		"    • Create custom Callout and Cloud markups", 
+		"    • Highlight text or locations on a drawing", 
+		"    • Use fillable form templates",
+		"    • Create custom Stamps",
+		"    • Add 360° photos",
+		"    • Apply calibrated markups to scale using Sketch Tools"
+  ],
+  "Image": "MarkupToolsImage"
+}

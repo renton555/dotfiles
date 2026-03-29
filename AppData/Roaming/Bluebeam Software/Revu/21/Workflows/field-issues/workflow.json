@@ -1,0 +1,17 @@
+{
+  "Key": "ISSUES",
+  "Name": "Field Issues",
+  "StartPage": "field-issues.html",
+  "Profile": "Field Issues",
+  "OrderBy": 7,
+  "Version": "5.2",
+  "Icon": "FieldIssuesTutorialImage",
+  "Description": [
+		"This tutorial shows how Revu can be used to manage issues from the field.", 
+		"    • Define areas on a plan to track issues by location", 
+		"    • Use pre-loaded tool sets to annotate issues", 
+		"    • Change, sort, and track issue status in the Markups List",
+		"    • Generate comprehensive summary reports with standardized templates"
+  ],
+  "Image": "FieldIssuesImage"
+}

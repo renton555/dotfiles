@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BluebeamRevuPageSet Version="1">
+  <PageSort>1</PageSort>
+  <PageShowSetting>0</PageShowSetting>
+  <PageSortType>3</PageSortType>
+  <AddendumKey><![CDATA[_Add. #;_Add.#;_Add._#;_Add._?;Add#;Add. #;Add.#;Add._#;Add._?;Add_#;Add_?;Addendum #;Addendum#;Addendum_#;Addendum_?;_Bulletin #;_Bulletin#;_Bulletin_#; Bulletin #; Bulletin#; Bulletin_#;_DR#;_Rev #;_Rev#;_Rev. #;_Rev.#;_Rev._#;_Rev._?;_Rev_#;Rev #;Rev ?;#-#-#;#/#/#; Rev#-#-#;_Rev#-#-#;Rev#-#-#;Rev#;Rev. # ;Rev.#;Rev._#;Rev._?;Rev?;Rev-?;Rev-#;Rev_#;Rev_?;_Revision #;_Revision#;_Revision_#;_Revision_?;Revision #;Revision ?; Revision#-#-#;_Revision#-#-#;Revision#-#-#;Revision#;Revision # ;Revision_?;Revision?;Revision-?;Revision-#;Revision_#;Revision_?]]></AddendumKey>
+  <WildcardFilter><![CDATA[]]></WildcardFilter>
+  <AddendumField>2</AddendumField>
+  <CategoryType>2</CategoryType>
+  <CategorizeBy>1</CategorizeBy>
+  <PreviousRevisionAction>0</PreviousRevisionAction>
+  <AddendumAction>0</AddendumAction>
+  <RevisionFilter>0</RevisionFilter>
+  <UseRelativePaths>1</UseRelativePaths>
+  <CopyMarkups>1</CopyMarkups>
+  <UnflattenMarkups>1</UnflattenMarkups>
+  <FlattenMarkups>0</FlattenMarkups>
+  <StampPrevious>1</StampPrevious>
+  <SortByTag>1</SortByTag>
+  <StackMultiPageDocs>0</StackMultiPageDocs>
+  <File>
+    <![CDATA[G0.00 - COVER SHEET.pdf]]>
+  <Category>General</Category><Page><Label>G0.00 - COVER SHEET</Label><Tags><Tag ID="IssueDate">07/15/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">COVER SHEET</Tag><Tag ID="SheetNumber">G0.00</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[G0.00 - COVER SHEET.pdf]]>
+  </File>
+  <File>
+    <![CDATA[G0.01 - ACCESSIBILITY DETAILS.pdf]]>
+  <Category>General</Category><Page><Label>G0.01 - ACCESSIBILITY DETAILS</Label><Tags><Tag ID="IssueDate">07/12/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">ACCESSIBILITY DETAILS</Tag><Tag ID="SheetNumber">G0.01</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[G0.01 - ACCESSIBILITY DETAILS.pdf]]>
+  </File>
+  <File>
+    <![CDATA[S2.02 - LEVEL 02 FRAMING PLAN.pdf]]>
+  <Category>Structural</Category><Page><Label>S2.02 - LEVEL 02 FRAMING PLAN</Label><Tags><Tag ID="IssueDate">10/04/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">LEVEL 02 FRAMING PLAN</Tag><Tag ID="SheetNumber">S2.02</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[S2.02 - LEVEL 02 FRAMING PLAN.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A1.01 - SITE PLAN.pdf]]>
+  <Category>Architectural</Category><Page><Label>A1.01 - SITE PLAN</Label><Tags><Tag ID="IssueDate">10/25/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">SITE PLAN</Tag><Tag ID="SheetNumber">A1.01</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A1.01 - SITE PLAN.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A2.2.1 - LEVEL 02 FLOOR PLAN.pdf]]>
+  <Category>Architectural</Category><Page><Label>A2.2.1 - LEVEL 02 FLOOR PLAN</Label><Tags><Tag ID="IssueDate">07/30/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">LEVEL 02 FLOOR PLAN</Tag><Tag ID="SheetNumber">A2.2.1</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A2.2.1 - LEVEL 02 FLOOR PLAN.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A2.2.1 - LEVEL 02 FLOOR PLAN_REV1.pdf]]>
+  <Category>Architectural</Category><Page><Label>A2.2.1 - LEVEL 02 FLOOR PLAN</Label><Tags><Tag ID="IssueDate">07/30/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">LEVEL 02 FLOOR PLAN</Tag><Tag ID="SheetNumber">A2.2.1</Tag><Tag ID="RevisionNumber">1</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A2.2.1 - LEVEL 02 FLOOR PLAN_REV1.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A2.2.2 - LEVEL 02 FINISH FLOOR PLAN.pdf]]>
+  <Category>Architectural</Category><Page><Label>A2.2.2 - LEVEL 02 FINISH FLOOR PLAN</Label><Tags><Tag ID="IssueDate">10/12/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">LEVEL 02 FINISH FLOOR PLAN</Tag><Tag ID="SheetNumber">A2.2.2</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A2.2.2 - LEVEL 02 FINISH FLOOR PLAN.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A2.2.3 - LEVEL 02 REFLECTED CEILING PLAN.pdf]]>
+  <Category>Architectural</Category><Page><Label>A2.2.3 - LEVEL 02 REFLECTED CEILING PLAN</Label><Tags><Tag ID="IssueDate">10/04/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">LEVEL 02 REFLECTED CEILING PLAN</Tag><Tag ID="SheetNumber">A2.2.3</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A2.2.3 - LEVEL 02 REFLECTED CEILING PLAN.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A2.2.3 - LEVEL 02 REFLECTED CEILING PLAN_REV1.pdf]]>
+  <Category>Architectural</Category><Page><Label>A2.2.3 - LEVEL 02 REFLECTED CEILING PLAN</Label><Tags><Tag ID="IssueDate">10/04/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">LEVEL 02 REFLECTED CEILING PLAN</Tag><Tag ID="SheetNumber">A2.2.3</Tag><Tag ID="RevisionNumber">1</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A2.2.3 - LEVEL 02 REFLECTED CEILING PLAN_REV1.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A2.6.1 - ROOF PLAN.pdf]]>
+  <Category>Architectural</Category><Page><Label>A2.6.1 - ROOF PLAN</Label><Tags><Tag ID="IssueDate">10/11/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">ROOF PLAN</Tag><Tag ID="SheetNumber">A2.6.1</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A2.6.1 - ROOF PLAN.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A6.01 - ENLARGED PLANS.pdf]]>
+  <Category>Architectural</Category><Page><Label>A6.01 - ENLARGED PLANS</Label><Tags><Tag ID="IssueDate">10/04/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">ENLARGED PLANS</Tag><Tag ID="SheetNumber">A6.01</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A6.01 - ENLARGED PLANS.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A6.02 - ENLARGED PLANS.pdf]]>
+  <Category>Architectural</Category><Page><Label>A6.02 - ENLARGED PLANS</Label><Tags><Tag ID="IssueDate">11/28/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">ENLARGED PLANS</Tag><Tag ID="SheetNumber">A6.02</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A6.02 - ENLARGED PLANS.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A7.01 - INTERIOR ELEVATIONS.pdf]]>
+  <Category>Architectural</Category><Page><Label>A7.01 - INTERIOR ELEVATIONS</Label><Tags><Tag ID="IssueDate">10/25/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">INTERIOR ELEVATIONS</Tag><Tag ID="SheetNumber">A7.01</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A7.01 - INTERIOR ELEVATIONS.pdf]]>
+  </File>
+  <File>
+    <![CDATA[A8.01 - DOOR SCHEDULE.pdf]]>
+  <Category>Architectural</Category><Page><Label>A8.01 - DOOR SCHEDULE</Label><Tags><Tag ID="IssueDate">07/30/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">DOOR SCHEDULE</Tag><Tag ID="SheetNumber">A8.01</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[A8.01 - DOOR SCHEDULE.pdf]]>
+  </File>
+  <File>
+    <![CDATA[P2.02 - PLUMBING - LEVEL 2.pdf]]>
+  <Category>Plumbing</Category><Page><Label>P2.02 - PLUMBING - LEVEL 2</Label><Tags><Tag ID="IssueDate">07/10/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">PLUMBING -LEVEL 2</Tag><Tag ID="SheetNumber">P2.02</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[P2.02 - PLUMBING - LEVEL 2.pdf]]>
+  </File>
+  <File>
+    <![CDATA[M2.02 - MECHANICAL LAYOUT - LEVEL 2.pdf]]>
+  <Category>Mechanical</Category><Page><Label>M2.02 - MECHANICAL LAYOUT - LEVEL 2</Label><Tags><Tag ID="IssueDate">10/04/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">MECHANICAL LAYOUT -LEVEL 2</Tag><Tag ID="SheetNumber">M2.02</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[M2.02 - MECHANICAL LAYOUT - LEVEL 2.pdf]]>
+  </File>
+  <File>
+    <![CDATA[E2.02 - ELECTRICAL PLAN - LEVEL 2.pdf]]>
+  <Category>Electrical</Category><Page><Label>E2.02 - ELECTRICAL PLAN - LEVEL 2</Label><Tags><Tag ID="IssueDate">07/10/2017</Tag><Tag Name="Designed By" Type="Text">Designer</Tag><Tag ID="DrawnBy">Author</Tag><Tag Name="Checked By" Type="Text">Checker</Tag><Tag Name="Approved By" Type="Text">Approver</Tag><Tag ID="SheetName">ELECTRICAL PLAN -LEVEL 2</Tag><Tag ID="SheetNumber">E2.02</Tag><Tag ID="RevisionNumber">0</Tag></Tags><Width>3024</Width><Height>2160</Height><Index>0</Index></Page>
+    <![CDATA[E2.02 - ELECTRICAL PLAN - LEVEL 2.pdf]]>
+  </File>
+  <CategoryState>
+    <Category>General</Category>
+    <IsCollapsed>0</IsCollapsed>
+  </CategoryState>
+  <CategoryState>
+    <Category>Architectural</Category>
+    <IsCollapsed>0</IsCollapsed>
+  </CategoryState>
+  <CategoryState>
+    <Category>Mechanical</Category>
+    <IsCollapsed>0</IsCollapsed>
+  </CategoryState>
+  <CategoryState>
+    <Category>Plumbing</Category>
+    <IsCollapsed>0</IsCollapsed>
+  </CategoryState>
+  <CategoryState>
+    <Category>Structural</Category>
+    <IsCollapsed>0</IsCollapsed>
+  </CategoryState>
+  <CategoryState>
+    <Category>Electrical</Category>
+    <IsCollapsed>0</IsCollapsed>
+  </CategoryState>
+  <Table>
+    <Category>
+      <Abbrev>General</Abbrev>
+      <Discipline>G</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Civil</Abbrev>
+      <Discipline>C</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Landscape</Abbrev>
+      <Discipline>L</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Structural</Abbrev>
+      <Discipline>S</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Architectural Demolition</Abbrev>
+      <Discipline>AD</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Architectural</Abbrev>
+      <Discipline>A</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Interiors</Abbrev>
+      <Discipline>I</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Plumbing</Abbrev>
+      <Discipline>P</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Mechanical</Abbrev>
+      <Discipline>M</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Fire Protection</Abbrev>
+      <Discipline>FP</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Electrical</Abbrev>
+      <Discipline>E</Discipline>
+    </Category>
+    <Category>
+      <Abbrev>Telecom</Abbrev>
+      <Discipline>T</Discipline>
+    </Category>
+  </Table>
+  <TagFields>
+    <TagExtractors>
+      <Extractor>SheetNumber-from-RevisionNumber</Extractor>
+    </TagExtractors>
+    <TagField>
+      <ID>SheetName</ID>
+      <ExtractWithAutomark>True</ExtractWithAutomark>
+      <Regions>
+        <Region>2728.625 147.7772 215.4453 55.54456 | 3024 2160</Region>
+      </Regions>
+    </TagField>
+    <TagField>
+      <ID>SheetNumber</ID>
+      <ExtractWithAutomark>True</ExtractWithAutomark>
+      <Regions>
+        <Region>2724.417 66.98535 217.1287 59.75244 | 3024 2160</Region>
+      </Regions>
+    </TagField>
+    <TagField>
+      <ID>RevisionNumber</ID>
+      <ExtractWithAutomark>False</ExtractWithAutomark>
+      <Regions />
+    </TagField>
+    <TagField>
+      <ID>IssueDate</ID>
+      <ExtractWithAutomark>False</ExtractWithAutomark>
+      <Regions />
+    </TagField>
+    <TagField>
+      <Name>Designed By</Name>
+      <Type>Text</Type>
+      <ExtractWithAutomark>False</ExtractWithAutomark>
+      <Regions />
+    </TagField>
+    <TagField>
+      <ID>DrawnBy</ID>
+      <ExtractWithAutomark>False</ExtractWithAutomark>
+      <Regions />
+    </TagField>
+    <TagField>
+      <Name>Checked By</Name>
+      <Type>Text</Type>
+      <ExtractWithAutomark>False</ExtractWithAutomark>
+      <Regions />
+    </TagField>
+    <TagField>
+      <Name>Approved By</Name>
+      <Type>Text</Type>
+      <ExtractWithAutomark>False</ExtractWithAutomark>
+      <Regions />
+    </TagField>
+  </TagFields>
+</BluebeamRevuPageSet>

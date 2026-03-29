@@ -1,0 +1,161 @@
+{
+  "AppConfigs": {
+    "TypeConfigs": {
+      "DirectoryOpus": {},
+      "WindowsExplorer": {},
+      "FileDialog": {},
+      "FolderDialog": {},
+      "Desktop": {},
+      "TotalCommander": {},
+      "FreeCommander": {},
+      "XYplorer": {},
+      "xplorer2": {},
+      "Bandizip": {},
+      "AutoCAD": {},
+      "Explzh": {},
+      "Files": {},
+      "OneCommander": {},
+      "WinRAR.ExtractDialog": {},
+      "WPS.FileDialog": {}
+    },
+    "PathConfigs": {}
+  },
+  "Menus": {
+    "Favorites": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "DiskSearch": {
+    "FolderPriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [
+        {
+          "Index": -1,
+          "Info": null,
+          "Item": {
+            "Folder": "G:\\Shared drives\\Haskel Sears Design\\Millwork Projects\\99 Archive",
+            "Priority": -1
+          }
+        }
+      ],
+      "Updates": []
+    },
+    "FileNamePriority": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "SearchFilter": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    },
+    "CustomFolders": [
+      {
+        "Path": "G:\\",
+        "UpdateType": 4,
+        "UpdateIntervalType": 1,
+        "UpdateInterval": 24,
+        "UpdateDayOfWeek": 0,
+        "UpdateTimeOfDay": null
+      },
+      {
+        "Path": "C:\\Users\\thoma\\iCloudDrive",
+        "UpdateType": 4,
+        "UpdateIntervalType": 1,
+        "UpdateInterval": 24,
+        "UpdateDayOfWeek": 0,
+        "UpdateTimeOfDay": null
+      },
+      {
+        "Path": "C:\\Users\\thoma\\iCloudPhotos\\Photos",
+        "UpdateType": 4,
+        "UpdateIntervalType": 1,
+        "UpdateInterval": 24,
+        "UpdateDayOfWeek": 0,
+        "UpdateTimeOfDay": null
+      }
+    ]
+  },
+  "FileSearchWindow": {
+    "Columns": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": [
+        {
+          "Id": "FileName",
+          "UpdatedProperties": {
+            "Width": 378
+          }
+        },
+        {
+          "Id": "Path",
+          "UpdatedProperties": {
+            "Width": 580
+          }
+        },
+        {
+          "Id": "DateModified",
+          "UpdatedProperties": {
+            "Width": 200
+          }
+        }
+      ]
+    },
+    "WindowWidth": 400,
+    "WindowHeight": 300,
+    "ShowPreview": true,
+    "PreviewWidth": 300,
+    "SideBarWidth": 225
+  },
+  "Commands": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "WebSearch": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "Actions": {
+    "Items": {
+      "Deletions": [],
+      "Moves": [],
+      "Insertions": [],
+      "Updates": []
+    }
+  },
+  "AutoUpdate": {
+    "BetaUpdates": true
+  },
+  "Settings": {
+    "General.EnableAnalytics": false,
+    "General.LauncherPositionX": 778,
+    "General.LauncherPositionY": 582,
+    "Tutorial.ShowMainV3": false,
+    "Appearance.Theme": 2,
+    "Listary5.SettingsImported": true,
+    "Listary5.ProLicense.Name": "thomas@haskelsearsdesign.com",
+    "Listary5.ProLicense.Email": "thomas@haskelsearsdesign.com",
+    "Listary5.ProLicense.Key": "3XY874GBZVWUQALYAB2WFY8Y2R9QJH64Q7VXCBS4CGMFFPWH96NMQXBGH5WABF9S2SV8Z5T32WJ6KQRH7BBJBVDGW6KK498C53QCRTZ7T376V8N2Y4H8HCRLBC5KXLY22QYNLZEKBFDM39PXCTJM3MPXLCB9EC2K27CNXRAEWSHBUTUFEAVS82RVFRE7F2J3"
+  },
+  "Extensions": {
+    "Extensions": {
+      "1a63ea9d-bf25-431f-96e3-17b80027efab": {}
+    }
+  }
+}

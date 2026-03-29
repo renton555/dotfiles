@@ -21,10 +21,10 @@
     </Columns>
   </Record>
   <Record Key="MarkupList">
-    <ActiveColumn>4</ActiveColumn>
+    <ActiveColumn>2</ActiveColumn>
     <Columns>
       <Column Key="Layer">
-        <Width>214</Width>
+        <Width>266</Width>
         <Visible>True</Visible>
         <Added>True</Added>
       </Column>
@@ -60,7 +60,7 @@
       </Column>
       <Column Key="Status">
         <Width>128</Width>
-        <Visible>False</Visible>
+        <Visible>True</Visible>
         <Added>True</Added>
       </Column>
       <Column Key="Measurement Width">
@@ -445,6 +445,31 @@
           </AndConditions>
         </ColFilter>
       </FilterSet>
+      <FilterSet Name="Takeoffs 2026" Version="1">
+        <ColFilter ColumnKey="Layer" ColumnLabel="Layer">
+          <AndConditions>
+            <AndCondition>
+              <FilterCondition Test="0" Type="0" Value="T - Blue" />
+              <FilterCondition Test="0" Type="0" Value="T - Brown" />
+              <FilterCondition Test="0" Type="0" Value="T - Burgundy" />
+              <FilterCondition Test="0" Type="0" Value="T - Dark Blue" />
+              <FilterCondition Test="0" Type="0" Value="T - Dark Green" />
+              <FilterCondition Test="0" Type="0" Value="T - Gray" />
+              <FilterCondition Test="0" Type="0" Value="T - Green" />
+              <FilterCondition Test="0" Type="0" Value="T - Orange" />
+              <FilterCondition Test="0" Type="0" Value="T - Pink" />
+              <FilterCondition Test="0" Type="0" Value="T - Purple" />
+            </AndCondition>
+          </AndConditions>
+        </ColFilter>
+        <ColFilter ColumnKey="Status" ColumnLabel="Status">
+          <AndConditions>
+            <AndCondition>
+              <FilterCondition Test="0" Type="0" Value="" />
+            </AndCondition>
+          </AndConditions>
+        </ColFilter>
+      </FilterSet>
     </FilterSets>
   </Record>
   <Record Key="Thumbnails">
@@ -602,24 +627,24 @@
   <Record Key="DockContainer">
     <DockRoot Name="Left">
       <Collapsed>False</Collapsed>
-      <Size>501</Size>
+      <Size>329</Size>
       <DockPanel>
-        <Active>Tool Chest</Active>
+        <Active>File Manager</Active>
         <DockTab Name="Tool Chest" />
         <DockTab Name="Thumbnails" />
-        <DockTab Name="Bookmarks" />
         <DockTab Name="Layers" />
         <DockTab Name="Spaces" />
         <DockTab Name="Search" />
+        <DockTab Name="Bookmarks" />
         <DockTab Name="File Manager" />
       </DockPanel>
     </DockRoot>
     <DockRoot Name="Right">
-      <Collapsed>False</Collapsed>
-      <Size>847</Size>
+      <Collapsed>True</Collapsed>
+      <Size>451</Size>
       <DockPanelSplitter>
-        <SplitDistance>654</SplitDistance>
-        <SplitRatio>0.4439918</SplitRatio>
+        <SplitDistance>160</SplitDistance>
+        <SplitRatio>0.1536984</SplitRatio>
         <SplitDirection>0</SplitDirection>
         <Panel1>
           <DockPanel>
@@ -638,7 +663,7 @@
     </DockRoot>
     <DockRoot Name="Bottom">
       <Collapsed>False</Collapsed>
-      <Size>478</Size>
+      <Size>302</Size>
       <DockPanel>
         <Active>Markups</Active>
         <DockTab Name="Markups" />
@@ -655,18 +680,20 @@
       <Hidden>False</Hidden>
       <Path>My Tools.btx</Path>
       <Title>My Tools</Title>
-      <Collapsed>True</Collapsed>
+      <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>True</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d22220ccc106247b3b657981144bbaa3af2303c3c67eee3f89ac403e67814764310303b7000833ae55de5b0a147ce0e9e21862e1bf760a2fef21030137f544a1090d2c2a0a8c9c1e0e4c30a6c58f13bbb7f8964747de7e3b493ff2fdf3afdb62ad3da4be5d3933f1e5b24d829f7fd637266bd4e81cf990782f9ef5cbbf15493af131aab54e45dd81ce6f593a1e6bbf7c52be46c0f48a9489d5cda5ecd39c1355149e4d8e4aed3999b438ed80ed9a1b895e1a199a79af8536b81d2f48fab1fbccda9fd58d8521ef26c54dba17dd28b3dfe4cccf1b5f99fedeb9f4f42873766f4d9ce1fb095f2dd9b769d539cf63bcbcf0684d52ef2343e60a0e879ef756bf9e98327a88377eb66ffcd564ca18b5ab64e2dd85f619df785f864ac6d902fdcae0e9eae7b2ce29a109007cb47d4b</Icon>
       <FromTopLevel>True</FromTopLevel>
     </ToolSet>
     <ToolSet Index="1">
       <Hidden>False</Hidden>
       <Path>Recent Tools</Path>
       <Title>Recents</Title>
-      <Collapsed>True</Collapsed>
+      <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d22220ccc106247b3b657981144bbaa3af2303c3c67eee3f89ac403e67814764310303b7000833ae55de5b0a14bce8e9e21862e1bf767223ef61030e166327f7931cb24b954b5a7a2e085a052dd5bb20b88bf16ae431251593839c974eb31dbe39edac82d2e199512c3d6a9dbda6f3ff8b57ac6c3d3fd5346946ff7ba65f3bb462369f8b75b133b54cbe1260cd2cf4a3ebc4d5f73b9caf04442f904a992e37a3f55086c319f5d45009e3e70bc40e18ebd8247a736cd916f787e386eedc94c62df3fe451ebbd665eb10f53e743fd7b18ef85b26dc32afd59799e6cada7dbcc8b4bdc766dd3703e984ed56ea763f85734e32376a6ee17eb17ecd85edfb8bdcbe057e0897575dfde1f61f861c23a128fd5fabe3809e63f074f57359e794d004003cde72a3</Icon>
       <FromTopLevel>True</FromTopLevel>
     </ToolSet>
     <ToolSet Index="2">
@@ -676,6 +703,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="3">
       <Hidden>False</Hidden>
@@ -684,6 +712,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="4">
       <Hidden>False</Hidden>
@@ -692,6 +721,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="5">
       <Hidden>False</Hidden>
@@ -700,22 +730,25 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="6">
       <Hidden>False</Hidden>
       <Path>T - Countertop.btx</Path>
       <Title>T - Countertop</Title>
-      <Collapsed>False</Collapsed>
+      <Collapsed>True</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="7">
       <Hidden>False</Hidden>
       <Path>T - Generic.btx</Path>
       <Title>T - Generic</Title>
-      <Collapsed>False</Collapsed>
+      <Collapsed>True</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="8">
       <Hidden>True</Hidden>
@@ -724,6 +757,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="9">
       <Hidden>True</Hidden>
@@ -732,6 +766,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="10">
       <Hidden>True</Hidden>
@@ -740,6 +775,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="11">
       <Hidden>True</Hidden>
@@ -748,6 +784,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="12">
       <Hidden>True</Hidden>
@@ -756,6 +793,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="13">
       <Hidden>True</Hidden>
@@ -764,6 +802,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="14">
       <Hidden>True</Hidden>
@@ -772,6 +811,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="15">
       <Hidden>True</Hidden>
@@ -780,6 +820,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="16">
       <Hidden>True</Hidden>
@@ -788,6 +829,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="17">
       <Hidden>True</Hidden>
@@ -796,6 +838,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="18">
       <Hidden>True</Hidden>
@@ -804,6 +847,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="19">
       <Hidden>True</Hidden>
@@ -812,6 +856,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="20">
       <Hidden>True</Hidden>
@@ -820,6 +865,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
     <ToolSet Index="21">
       <Hidden>True</Hidden>
@@ -828,15 +874,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
-    </ToolSet>
-    <ToolSet Index="22">
-      <Hidden>True</Hidden>
-      <Path>My Tools.btx</Path>
-      <Title>My Tools</Title>
-      <Collapsed>False</Collapsed>
-      <ViewSymbol>True</ViewSymbol>
-      <IsNumbered>False</IsNumbered>
-      <FromTopLevel>True</FromTopLevel>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181719ea78b634884fbdbe9ddbecc863c0ed64cca252c6e094024022621887971f8d1a9e7cfc5da9d7ddad5b27479d06dcfb8e2725dcbce132fe77176562bab68558a4dcc5fc95f25f9f8b9a69090e886807c13ef3617d65dc5f153b92f39eb1f8c88bfafa2c26553f2aeed6e69fc6d2033c231fef6a2f298cd0a25ba57acf55484d2052bb36b82aa9b4d23ba4df7ba877d387adec030a23af8c2a95a333b8ebd1bd8b253557395a3d77c9c3733233f22f871d5ce62de1a29fb0ab15d93ef4c9e3e47f715b3e1e34deb16de9f7e5dbf24faca87e6b4cd1f2274654eec7fb05684f5bdeabf750bee17c5eb7f5dfbf0f0f5cd4fd4387cd7c5bd8a3edcbe3efda4afc02cb583e7a5ff9beb7dfa76766253bfd2a7c97d6cdc9eb74ba62c3895a9a392fb58b0298ccff0f777d74b66e7c5be1471b4ce91350836e85862b3beca6569ddb6e634ce6ba72e9aff15323fd9286b6395376db6e60dd5e7acdf1745f33925b1ef7aaaa0c2f6798a8a058be969470f9e67a69d2f2c777b02650ce43ddbc255be6644abb22b1a4aecfd9f13029267e1144d62df79e7cee47df9932748707c8ffeeab7f623f7a45f2a4e9fbe3ffe088c3e064f573f97754e094d009c29cc9e</Icon>
     </ToolSet>
   </Record>
   <Record Key="HeaderFooter">
@@ -1129,9 +1167,92 @@
       </Items>
     </ToolStrip>
     <ToolStrip>
+      <Name>toolStripRotateDocument</Name>
+      <X>3</X>
+      <Y>46</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.RotateCounterclockwise</Item>
+        <Item>Document.RotateClockwise</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripEdit</Name>
+      <X>3</X>
+      <Y>46</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Edit.Undo</Item>
+        <Item>Edit.Redo</Item>
+        <Item>Edit.Cut</Item>
+        <Item>Edit.Copy</Item>
+        <Item>Edit.Paste</Item>
+        <Item>Markup.FormatPainter</Item>
+        <Item>Delete</Item>
+        <Item Visible="False">Document.Flatten</Item>
+        <Item Visible="False">Snapshot</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripAnnotation</Name>
+      <X>3</X>
+      <Y>46</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.Flatten</Item>
+        <Item>Edit.CutContent</Item>
+        <Item Visible="False">Edit.EraseContent</Item>
+        <Item>Space.Add</Item>
+        <Item>Markup.Hyperlink</Item>
+        <Item>Markup.FileAttachment</Item>
+        <Item>Markup.FormatPainter</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripPanZoom</Name>
+      <X>3</X>
+      <Y>46</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Select</Item>
+        <Item Visible="False">Edit.SelectText</Item>
+        <Item>Pan</Item>
+        <Item>Zoom</Item>
+        <Item>Measure.Tool</Item>
+        <Item Visible="False">Snapshot</Item>
+        <Item>Lasso</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripText</Name>
+      <X>3</X>
+      <Y>46</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Markup.TextBox</Item>
+        <Item Visible="False">Markup.Typewriter</Item>
+        <Item Visible="False" />
+        <Item Visible="False">Markup.Note</Item>
+        <Item Visible="False">Markup.Flag</Item>
+        <Item>Markup.Highlight</Item>
+        <Item>Markup.Pen</Item>
+        <Item Visible="False">Eraser</Item>
+        <Item>Markup.Cloud9</Item>
+        <Item>Markup.Cloud</Item>
+        <Item>Markup.Callout</Item>
+        <Item Visible="False">Markup.Image</Item>
+        <Item Visible="False">Snapshot</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
       <Name>toolStripLine</Name>
       <X>3</X>
-      <Y>18</Y>
+      <Y>46</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1158,92 +1279,22 @@
       </Items>
     </ToolStrip>
     <ToolStrip>
-      <Name>toolStripText</Name>
-      <X>3</X>
-      <Y>18</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
+      <Name>toolStripOrder</Name>
+      <X>0</X>
+      <Y>122</Y>
+      <Visible>True</Visible>
+      <Location>Right</Location>
       <Items>
-        <Item>Markup.TextBox</Item>
-        <Item Visible="False">Markup.Typewriter</Item>
-        <Item Visible="False" />
-        <Item Visible="False">Markup.Note</Item>
-        <Item Visible="False">Markup.Flag</Item>
-        <Item>Markup.Highlight</Item>
-        <Item>Markup.Pen</Item>
-        <Item Visible="False">Eraser</Item>
-        <Item>Markup.Cloud9</Item>
-        <Item>Markup.Cloud</Item>
-        <Item>Markup.Callout</Item>
-        <Item Visible="False">Markup.Image</Item>
-        <Item Visible="False">Snapshot</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripPanZoom</Name>
-      <X>3</X>
-      <Y>18</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Select</Item>
-        <Item Visible="False">Edit.SelectText</Item>
-        <Item>Pan</Item>
-        <Item>Zoom</Item>
-        <Item>Measure.Tool</Item>
-        <Item Visible="False">Snapshot</Item>
-        <Item>Lasso</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripAnnotation</Name>
-      <X>3</X>
-      <Y>18</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Document.Flatten</Item>
-        <Item>Edit.CutContent</Item>
-        <Item Visible="False">Edit.EraseContent</Item>
-        <Item>Space.Add</Item>
-        <Item>Markup.Hyperlink</Item>
-        <Item>Markup.FileAttachment</Item>
-        <Item>Markup.FormatPainter</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripEdit</Name>
-      <X>3</X>
-      <Y>18</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Edit.Undo</Item>
-        <Item>Edit.Redo</Item>
-        <Item>Edit.Cut</Item>
-        <Item>Edit.Copy</Item>
-        <Item>Edit.Paste</Item>
-        <Item>Markup.FormatPainter</Item>
-        <Item>Delete</Item>
-        <Item Visible="False">Document.Flatten</Item>
-        <Item Visible="False">Snapshot</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripRotateDocument</Name>
-      <X>3</X>
-      <Y>18</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Document.RotateCounterclockwise</Item>
-        <Item>Document.RotateClockwise</Item>
+        <Item>Markup.BringToFront</Item>
+        <Item>Markup.SendToBack</Item>
+        <Item Visible="False">Markup.BringForward</Item>
+        <Item Visible="False">Markup.SendBackward</Item>
       </Items>
     </ToolStrip>
     <ToolStrip>
       <Name>toolStripAdvancedText</Name>
       <X>3</X>
-      <Y>94</Y>
+      <Y>137</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1259,7 +1310,7 @@
     <ToolStrip>
       <Name>toolStripControlPoint</Name>
       <X>3</X>
-      <Y>94</Y>
+      <Y>137</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1271,7 +1322,7 @@
     <ToolStrip>
       <Name>Links</Name>
       <X>3</X>
-      <Y>94</Y>
+      <Y>137</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1281,22 +1332,9 @@
       </Items>
     </ToolStrip>
     <ToolStrip>
-      <Name>toolStripOrder</Name>
-      <X>0</X>
-      <Y>170</Y>
-      <Visible>True</Visible>
-      <Location>Right</Location>
-      <Items>
-        <Item>Markup.BringToFront</Item>
-        <Item>Markup.SendToBack</Item>
-        <Item Visible="False">Markup.BringForward</Item>
-        <Item Visible="False">Markup.SendBackward</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
       <Name>toolStripAlignment</Name>
       <X>0</X>
-      <Y>285</Y>
+      <Y>205</Y>
       <Visible>True</Visible>
       <Location>Right</Location>
       <Items>
@@ -1323,7 +1361,7 @@
     <ToolStrip>
       <Name>toolStripSketch</Name>
       <X>0</X>
-      <Y>1024</Y>
+      <Y>720</Y>
       <Visible>True</Visible>
       <Location>Right</Location>
       <Items>
@@ -1336,7 +1374,7 @@
     <ToolStrip>
       <Name>toolStripMeasure</Name>
       <X>0</X>
-      <Y>1243</Y>
+      <Y>875</Y>
       <Visible>True</Visible>
       <Location>Right</Location>
       <Items>
@@ -1361,7 +1399,7 @@
     <ToolStrip>
       <Name>toolStripFile</Name>
       <X>3</X>
-      <Y>1407</Y>
+      <Y>1053</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1477,7 +1515,7 @@
     <Module Name="BookmarksManager" />
     <Module Name="BatchSlipSheet" />
     <Version>1.6</Version>
-    <Scale>1.5</Scale>
+    <Scale>1</Scale>
     <Lock>False</Lock>
     <MenuBar>
       <Visible>True</Visible>

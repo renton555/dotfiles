@@ -1,0 +1,19 @@
+{
+  "Key": "BBCLOUD",
+  "Name": "NEW: Bluebeam Cloud​",
+  "StartPage": "https://app.bluebeam.com/",
+  "Profile": "Revu",
+  "OrderBy": 1,
+  "Version": "5.1",
+  "Icon": "BbCloudTutorialImage",
+  "Description": [
+		"Web and mobile solutions included with your subscription​","",
+		"Bluebeam Cloud is a suite of easy-to-use solutions that seamlessly connect with Revu 21 and enable you to easily markup, collaborate and manage workflows on the go.","",
+		"With Bluebeam Cloud, you can:​", 
+		" • Gain flexibility by accessing your existing markups, Tool Chest and Studio Project documents from Revu​", 
+		" • Streamline communication by commenting and collaborating on documents with your team in real-time​", 
+		" • Save time by managing punch, RFI and submittal workflows on the go​",
+		" • Better visualize and connect project data with geolocational insights​"
+  ],
+  "Image": ""
+}

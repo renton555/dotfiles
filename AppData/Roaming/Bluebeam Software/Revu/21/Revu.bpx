@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevuProfile Version="1" Name="Revu">
+  <Record Key="MarkupList">
+    <ActiveColumn>0</ActiveColumn>
+    <Columns>
+      <Column Key="Subject">
+        <Width>202</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Page">
+        <Width>92</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Comments">
+        <Width>218</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Page Index">
+        <Width>98</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Lock">
+        <Width>77</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Checkmark">
+        <Width>85</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Author">
+        <Width>95</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Date">
+        <Width>126</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Creation Date">
+        <Width>160</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="X">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Y">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Width">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Height">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Length">
+        <Width>80</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Area">
+        <Width>80</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Wall Area">
+        <Width>80</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Volume">
+        <Width>80</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Count">
+        <Width>80</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Measurement">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Label">
+        <Width>80</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Sequence">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Capture">
+        <Width>100</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Depth">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Status">
+        <Width>124</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Color">
+        <Width>80</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Layer">
+        <Width>120</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Legend">
+        <Width>120</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Measurement Height">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Measurement Width">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="RiseDrop">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Slope">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Space">
+        <Width>100</Width>
+        <Visible>True</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="Units">
+        <Width>50</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+      <Column Key="View3D">
+        <Width>100</Width>
+        <Visible>False</Visible>
+        <Added>True</Added>
+      </Column>
+    </Columns>
+    <DisplayOrder>
+      <Column Key="Subject" />
+      <Column Key="Page" />
+      <Column Key="Comments" />
+      <Column Key="Page Index" />
+      <Column Key="Lock" />
+      <Column Key="Checkmark" />
+      <Column Key="Author" />
+      <Column Key="Date" />
+      <Column Key="Creation Date" />
+      <Column Key="X" />
+      <Column Key="Y" />
+      <Column Key="Width" />
+      <Column Key="Height" />
+      <Column Key="Length" />
+      <Column Key="Area" />
+      <Column Key="Wall Area" />
+      <Column Key="Volume" />
+      <Column Key="Count" />
+      <Column Key="Measurement" />
+      <Column Key="Label" />
+      <Column Key="Sequence" />
+      <Column Key="Capture" />
+      <Column Key="Depth" />
+      <Column Key="Status" />
+      <Column Key="Color" />
+      <Column Key="Layer" />
+      <Column Key="Legend" />
+      <Column Key="Measurement Height" />
+      <Column Key="Measurement Width" />
+      <Column Key="RiseDrop" />
+      <Column Key="Slope" />
+      <Column Key="Space" />
+      <Column Key="Units" />
+      <Column Key="View3D" />
+    </DisplayOrder>
+  </Record>
+  <Record Key="Thumbnails">
+    <BoxSize>128</BoxSize>
+    <ShowLabels>True</ShowLabels>
+  </Record>
+  <Record Key="FileProperties">
+    <CollapseGeneral>False</CollapseGeneral>
+    <CollapseCustom>False</CollapseCustom>
+    <CollapseAppearance>False</CollapseAppearance>
+    <CollapseLayout>False</CollapseLayout>
+    <CollapseOptions>False</CollapseOptions>
+    <CollapseFileAttachments>False</CollapseFileAttachments>
+    <CollapseFileProperties>False</CollapseFileProperties>
+    <CollapseCustomProperties>False</CollapseCustomProperties>
+  </Record>
+  <Record Key="Hyperlinks">
+    <DestinationsPercent>0.25</DestinationsPercent>
+    <DestinationsCollapsed>False</DestinationsCollapsed>
+  </Record>
+  <Record Key="HatchSetManager">
+    <HatchSet Index="0">
+      <Title>Standard</Title>
+      <Path>Standard.bhx</Path>
+      <Hidden>False</Hidden>
+    </HatchSet>
+  </Record>
+  <Record Key="LineSetManager">
+    <LineSet Type="Standard" Index="0">
+      <Hidden>False</Hidden>
+    </LineSet>
+    <LineSet Type="Custom" Index="1">
+      <Title>Advanced</Title>
+      <Path>Advanced.blx</Path>
+      <Hidden>False</Hidden>
+	</LineSet>
+  </Record>
+  <Record Key="DockContainer">
+    <DockRoot Name="Left">
+      <Collapsed>False</Collapsed>
+      <ExpandOnRestore>False</ExpandOnRestore>
+      <Size>421</Size>
+      <DockPanel>
+        <Active>Tool Chest</Active>
+        <DockTab Name="File Manager" />
+        <DockTab Name="Thumbnails" />
+        <DockTab Name="Bookmarks" />
+        <DockTab Name="Layers" />
+        <DockTab Name="Tool Chest" />
+        <DockTab Name="Hyperlinks" />
+        <DockTab Name="Spaces" />
+        <DockTab Name="Properties" />
+        <DockTab Name="Measurements" />
+        <DockTab Name="Acroforms" />
+        <DockTab Name="Signatures" />
+        <DockTab Name="Flags" />
+        <DockTab Name="Sets" />
+        <DockTab Name="Search" />
+        <DockTab Name="Studio" />
+      </DockPanel>
+    </DockRoot>
+    <DockRoot Name="Right">
+      <Collapsed>True</Collapsed>
+      <ExpandOnRestore>False</ExpandOnRestore>
+      <Size>36</Size>
+      <DockPanel />
+    </DockRoot>
+    <DockRoot Name="Bottom">
+      <Collapsed>True</Collapsed>
+      <ExpandOnRestore>False</ExpandOnRestore>
+      <Size>165</Size>
+      <DockPanel>
+        <Active>Markups</Active>
+        <DockTab Name="Markups" />
+        <DockTab Name="3D Model tree" />
+        <DockTab Name="JavaScript Console" />
+      </DockPanel>
+    </DockRoot>
+    <BottomState>1</BottomState>
+    <HidePanels>False</HidePanels>
+  </Record>
+  <Record Key="ToolSetManager">
+    <ToolSet Index="0">
+      <Hidden>False</Hidden>
+      <Path>My Tools.btx</Path>
+      <Title>My Tools</Title>
+      <Collapsed>False</Collapsed>
+      <ViewSymbol>True</ViewSymbol>
+    </ToolSet>
+    <ToolSet Index="1">
+      <Hidden>False</Hidden>
+      <Path>Recent Tools</Path>
+      <Title>Recent Tools</Title>
+      <Collapsed>False</Collapsed>
+      <ViewSymbol>True</ViewSymbol>
+    </ToolSet>
+    <ToolSet Index="2">
+      <Hidden>False</Hidden>
+      <Path>Architect Review.btx</Path>
+      <Title>Architect Review</Title>
+      <Collapsed>False</Collapsed>
+      <ViewSymbol>True</ViewSymbol>
+    </ToolSet>
+    <ToolSet Index="3">
+      <Hidden>False</Hidden>
+      <Path>Contractor Review.btx</Path>
+      <Title>Contractor Review</Title>
+      <Collapsed>False</Collapsed>
+      <ViewSymbol>True</ViewSymbol>
+    </ToolSet>
+    <ToolSet Index="4">
+      <Hidden>False</Hidden>
+      <Path>Engineer Review.btx</Path>
+      <Title>Engineer Review</Title>
+      <Collapsed>False</Collapsed>
+      <ViewSymbol>True</ViewSymbol>
+    </ToolSet>
+    <ToolSet Index="5">
+      <Hidden>False</Hidden>
+      <Path>General Use.btx</Path>
+      <Title>General Measurements</Title>
+      <Collapsed>False</Collapsed>
+      <ViewSymbol>True</ViewSymbol>
+    </ToolSet>
+    <ToolSet Index="6">
+      <Hidden>False</Hidden>
+      <Path>Design Symbols.btx</Path>
+      <Title>Design Symbols</Title>
+      <Collapsed>False</Collapsed>
+      <ViewSymbol>False</ViewSymbol>
+    </ToolSet>
+    <ToolSet Index="7">
+      <Hidden>False</Hidden>
+      <Path>Construction Symbols.btx</Path>
+      <Title>Construction Symbols</Title>
+      <Collapsed>False</Collapsed>
+      <ViewSymbol>True</ViewSymbol>
+    </ToolSet>
+  </Record>
+  <Record Key="StateModels">
+    <Model Key="MigrationStatus" Visible="False" />
+    <DefaultModel>Review</DefaultModel>
+  </Record>
+  <Record Key="BookmarkTemplates">
+    <Template Index="0">
+      <Title>Construction Documents</Title>
+      <LeafColor>-16777216</LeafColor>
+      <Path>Construction.xml</Path>
+      <Hidden>False</Hidden>
+    </Template>
+  </Record>
+  <Record Key="Redline">
+    <ToolStrip>
+      <Name>toolStripRedaction</Name>
+      <Module>Redaction</Module>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Markup.Redaction</Item>
+        <Item>Document.ApplyRedactions</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripMeasure</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Measure.Tool</Item>
+        <Item>Measure.Calibrate</Item>
+        <Item />
+        <Item>Measure.Length</Item>
+        <Item>Measure.Polylength</Item>
+        <Item>Measure.Perimeter</Item>
+        <Item>Measure.Area</Item>
+        <Item>Measure.Volume</Item>
+        <Item>Measure.AreaCutout</Item>
+        <Item>Measure.AreaEllipseCutout</Item>
+        <Item>Measure.DynamicFill</Item>
+        <Item>Measure.Count</Item>
+        <Item>Measure.Diameter</Item>
+        <Item>Measure.Angle</Item>
+        <Item>Measure.Radius</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripEdit</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Edit.Undo</Item>
+        <Item>Edit.Redo</Item>
+        <Item>Edit.Cut</Item>
+        <Item>Edit.Copy</Item>
+        <Item>Edit.Paste</Item>
+        <Item>Markup.FormatPainter</Item>
+        <Item>Delete</Item>
+        <Item>Document.Flatten</Item>
+        <Item>Snapshot</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripForm</Name>
+      <Module>Forms</Module>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Form.Editor</Item>
+        <Item />
+        <Item>Form.TextField</Item>
+        <Item>Form.RadioButton</Item>
+        <Item>Form.CheckBox</Item>
+        <Item>Form.ListBox</Item>
+        <Item>Form.ComboBox</Item>
+        <Item>Form.Button</Item>
+        <Item>Form.DigitalSignature</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripAppearance</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>DropDown.ColorFill</Item>
+        <Item>DropDown.Opacity</Item>
+        <Item>DropDown.HatchPattern</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripRotateDocument</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.RotateCounterclockwise</Item>
+        <Item>Document.RotateClockwise</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripSketch</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Markup.PolygonSketchToScale</Item>
+        <Item>Markup.RectangleSketchToScale</Item>
+        <Item>Markup.EllipseSketchToScale</Item>
+        <Item>Markup.PolylineSketchToScale</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripAnnotation</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Markup.Hyperlink</Item>
+        <Item>Markup.FileAttachment</Item>
+        <Item>Document.Flatten</Item>
+        <Item>Edit.EraseContent</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripOrder</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Markup.BringToFront</Item>
+        <Item>Markup.SendToBack</Item>
+        <Item>Markup.BringForward</Item>
+        <Item>Markup.SendBackward</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripPanZoom</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Select</Item>
+        <Item Visible="False">Edit.SelectText</Item>
+        <Item>Pan</Item>
+        <Item>Zoom</Item>
+        <Item>Measure.Tool</Item>
+        <Item Visible="False">Snapshot</Item>
+        <Item>Lasso</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripAlignment</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Align.Left</Item>
+        <Item>Align.Center</Item>
+        <Item>Align.Right</Item>
+        <Item />
+        <Item>Align.Top</Item>
+        <Item>Align.Middle</Item>
+        <Item>Align.Bottom</Item>
+        <Item />
+        <Item>Align.Width</Item>
+        <Item>Align.Height</Item>
+        <Item>Align.Size</Item>
+        <Item>Align.CenterDocument</Item>
+        <Item />
+        <Item>Align.SpacingHorizontal</Item>
+        <Item>Align.SpacingVertical</Item>
+        <Item />
+        <Item>Align.FlipHorizontal</Item>
+        <Item>Align.FlipVertical</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripAdvancedText</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Edit.Text</Item>
+        <Item />
+        <Item>Markup.ReviewText</Item>
+        <Item />
+        <Item>Markup.Underline</Item>
+        <Item>Markup.Squiggly</Item>
+        <Item>Markup.Strikethrough</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripDigitalSignature</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.Sign</Item>
+        <Item>Markup.DigitalSignature</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripDMS</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Combo.DMS</Item>
+        <Item>DMS.Login</Item>
+        <Item>DMS.Open</Item>
+        <Item>DMS.SaveAs</Item>
+        <Item>DMS.CheckIn</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripStyles</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Label.LinePreview</Item>
+        <Item>DropDown.LineStart</Item>
+        <Item>DropDown.LineEnd</Item>
+        <Item>DropDown.LineStyle</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripControlPoint</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>ControlPoint.AddMode</Item>
+        <Item>ControlPoint.SubtractMode</Item>
+        <Item>ControlPoint.ConvertMode</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripFont</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Combo.Font</Item>
+        <Item>Combo.FontSize</Item>
+        <Item />
+        <Item>DropDown.ColorText</Item>
+        <Item />
+        <Item>Button.Bold</Item>
+        <Item>Button.Italic</Item>
+        <Item>Button.Underline</Item>
+        <Item>Button.Strikethrough</Item>
+        <Item />
+        <Item>Button.TextAlignLeft</Item>
+        <Item>Button.TextAlignCenter</Item>
+        <Item>Button.TextAlignRight</Item>
+        <Item Visible="False" />
+        <Item Visible="False">Button.TextVAlignTop</Item>
+        <Item Visible="False">Button.TextVAlignMiddle</Item>
+        <Item Visible="False">Button.TextVAlignBottom</Item>
+        <Item Visible="False" />
+        <Item Visible="False">Button.Superscript</Item>
+        <Item Visible="False">Button.Subscript</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripDocument</Name>
+      <X>0</X>
+      <Y>0</Y>
+      <Visible>False</Visible>
+      <New>True</New>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.HeadersAndFooters</Item>
+        <Item>Document.CropPages</Item>
+        <Item>Document.Flatten</Item>
+        <Item>Edit.EraseContent</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripFile</Name>
+      <X>3</X>
+      <Y>73</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item Visible="False">Document.New</Item>
+        <Item Visible="False">File.CreatePDF</Item>
+        <Item Visible="False">File.CombinePDFs</Item>
+        <Item>File.Open</Item>
+        <Item>Document.Save</Item>
+        <Item Visible="False">Document.SaveAll</Item>
+        <Item>Document.Print</Item>
+        <Item>Split.Email</Item>
+        <Item Visible="False">Document.NewPackage</Item>
+        <Item Visible="False">Form.Editor</Item>
+        <Item Visible="False">Search</Item>
+        <Item Visible="False">SpellCheck</Item>
+        <Item Visible="False">Document.OCR</Item>
+        <Item Visible="False">Document.Script</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripLine</Name>
+      <X>0</X>
+      <Y>302</Y>
+      <Visible>True</Visible>
+      <Location>Right</Location>
+      <Items>
+        <Item>Markup.Line</Item>
+        <Item>Markup.Arrow</Item>
+        <Item>Markup.Arc</Item>
+        <Item>Markup.Polyline</Item>
+        <Item>Markup.Dimension</Item>
+        <Item>Markup.Rectangle</Item>
+        <Item>Markup.Ellipse</Item>
+        <Item>Markup.Polygon</Item>
+        <Item>Measure.Polylength</Item>
+        <Item>Measure.Area</Item>
+        <Item>Measure.Length</Item>
+        <Item>Measure.Count</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripText</Name>
+      <X>0</X>
+      <Y>3</Y>
+      <Visible>True</Visible>
+      <Location>Right</Location>
+      <Items>
+        <Item>Markup.TextBox</Item>
+        <Item Visible="False">Markup.Typewriter</Item>
+        <Item Visible="False">Markup.Note</Item>
+        <Item Visible="False">Markup.Flag</Item>
+        <Item>Markup.Highlight</Item>
+        <Item>Markup.Pen</Item>
+        <Item Visible="False">Eraser</Item>
+        <Item>Markup.Cloud9</Item>
+        <Item>Markup.Cloud</Item>
+        <Item>Markup.Callout</Item>
+        <Item>Button.Stamp</Item>
+        <Item>Markup.Image</Item>
+        <Item>Snapshot</Item>
+      </Items>
+    </ToolStrip>
+    <NavBarLeft>
+      <Item>View.UnSplit</Item>
+      <Item>View.Split</Item>
+      <Item>View.SplitHorizontal</Item>
+      <Item />
+      <Item>View.OneFullPage</Item>
+      <Item Visible="False">Pan</Item>
+      <Item Visible="False">Blank</Item>
+      <Item Visible="False">View.Single</Item>
+      <Item Visible="False">View.Continuous</Item>
+      <Item Visible="False">View.SideBySide</Item>
+      <Item Visible="False">View.SideBySideContinuous</Item>
+      <Item Visible="False">Blank</Item>
+      <Item Visible="False">View.ActualSize</Item>
+      <Item Visible="False">View.FitPage</Item>
+      <Item Visible="False">View.FitWidth</Item>
+      <Item>View.ScrollingPages</Item>
+    </NavBarLeft>
+    <NavBarMiddle>
+      <Item>Pan</Item>
+      <Item>Select</Item>
+      <Item>Edit.SelectText</Item>
+      <Item>Zoom</Item>
+      <Item Visible="False">Combo.Scale</Item>
+      <Item Visible="False">Blank</Item>
+      <Item Visible="False" />
+      <Item>View.PageFirst</Item>
+      <Item>View.PagePrevious</Item>
+      <Item>TextBox.Page</Item>
+      <Item>View.PageNext</Item>
+      <Item>View.PageLast</Item>
+      <Item />
+      <Item>View.PreviousView</Item>
+      <Item>View.NextView</Item>
+    </NavBarMiddle>
+    <NavBarRight>
+      <Item Visible="False">Toggle.ShiftKey</Item>
+      <Item Visible="False">Split.Profiles</Item>
+      <Item Visible="False">View.Split</Item>
+      <Item Visible="False">Split.Dimmer</Item>
+      <Item Visible="False">Document.Properties</Item>
+      <Item Visible="False">Split.Security</Item>
+      <Item Visible="False">View.DisableLineWeights</Item>
+      <Item>Navigation.PageScale</Item>
+      <Item>Navigation.PageSize</Item>
+    </NavBarRight>
+    <Version>1.5</Version>
+    <Scale>1</Scale>
+    <Lock>False</Lock>
+    <MenuBar>
+      <Visible>True</Visible>
+    </MenuBar>
+    <StatusBar>
+      <Visible>False</Visible>
+    </StatusBar>
+    <NavigationBar>
+      <Visible>True</Visible>
+    </NavigationBar>
+    <DynamicPropertiesBar>
+      <Visible>True</Visible>
+    </DynamicPropertiesBar>
+    <AutoHidePanelAccess>False</AutoHidePanelAccess>
+    <AutoHideTabs>False</AutoHideTabs>
+  </Record>
+  <Record Key="Script">
+	<Item>
+      <ID>BXZBGCUSBYGNIUOC</ID>
+      <Name>Flatten &amp; E-mail</Name>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d22220ccc106247b3b657981144bbaa3af2303c3c67eee3f89ac403e67814764310303372f0833be653fa00314fce3e9e21862e1bf76f241c1260301574d46ab840c87f49c834c3a0727ebde680bcf9f677ba341b760036354c21b857dfdd2ea0613350a2a6ebeb97fd75ed1e1d99ce8292b2cda21286f65bef67616e7c3ea6fa6fe6f4ecb99b6257fc7b64327cd9707ac3f9b21a669b025e210b3dea9e301fd5fa74d13666bdb767e6de09338ffab378595dae4b6dce3f4f9fd8b25a345d0b951eede45fff23bba26828f78affc891639b97e41f4311ed6af732532a2334cb8756596fc565a983fa969a694d4edf98ecb5af5851e35df4f78c6679528fa6adf8f9fb5413f1cbf89be987249d45cfeb025cbb1b59f3282b9dab8250f5c2dbabbd0efd7bec39a0632fb520ba7c8e5ceeb3b1d77625baac6eff5a13dc07060f074f57359e794d004005d658a47</Icon>
+      <IconType>Email</IconType>
+      <IconColor>-16776961</IconColor>
+      <Commit>False</Commit>
+      <Script>789c73cb492c2949cdd3d0e472cd4dccccd1d0040033e00563</Script>
+    </Item>
+    <Item>
+      <ID>OJVBAOXPYMKAWPJV</ID>
+      <Name>Export Tiff with Header</Name>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d22220ccc106247b3b657981144bbaa3af2303c3c67eee3f89ac403e67814764310303370f0833da3b289d000adef474710cb1f07f3ae920ef210311676ba6bb0ca58c13221a23816847e1b3034cb10bd9c55e70894ab3447b69fd9f3fc58da993b97db9fcff1b6121194e1cf1473b1eeee316b539e056dc25c8b3e2db9143af77072967713df6591abd57ddcd60435b45e42f96df5b943f37662c68d9efbf74d76cfe25cb36b4546d6a7825f56fc385e423fedc0f6d9b264a1a340a7fbfd792d8ec7dc0bac1709e7ec3d2b5e689371e087df8d6a0ffa6e4bdefcdf9d794eff17d987aa7586ec779aed0eb0d3e5af356fc556de39dd2b03e957187ebd9fc13d39fdd2fe0fdf86abdcfb93bb30f9de73ccb6d555036a950ae3c14e849064f573f97754e094d00e6697b79</Icon>
+      <IconType>HeaderAndFooter</IconType>
+      <IconColor>-16776961</IconColor>
+      <Commit>False</Commit>
+      <Script>789cf3484d4c492d72cc4b71cbcf2f492dd250b2b1f1f5d54f49d1afacb4b353d25150c2c09a5cc18965a98ec51a4a259969694a9a0077b71162</Script>
+    </Item>
+    <Item>
+      <ID>DFZYIJTYPXXTPJWZ</ID>
+      <Name>Print with Draft Stamp</Name>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d22220ccc106247b3b657981144bbaa3af2303c3c67eee3f89ac403e67814764310303370f0833da3b289d000aeef274710cb1f07f3bf1a0609381806b66a358c68166dd886edd8aadbcd11f1298b739706f71e0fe68df2ebb79439ada81a392fcfd67fffdf973b3456de9166dee85f53241bc9f3faf6b3cf1a5579e2f25993f46a194fbff017f85d75cebcace7130e7ee6dfb9eeebba046ddf081f8628bc5b797edee92d5528cd76fcbac156ed93631f068b6e0275b56e1b29def7c02046f702e7b127645b92a25e46314e74fdd8a25fd3c5a71b395fdbd1b76f8dbe69f58f2517ada899a9ff16ddcbf940aa4575632364755cb9cfbcfb608e80b064f573f97754e094d0006ac65d1</Icon>
+      <IconType>Printer</IconType>
+      <IconColor>-16776961</IconColor>
+      <Commit>False</Commit>
+      <Script>789c0b2e49cc2dd05072294a4c2b0928cacc2bd12b484953d25150cac92f4f2d2aca4ccf2801f20c8148930b2cafa10900c104103a</Script>
+    </Item>
+    <Item>
+      <ID>EUMBCECZXPQPVYPZ</ID>
+      <Name>Convert to Grayscale</Name>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d22220ccc106247b3b657981144bbaa3af2303c3c67eee3f89ac403e67814764310303b7200833d6a7c44f040abef774710cb1f03f3bf1ac60938140aba6a355418e437acec1a89c83dab9159fdf1c64cb696ce6bdc094ccfe71af8fdc1acf8243070e1ede2efdedb972d2d339d1a2f2b78edf13fdc0343b42e031b3788ea11a47be6a90bc578ba2f7aeadb5ddfc4b0f152cfbc2cbb72ad2a4658a99eb9de957aeb5b04db8b42cc1deddc6bd8d355ae7617d8bef658bee57dd2d3b3f8bd8452c9c56b2f86a8b650ebfb5fa8542f12f0fceec9a75384167ce2ec5b2a80bad9f4503a2565bf29c13b063ccdf11dcbba2d344efaf53b108e3bd49f6337f9ea8529ac35da6faeee71aa5a03a45f667d95c076c6d3e4b7f5af6d85ce7a8c7dbfd3e7a6beaf7565aaefbc510d4993b73c3ceeb67815e67f074f57359e794d00400a0f48229</Icon>
+      <IconType>Custom</IconType>
+      <IconColor>-8355712</IconColor>
+      <Commit>True</Commit>
+      <Script>789c73cecfc92f0a28ca4f4e2d2ed6504aca494cce56d251502acfc82c4955d20400a7d40a22</Script>
+    </Item>
+  </Record>  
+</RevuProfile>

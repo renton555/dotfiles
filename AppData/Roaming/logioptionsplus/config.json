@@ -1,0 +1,29 @@
+{
+	"settings": {
+		"accountLoginOpened": true,
+		"appOnboardingOpened": true,
+		"onboardedDevices": [
+			"2b034",
+			"10000000"
+		],
+		"migrationDevice": [],
+		"browserWindowSettings": {
+			"width": 1518,
+			"height": 860,
+			"x": 521,
+			"y": 290,
+			"displayId": 3128152395,
+			"resolutionWidth": 2560,
+			"resolutionHeight": 1440
+		},
+		"isSettingsMigrationShown": true,
+		"isSentryEnabled": false,
+		"appAlreadyInstalled": true,
+		"totalScreens": 0,
+		"currentPage": 0,
+		"optInScreens": null,
+		"aiOnboardingCompleted": true,
+		"size": 0,
+		"__altered": false
+	}
+}

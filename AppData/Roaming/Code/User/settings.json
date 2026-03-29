@@ -73,5 +73,7 @@
     "vscode-neovim.neovimInitVimPaths.linux": "useWSL",
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
-    }
+    },
+    "security.workspace.trust.startupPrompt": "always",
+    "security.workspace.trust.emptyWindow": false
 }

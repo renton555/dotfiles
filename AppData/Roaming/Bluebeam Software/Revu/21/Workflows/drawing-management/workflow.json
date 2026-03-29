@@ -1,0 +1,20 @@
+{
+  "Key": "DRAWING_MGMT",
+  "Name": "Drawing Management",
+  "StartPage": "drawing-management.html",
+  "Profile": "Revu",
+  "OrderBy": 6,
+  "Version": "5.2",
+  "Icon": "DrawingManagementTutorialImage",
+  "Description": [
+		"This tutorial shows how Revu can be used to manage large sets of drawings.", 
+		"    • Generate Page Labels from drawing content", 
+		"    • Add and stack latest drawing revisions using Sets", 
+		"    • Create a comprehensive Drawing Log",
+		"    • Automatically hyperlink an entire set of drawings",
+		"    • Generate a visual overlay to compare revisions ",
+		"    • Automatically find differences across revisions",
+		"    • Export current and record sets"
+  ],
+  "Image": "DrawingManagementImage"
+}

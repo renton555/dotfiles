@@ -1,0 +1,18 @@
+{
+  "Key": "DOC_MGMT",
+  "Name": "Document Management",
+  "StartPage": "document-management.html",
+  "Profile": "Revu",
+  "OrderBy": 5,
+  "Version": "5.4",
+  "Icon": "DocumentManagementTutorialImage",
+  "Description": [
+    "A Studio Project is a single, centralized location to store all project documents in the cloud.", 
+	"This tutorial shows how Studio Projects can be used to organize and share documents.", 
+	"    • Create a Studio account", 
+	"    • Start a Studio Project", 
+	"    • Upload a standard folder structure", 
+	"    • Manage PDFs and other documents"
+  ],
+  "Image": "DocumentManagementImage"
+}

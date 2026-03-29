@@ -1,0 +1,136 @@
+# espanso match file
+
+# For a complete introduction, visit the official docs at: https://espanso.org/docs/
+
+# You can use this file to define the base matches (aka snippets)
+# that will be available in every application when using espanso.
+
+# Matches are substitution rules: when you type the "trigger" string
+# it gets replaced by the "replace" string.
+
+# yaml-language-server: $schema=https://raw.githubusercontent.com/espanso/espanso/dev/schemas/match.schema.json
+
+matches:
+  # Simple text replacement
+  - trigger: ";espanso"
+    replace: "Hi there!"
+
+  # NOTE: espanso uses YAML to define matches, so pay attention to the indentation!
+
+  # But matches can also be dynamic:
+
+  # Print the current date
+  - trigger: ";today"
+    replace: "{{date_today}}"
+    vars:
+      - name: date_today
+        type: date
+        params:
+          format: "%Y-%m-%d"
+
+  - trigger: ";now"
+    replace: "{{time_now}}"
+    vars:
+      - name: time_now
+        type: date
+        params:
+          format: "%H:%M"
+  
+  - triggers: [";datetime", ";dt"]
+    replace: "{{datetime_now}}"
+    vars:
+      - name: datetime_now
+        type: date
+        params:
+          format: "%Y-%m-%d at %H:%M"
+          
+  # Print the output of a shell command
+  - trigger: ";shell"
+    replace: "{{output}}"
+    vars:
+      - name: output
+        type: shell
+        params:
+          cmd: "echo 'Hello from your shell'"
+          
+  # Print the current date
+  - trigger: ";address"
+    replace: "Thomas Luedke\n258 Peace St\nChattanooga, TN 37415"
+  
+  - trigger: ";hsd"
+    replace: "Haskel Sears Design"
+  
+  - trigger: ";sig"
+    replace: "Thomas Luedke\nGeneral Manager\nHaskel Sears Design\n(706) 516-8460"
+
+  - trigger: ";email"
+    replace: "{{email_choice}}"
+    vars:
+      - name: email_choice
+        type: choice
+        params:
+          values:
+            - "thomas@haskelsearsdesign.com"
+            - "thomas.luedke@gmail.com"
+  
+  # Obsidian global quick capture
+  - trigger: ";fleet"
+    replace: "{{create_file}}"
+    vars:
+      # 1. Capture the Current Date for the Template
+      - name: mydate
+        type: date
+        params:
+          format: "%Y-%m-%d %H:%M"
+
+      # 2. Render the GUI Form
+      - name: form
+        type: form
+        params:
+          layout: |
+            📝 New Fleeting Note
+            ----------------------
+            Title: [[title]]
+            Body:
+            [[body]]
+          fields:
+            body:
+              multiline: true
+
+      # 3. Pass the Form Data to PowerShell to Create the File
+      - name: create_file
+        type: shell
+        params:
+          shell: powershell
+          cmd: |
+            # --- 🛑 UPDATE THIS PATH TO YOUR VAULT 🛑 ---
+            $vaultPath = "C:\05-Thomas\21-Obsidian\Thomas"
+            # ----------------------------------------------
+
+            $title = "{{form.title}}"
+            $body = @"
+            {{form.body}}
+            "@
+            
+            # --- 📝 YOUR OBSIDIAN TEMPLATE ---
+            $template = @"
+            ---
+            tags: 
+              - notes/fleeting
+            created: 
+              - {{mydate}}
+            ---
+            
+            $body
+            "@
+            
+            # Clean the title to remove characters that Windows doesn't allow in filenames
+            $safeTitle = $title -replace '[<>:/\\|?*"]', ''
+            if ($safeTitle.Trim() -eq "") { $safeTitle = "Untitled Note" }
+            
+            # Construct the final path and write the file
+            $filePath = Join-Path -Path $vaultPath -ChildPath "$safeTitle.md"
+            $template | Out-File -FilePath $filePath -Encoding UTF8
+            
+            # This is the text Espanso will actually "paste" into your current window
+            Write-Output "✅"
