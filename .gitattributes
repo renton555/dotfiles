@@ -1,0 +1,9 @@
+# Handle Windows-specific files by forcing CRLF
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+**/Microsoft.WindowsTerminal_8wekyb3d8bbwe/**/*.json text eol=crlf
+
+# Handle Linux/Universal files by forcing LF
+*.sh text eol=lf
+*.lua text eol=lf
+.bashrc text eol=lf
