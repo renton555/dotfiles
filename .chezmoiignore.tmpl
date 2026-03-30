@@ -6,8 +6,9 @@
 .config/nvim
 .nanorc
 .tmux.conf
-.gitconfig
 .env.tmpl
+.wsl-conf-source
+run_onchange_after_update-wsl-conf.sh
 {{ end }}
 
 # -------------------------------------------------------------------
@@ -16,4 +17,5 @@
 {{ if eq .chezmoi.os "linux" }}
 AppData
 "02-Dotfiles"
+.wslconfig
 {{ end }}
