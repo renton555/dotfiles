@@ -1,0 +1,16 @@
+[boot]
+# Enables systemd (required for things like Docker, Snap, and background services)
+systemd=true
+
+[automount]
+# Ensures Windows drives (C:, D:) are mounted with Linux permissions enabled
+options = "metadata,uid=1000, gid=1000, umask=022,fmask=11, case=off"
+
+[interop]
+# Allows you to launch Windows EXEs (like bw.exe!) directly from Linux
+enabled=true
+appendWindowsPath=true
+
+[user]
+# Forces WSL to log in as your user instead of root by default
+default=tluedke

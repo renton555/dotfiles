@@ -125,8 +125,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-# TLUEDKE ALIASES 2026-02-14
-
+# TLUEDKE ALIASES 2026-03-29
 # For xclip users
 alias copy='xclip -selection clipboard'
 alias paste='xclip -selection clipboard -o'
@@ -161,6 +160,81 @@ export FZF_ALT_C_OPTS="--preview 'ls -Fp --color=always {} | head -100' --previe
 
 # 4. Useful Aliases
 alias zz='zi'
+
+# List all files in long format, including hidden files
+alias ll='ls -la'
+
+# Display the status of the Git repository
+alias gs='git status'
+
+# List files with human-readable sizes
+alias lh='ls -lh'
+
+# Show hidden files in long format with human-readable sizes
+alias lsa='ls -la'
+
+# Find files by name
+alias f='find . -name'
+
+# Create a directory and change into it
+alias mkcd='mkdir -p $1 && cd $1'
+
+# Show the last commit log in Git
+alias gl='git log -1'
+
+# Show changes made in the last commit
+alias gcl='git show --stat'
+
+# Fetch changes from the origin and rebase
+alias gfr='git fetch origin && git rebase'
+
+# Reset local changes in Git
+alias grr='git reset --hard'
+
+# List Git branches with remote tracking
+alias gb='git branch -vv'
+
+# Show disk usage in human-readable format
+alias du='du -h'
+
+# Show top processes
+alias top10='top -b -n 1 | head -n 20'
+
+# Check system uptime in a pretty format
+alias uptime='uptime -p'
+
+# Display the last 10 system logs
+alias dmesg10='dmesg | tail -n 10'
+
+# Check external IP address
+alias myip='curl ifconfig.me'
+
+# Show network interfaces and their status
+alias netinfo='ip addr'
+
+# Ping a host with 4 packets
+alias pinghost='ping -c 4'
+
+# Open a file in the default editor (using Vim)
+alias edit='vim'
+
+# Search for a keyword in files with color highlighting
+alias grep='grep --color=auto'
+
+# Remove files with confirmation prompt
+alias rm='rm -i'
+
+# Count lines, words, and characters in a file
+alias wc='wc -l -w -c'
+
+# Start a local HTTP server using Python 3
+alias serve='python3 -m http.server'
+
+# Clear the terminal screen
+alias cls='clear'
+
+# Show the most recent Git commits with format
+alias glf='git log --oneline --graph --decorate'
 
 export PATH="$PATH:$HOME/.tmux-tools"
 
