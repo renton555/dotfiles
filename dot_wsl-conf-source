@@ -1,0 +1,8 @@
+[boot]
+systemd=true
+
+[user]
+default=tluedke
+
+[automount]
+options = "metadata,umask=22,fmask=11"
