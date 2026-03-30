@@ -1,0 +1,9 @@
+[wsl2]
+memory=24GB
+processors=8
+
+# Optional: Enable the new mirrored networking (great for Ansible/Docker)
+networkingMode=mirrored
+
+# Optional: Automatically free up memory when Linux isn't using it
+autoMemoryReclaim=dropcache
