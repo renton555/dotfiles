@@ -163,3 +163,5 @@ export FZF_ALT_C_OPTS="--preview 'ls -Fp --color=always {} | head -100' --previe
 alias zz='zi'
 
 export PATH="$PATH:$HOME/.tmux-tools"
+
+alias bw='bw.exe'
