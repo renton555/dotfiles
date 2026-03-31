@@ -83,8 +83,8 @@
                 "hidden": false,
                 "name": "Ubuntu",
                 "opacity": 100,
-		"commandline": "wsl.exe -d Ubuntu"
-		"startingDirectory": "\\\\wsl$\\Ubuntu\\home\\tluedke"
+				"commandline": "wsl.exe -d Ubuntu",
+				"startingDirectory": "\\\\wsl$\\Ubuntu\\home\\tluedke"
             }
         ]
     },
