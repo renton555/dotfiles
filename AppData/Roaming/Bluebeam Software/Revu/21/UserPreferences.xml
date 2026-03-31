@@ -3479,10 +3479,6 @@ subtracting 150 feet for doorways</Value>
       <Value>13</Value>
       <Value>15</Value>
     </Source>
-    <Source Key="Author">
-      <Value>Thomas Luedke</Value>
-      <Value>matt</Value>
-    </Source>
   </Record>
   <Record Key="Search">
     <Pages>True</Pages>
@@ -4373,7 +4369,7 @@ subtracting 150 feet for doorways</Value>
       <StandardFavoritesPath />
       <UseGpu>True</UseGpu>
       <UseStandardFavorites>False</UseStandardFavorites>
-      <WebView2Runtime>146.0.3856.72</WebView2Runtime>
+      <WebView2Runtime>146.0.3856.84</WebView2Runtime>
     </Web>
     <ActivePanel>Window</ActivePanel>
   </Record>

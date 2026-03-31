@@ -3481,6 +3481,7 @@ subtracting 150 feet for doorways</Value>
     </Source>
     <Source Key="Author">
       <Value>Thomas Luedke</Value>
+      <Value>matt</Value>
     </Source>
   </Record>
   <Record Key="Search">
@@ -4096,7 +4097,7 @@ subtracting 150 feet for doorways</Value>
       <Style>0</Style>
     </MarkupSummaryIncludeTotals>
     <Misc>
-      <InitialOpenDirectory>G:\Shared drives\Haskel Sears Design\26-006-Studio-1000-Scenic-Hwy\07-Work Orders\Sapele Door</InitialOpenDirectory>
+      <InitialOpenDirectory>C:\03-Temp</InitialOpenDirectory>
       <LastPageRotation>180</LastPageRotation>
       <NewWorkflows>COLLAB:5;DOC_MGMT:5;DRAWINGS:4;DRAWING_MGMT:5;ISSUES:5;MARKUPS:5;TAKEOFF:5;</NewWorkflows>
       <ShowRulers>False</ShowRulers>

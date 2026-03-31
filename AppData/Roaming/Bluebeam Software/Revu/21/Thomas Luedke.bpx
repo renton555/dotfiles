@@ -643,8 +643,8 @@
       <Collapsed>True</Collapsed>
       <Size>451</Size>
       <DockPanelSplitter>
-        <SplitDistance>160</SplitDistance>
-        <SplitRatio>0.1536984</SplitRatio>
+        <SplitDistance>248</SplitDistance>
+        <SplitRatio>0.1503942</SplitRatio>
         <SplitDirection>0</SplitDirection>
         <Panel1>
           <DockPanel>
@@ -683,7 +683,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>True</IsNumbered>
-      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d22220ccc106247b3b657981144bbaa3af2303c3c67eee3f89ac403e67814764310303b7000833ae55de5b0a147ce0e9e21862e1bf760a2fef21030137f544a1090d2c2a0a8c9c1e0e4c30a6c58f13bbb7f8964747de7e3b493ff2fdf3afdb62ad3da4be5d3933f1e5b24d829f7fd637266bd4e81cf990782f9ef5cbbf15493af131aab54e45dd81ce6f593a1e6bbf7c52be46c0f48a9489d5cda5ecd39c1355149e4d8e4aed3999b438ed80ed9a1b895e1a199a79af8536b81d2f48fab1fbccda9fd58d8521ef26c54dba17dd28b3dfe4cccf1b5f99fedeb9f4f42873766f4d9ce1fb095f2dd9b769d539cf63bcbcf0684d52ef2343e60a0e879ef756bf9e98327a88377eb66ffcd564ca18b5ab64e2dd85f619df785f864ac6d902fdcae0e9eae7b2ce29a109007cb47d4b</Icon>
+      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d21a20ccc106247bfeedc805522ce98ebe8e0c0c1bfbb9ff24b202f99c051e91c50c0c62aa20cce819a4f2818181f18da78b634884fbdb88465f1645813f423a072128681f8bf70628b23ec0b353f13403fb71e67a353fa39f1b766ff8fc7bfb81bf472dcb2d8d850fdf9c2121f5f3d19cdf656f1d749ebdb00a556b63530ad4e7ebf6e1e14d79ba4f4a58896d23c3b355f5d33b171e6a3f977563d5ea7c20d3493ba0b6facddcf208851b535794c725ddf8f1624eb5f58d957b1dfabeeb2e7f7582abe6aaa818d3ce72d6a8c2f9ecd20ba79f688c899c6826a0aa1650149b61367132877db91ec37d37f5f54ada9dcfefdf5e339977e3a374dd89bf536f5c583bf982e76ac9971a56ef4ed4376edfa4f541e7c76ea6ad4f5ead3f3a7545c0fe633f0b2f4e5ce8f4d754ebcafac2ba989239ad651bbc14ce45caacfe66caf078b9cf9ba246818fc9459a9392aff171c496a8544a3a7c9db73d9cb1a62ea7aca3ffd98d83398ddfacd8135f9d8f0bcb615828ec3ed17ceaa552be709d07596fcd12b639a8b0794d4ffcf55e6d42ac34a7c112079bf687821b18372f78dd7e7bd3857dfcadbae94b0fbcb13eee16d273dbff4bcfabed333c3b1e982dee3dc4763059a074879ed1ec1532daad7ffbcb942c7d4b1a67ba08dfa8d7d21058c4f143707aeea44817a33283c6f937c2b893ab599c567c7f9d64ec5128d0e07776ae92ca9f359beee7992498ec2c75a98e6eddf628bcb44f6db7d9cfe015873e30adefbb98a29a737cdba5c7e2621b0d774e9968df0a4c0c0c9eae7e2eeb9c129a00dcbdfec4</Icon>
       <FromTopLevel>True</FromTopLevel>
     </ToolSet>
     <ToolSet Index="1">
@@ -693,7 +693,7 @@
       <Collapsed>False</Collapsed>
       <ViewSymbol>True</ViewSymbol>
       <IsNumbered>False</IsNumbered>
-      <Icon>789ceb0cf073e7e592e2626060e0f5f4700902d22220ccc106247b3b657981144bbaa3af2303c3c67eee3f89ac403e67814764310303b7000833ae55de5b0a14bce8e9e21862e1bf767223ef61030e166327f7931cb24b954b5a7a2e085a052dd5bb20b88bf16ae431251593839c974eb31dbe39edac82d2e199512c3d6a9dbda6f3ff8b57ac6c3d3fd5346946ff7ba65f3bb462369f8b75b133b54cbe1260cd2cf4a3ebc4d5f73b9caf04442f904a992e37a3f55086c319f5d45009e3e70bc40e18ebd8247a736cd916f787e386eedc94c62df3fe451ebbd665eb10f53e743fd7b18ef85b26dc32afd59799e6cada7dbcc8b4bdc766dd3703e984ed56ea763f85734e32376a6ee17eb17ecd85edfb8bdcbe057e0897575dfde1f61f861c23a128fd5fabe3809e63f074f57359e794d004003cde72a3</Icon>
+      <Icon>789c012402dbfd89504e470d0a1a0a0000000d49484452000000280000002808060000008cfeb86d0000000467414d410000b18f0bfc61050000000970485973000016250000162501495224f0000001c6494441545847ed97fd4dc4300cc56f044660041640620446602446600446600446600436f0e945e7c87d713e9a34a148f7a4df1f8dedd8e73469ee22229733930c9c8d64a0915711f99176c117313c4f9564a00124ead5ee22938106b473df8d09e1035f08b16c2f920c5478e8ec86ed3adb8a2403156c816c2bd11bb7bb40d095a8372e19b8f12822ef3b776aaf90e3e39693eb700b7ce319160ab98b05dae2be766e845e9003b9dc22ad235aac42cb79a2d920a72a2eb7e7805fc3c1abd04ee2fd0f63d6a81b62c5b2e6d0f3321ee8d6a8e2a0d56ceac81afe907b81a3540b3c8bfe6f81dc72b6d7fc72b0d8ce7ee1396b7060b1bd068bedec179eb386b3601fee058ac8cbed9b6fef997a1f848dfd9715882bffa7c991137ce01b63ed242a9e7c1424d47f7590764ba55d55c13716692752718251b473bf22f264c6391f6cf0811013c6ed441c7004b653b638e0e5838f2abc93b5805174e9bc1b7a2edf26c60b18959d5377abb74355dc59ed7ab8b47a01a3f2e6e4e2ac8ddfcd4d1c071d4d4ce46037051719e338e8684a4b0cbc22b34b3c83d226516c91f85797dd2433281d3316d850dcb3f14f8e9959e40e6aa67a50cf22f7a9537bf3a76e26875c1656b0fbba750581214177e9b75ce40000000049454e44ae426082190bf398</Icon>
       <FromTopLevel>True</FromTopLevel>
     </ToolSet>
     <ToolSet Index="2">
@@ -1167,92 +1167,9 @@
       </Items>
     </ToolStrip>
     <ToolStrip>
-      <Name>toolStripRotateDocument</Name>
-      <X>3</X>
-      <Y>46</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Document.RotateCounterclockwise</Item>
-        <Item>Document.RotateClockwise</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripEdit</Name>
-      <X>3</X>
-      <Y>46</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Edit.Undo</Item>
-        <Item>Edit.Redo</Item>
-        <Item>Edit.Cut</Item>
-        <Item>Edit.Copy</Item>
-        <Item>Edit.Paste</Item>
-        <Item>Markup.FormatPainter</Item>
-        <Item>Delete</Item>
-        <Item Visible="False">Document.Flatten</Item>
-        <Item Visible="False">Snapshot</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripAnnotation</Name>
-      <X>3</X>
-      <Y>46</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Document.Flatten</Item>
-        <Item>Edit.CutContent</Item>
-        <Item Visible="False">Edit.EraseContent</Item>
-        <Item>Space.Add</Item>
-        <Item>Markup.Hyperlink</Item>
-        <Item>Markup.FileAttachment</Item>
-        <Item>Markup.FormatPainter</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripPanZoom</Name>
-      <X>3</X>
-      <Y>46</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Select</Item>
-        <Item Visible="False">Edit.SelectText</Item>
-        <Item>Pan</Item>
-        <Item>Zoom</Item>
-        <Item>Measure.Tool</Item>
-        <Item Visible="False">Snapshot</Item>
-        <Item>Lasso</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
-      <Name>toolStripText</Name>
-      <X>3</X>
-      <Y>46</Y>
-      <Visible>False</Visible>
-      <Location>Top</Location>
-      <Items>
-        <Item>Markup.TextBox</Item>
-        <Item Visible="False">Markup.Typewriter</Item>
-        <Item Visible="False" />
-        <Item Visible="False">Markup.Note</Item>
-        <Item Visible="False">Markup.Flag</Item>
-        <Item>Markup.Highlight</Item>
-        <Item>Markup.Pen</Item>
-        <Item Visible="False">Eraser</Item>
-        <Item>Markup.Cloud9</Item>
-        <Item>Markup.Cloud</Item>
-        <Item>Markup.Callout</Item>
-        <Item Visible="False">Markup.Image</Item>
-        <Item Visible="False">Snapshot</Item>
-      </Items>
-    </ToolStrip>
-    <ToolStrip>
       <Name>toolStripLine</Name>
       <X>3</X>
-      <Y>46</Y>
+      <Y>70</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1279,9 +1196,92 @@
       </Items>
     </ToolStrip>
     <ToolStrip>
+      <Name>toolStripText</Name>
+      <X>3</X>
+      <Y>70</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Markup.TextBox</Item>
+        <Item Visible="False">Markup.Typewriter</Item>
+        <Item Visible="False" />
+        <Item Visible="False">Markup.Note</Item>
+        <Item Visible="False">Markup.Flag</Item>
+        <Item>Markup.Highlight</Item>
+        <Item>Markup.Pen</Item>
+        <Item Visible="False">Eraser</Item>
+        <Item>Markup.Cloud9</Item>
+        <Item>Markup.Cloud</Item>
+        <Item>Markup.Callout</Item>
+        <Item Visible="False">Markup.Image</Item>
+        <Item Visible="False">Snapshot</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripPanZoom</Name>
+      <X>3</X>
+      <Y>70</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Select</Item>
+        <Item Visible="False">Edit.SelectText</Item>
+        <Item>Pan</Item>
+        <Item>Zoom</Item>
+        <Item>Measure.Tool</Item>
+        <Item Visible="False">Snapshot</Item>
+        <Item>Lasso</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripAnnotation</Name>
+      <X>3</X>
+      <Y>70</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.Flatten</Item>
+        <Item>Edit.CutContent</Item>
+        <Item Visible="False">Edit.EraseContent</Item>
+        <Item>Space.Add</Item>
+        <Item>Markup.Hyperlink</Item>
+        <Item>Markup.FileAttachment</Item>
+        <Item>Markup.FormatPainter</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripEdit</Name>
+      <X>3</X>
+      <Y>70</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Edit.Undo</Item>
+        <Item>Edit.Redo</Item>
+        <Item>Edit.Cut</Item>
+        <Item>Edit.Copy</Item>
+        <Item>Edit.Paste</Item>
+        <Item>Markup.FormatPainter</Item>
+        <Item>Delete</Item>
+        <Item Visible="False">Document.Flatten</Item>
+        <Item Visible="False">Snapshot</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
+      <Name>toolStripRotateDocument</Name>
+      <X>3</X>
+      <Y>70</Y>
+      <Visible>False</Visible>
+      <Location>Top</Location>
+      <Items>
+        <Item>Document.RotateCounterclockwise</Item>
+        <Item>Document.RotateClockwise</Item>
+      </Items>
+    </ToolStrip>
+    <ToolStrip>
       <Name>toolStripOrder</Name>
       <X>0</X>
-      <Y>122</Y>
+      <Y>170</Y>
       <Visible>True</Visible>
       <Location>Right</Location>
       <Items>
@@ -1294,7 +1294,7 @@
     <ToolStrip>
       <Name>toolStripAdvancedText</Name>
       <X>3</X>
-      <Y>137</Y>
+      <Y>207</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1310,7 +1310,7 @@
     <ToolStrip>
       <Name>toolStripControlPoint</Name>
       <X>3</X>
-      <Y>137</Y>
+      <Y>207</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1322,7 +1322,7 @@
     <ToolStrip>
       <Name>Links</Name>
       <X>3</X>
-      <Y>137</Y>
+      <Y>207</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1334,7 +1334,7 @@
     <ToolStrip>
       <Name>toolStripAlignment</Name>
       <X>0</X>
-      <Y>205</Y>
+      <Y>285</Y>
       <Visible>True</Visible>
       <Location>Right</Location>
       <Items>
@@ -1361,7 +1361,7 @@
     <ToolStrip>
       <Name>toolStripSketch</Name>
       <X>0</X>
-      <Y>720</Y>
+      <Y>1024</Y>
       <Visible>True</Visible>
       <Location>Right</Location>
       <Items>
@@ -1374,7 +1374,7 @@
     <ToolStrip>
       <Name>toolStripMeasure</Name>
       <X>0</X>
-      <Y>875</Y>
+      <Y>1243</Y>
       <Visible>True</Visible>
       <Location>Right</Location>
       <Items>
@@ -1399,7 +1399,7 @@
     <ToolStrip>
       <Name>toolStripFile</Name>
       <X>3</X>
-      <Y>1053</Y>
+      <Y>1582</Y>
       <Visible>False</Visible>
       <Location>Top</Location>
       <Items>
@@ -1515,7 +1515,7 @@
     <Module Name="BookmarksManager" />
     <Module Name="BatchSlipSheet" />
     <Version>1.6</Version>
-    <Scale>1</Scale>
+    <Scale>1.5</Scale>
     <Lock>False</Lock>
     <MenuBar>
       <Visible>True</Visible>

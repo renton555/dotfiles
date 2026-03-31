@@ -1,0 +1,1104 @@
+{
+  "settings": {
+    "scenes": {
+      "viewModeling": {
+        "abbr": "Modeling",
+        "name": "Modeling view",
+        "style": "Dark By Tag",
+        "tag": "Show All",
+        "type": "View",
+        "use": true,
+        "view": "Isometric SW"
+      },
+      "ceilingPlan": {
+        "abbr": "Cei",
+        "name": "Ceiling Plan",
+        "style": "Curic White",
+        "tag": "Finishing",
+        "type": "Plan",
+        "use": true,
+        "view": "Bottom"
+      }
+    },
+    "styles": {
+      "style1": {
+        "abbr": "C",
+        "color": "btn-primary",
+        "name": "Curic Color",
+        "use": true
+      },
+      "style2": {
+        "abbr": "A",
+        "color": "btn-outline-dark",
+        "name": "Curic Color AO",
+        "use": true
+      },
+      "style3": {
+        "abbr": "X",
+        "color": "btn-outline-tertiary",
+        "name": "Curic Color X",
+        "use": true
+      },
+      "style4": {
+        "abbr": "W",
+        "color": "btn-dark",
+        "name": "Curic White",
+        "use": true
+      },
+      "style5": {
+        "abbr": "M",
+        "color": "btn-success",
+        "name": "Thomas Modeling",
+        "use": true
+      }
+    },
+    "grids": {
+      "gridLevel": {
+        "file": {
+          "left": "2d_grid_level_left.skp",
+          "right": "2d_grid_level_right.skp"
+        },
+        "name": "Grid Level"
+      },
+      "gridColumn": {
+        "file": {
+          "bottom": "2d_grid_column_bottom.skp",
+          "left": "2d_grid_column_left.skp",
+          "right": "2d_grid_column_right.skp",
+          "top": "2d_grid_column_top.skp"
+        },
+        "name": "Grid Column"
+      }
+    },
+    "labels": {
+      "coordinateLabel": {
+        "file": "2d_label_coordinate.skp",
+        "name": "Coordinates",
+        "tag": "N/A",
+        "use": true
+      },
+      "boundaryLabel": {
+        "file": "2d_label_boundary.skp",
+        "name": "Boundary",
+        "tag": "N/A",
+        "use": true
+      },
+      "extElevationLabel": {
+        "file": "2d_mark_elevation_exterior.skp",
+        "name": "Ext. Elevation",
+        "tag": "N/A",
+        "use": true
+      },
+      "intElevationLabel": {
+        "file": "2d_mark_elevation_interior.skp",
+        "name": "Int. Elevation",
+        "tag": "N/A",
+        "use": true
+      },
+      "sectionLabel": {
+        "file": {
+          "end": "2d_mark_section_end.skp",
+          "start": "2d_mark_section_start.skp"
+        },
+        "name": "Section Mark",
+        "tag": "N/A",
+        "use": true
+      },
+      "levelLabel": {
+        "file": {
+          "horizontal": "2d_label_level_horizontal.skp",
+          "verticalBottom": "2d_label_level_vertical_bottom.skp",
+          "verticalMiddle": "2d_label_level_vertical_middle.skp",
+          "verticalTop": "2d_label_level_vertical_top.skp"
+        },
+        "name": "Level Label",
+        "tag": "N/A",
+        "use": true
+      },
+      "slopeLabel": {
+        "file": "2d_label_slope.skp",
+        "name": "Slope Label",
+        "tag": "N/A",
+        "use": true
+      },
+      "materialLabel": {
+        "file": {
+          "horizontal": "2d_label_material_horizontal.skp",
+          "vertical": "2d_label_material_vertical.skp"
+        },
+        "name": "Material Label",
+        "tag": "N/A",
+        "use": true
+      },
+      "spaceLabel": {
+        "file": "2d_label_space.skp",
+        "name": "Space Label",
+        "tag": "SPACE",
+        "use": true
+      },
+      "defaultLabel1": {
+        "file": "2d_label_floor.skp",
+        "name": "Floor Label",
+        "tag": "FINISHING FLOOR",
+        "use": true
+      },
+      "defaultLabel2": {
+        "file": "2d_label_wall.skp",
+        "name": "Wall Label",
+        "tag": "FINISHING WALL",
+        "use": true
+      },
+      "defaultLabel3": {
+        "file": "2d_label_ceiling.skp",
+        "name": "Ceiling Label",
+        "tag": "FINISHING CEILING",
+        "use": true
+      },
+      "defaultLabel4": {
+        "file": "2d_label_door.skp",
+        "name": "Door Label",
+        "tag": "DOOR",
+        "use": true
+      },
+      "defaultLabel5": {
+        "file": "2d_label_window.skp",
+        "name": "Window Label",
+        "tag": "WINDOW",
+        "use": true
+      },
+      "defaultLabel6": {
+        "file": "2d_label_railing.skp",
+        "name": "Railing Label",
+        "tag": "RAILING",
+        "use": true
+      },
+      "defaultLabel7": {
+        "file": "2d_label_furniture.skp",
+        "name": "Furniture Label",
+        "tag": "FURNITURE",
+        "use": true
+      },
+      "defaultLabel8": {
+        "file": "2d_label_sanitary.skp",
+        "name": "Sanitary Ware Label",
+        "tag": "SANITARY",
+        "use": true
+      },
+      "defaultLabel9": {
+        "file": "2d_label_electric_device.skp",
+        "name": "Electric Device Label",
+        "tag": "E. ",
+        "use": true
+      }
+    },
+    "classifications": {
+      "basic": {
+        "categoryElements": {
+          "edgeCenter": {
+            "name": "Center Line",
+            "tag": "edge_center"
+          },
+          "edgeDash": {
+            "name": "Dash Line",
+            "tag": "edge_dash"
+          },
+          "edgeDot": {
+            "name": "Dot Line",
+            "tag": "edge_dot"
+          },
+          "viewport": {
+            "name": "Viewport",
+            "tag": "#viewport"
+          }
+        },
+        "categoryName": "Basic",
+        "use": true
+      },
+      "information": {
+        "categoryElements": {
+          "annotation": {
+            "name": "Annotation",
+            "tag": "!annotation"
+          },
+          "dimension": {
+            "name": "Dimension",
+            "tag": "!dimension"
+          },
+          "grid": {
+            "name": "Grid",
+            "tag": "!grid"
+          },
+          "label": {
+            "name": "Label",
+            "tag": "!label"
+          }
+        },
+        "categoryName": "Information",
+        "use": true
+      },
+      "buildingStoreys": {
+        "categoryElements": {
+          "aboveGroundStorey": {
+            "name": "Storey",
+            "tag": "3. LEVEL"
+          },
+          "underGroundStorey": {
+            "name": "Basement",
+            "tag": "3. BASEMENT"
+          }
+        },
+        "categoryName": "Building Storeys",
+        "use": true
+      },
+      "custom0": {
+        "categoryElements": {
+          "custom0-0": {
+            "name": "Solid Wood",
+            "tag": "A1 Solid Wood"
+          },
+          "custom0-1": {
+            "name": "Sheet Good",
+            "tag": "A2 Sheet Good"
+          },
+          "custom0-2": {
+            "name": "Nailer / Blocking",
+            "tag": "A3 Nailer"
+          },
+          "custom0-3": {
+            "name": "Metal",
+            "tag": "A4 Metal"
+          },
+          "custom0-4": {
+            "name": "Glass",
+            "tag": "A5 Glass"
+          },
+          "custom0-5": {
+            "name": "Stone",
+            "tag": "A6 Stone"
+          },
+          "custom0-6": {
+            "name": "Edge Banding",
+            "tag": "A7 Edge Banding"
+          },
+          "custom0-7": {
+            "name": "Other",
+            "tag": "A99 Other"
+          }
+        },
+        "categoryName": "Component",
+        "use": true
+      },
+      "custom1": {
+        "categoryElements": {
+          "custom1-0": {
+            "name": "Cabinet",
+            "tag": "B1 Cabinet"
+          },
+          "custom1-1": {
+            "name": "Door",
+            "tag": "B2 Door"
+          },
+          "custom1-2": {
+            "name": "Drawer Box",
+            "tag": "B3 Drawer"
+          },
+          "custom1-3": {
+            "name": "Toe Kick",
+            "tag": "B4 Toe Kick"
+          },
+          "custom1-4": {
+            "name": "Surface",
+            "tag": "B5 Surface"
+          },
+          "custom1-5": {
+            "name": "Trim",
+            "tag": "B6 Trim"
+          },
+          "custom1-6": {
+            "name": "Hardware",
+            "tag": "B7 Hardware"
+          },
+          "custom1-7": {
+            "name": "Other",
+            "tag": "B99 Other"
+          }
+        },
+        "categoryName": "Assembly",
+        "use": true
+      },
+      "custom2": {
+        "categoryElements": {
+          "custom2-0": {
+            "name": "Millwork",
+            "tag": "C1 Millwork"
+          },
+          "custom2-1": {
+            "name": "Carpentry",
+            "tag": "C2 Carpentry"
+          },
+          "custom2-2": {
+            "name": "Countertop",
+            "tag": "C3 Countertop"
+          },
+          "custom2-3": {
+            "name": "Metal Fabrication",
+            "tag": "C4 Metal Fabrication"
+          },
+          "custom2-4": {
+            "name": "Other",
+            "tag": "C99 Other"
+          }
+        },
+        "categoryName": "Work Order",
+        "use": true
+      },
+      "custom3": {
+        "categoryElements": {
+          "custom3-0": {
+            "name": "Framing",
+            "tag": "D1 Framing"
+          },
+          "custom3-1": {
+            "name": "Drywall",
+            "tag": "D2 Drywall"
+          },
+          "custom3-2": {
+            "name": "Concrete",
+            "tag": "D3 Concrete"
+          },
+          "custom3-4": {
+            "name": "Metals",
+            "tag": "D4 Metals"
+          },
+          "custom3-5": {
+            "name": "MEP",
+            "tag": "D5 MEP"
+          },
+          "custom3-6": {
+            "name": "Glass",
+            "tag": "D6 Glass"
+          },
+          "custom3-7": {
+            "name": "Stone",
+            "tag": "D7 Stone"
+          },
+          "custom3-8": {
+            "name": "Tile / Masonry",
+            "tag": "D8 Tile / Masonry"
+          },
+          "custom3-12": {
+            "name": "Lighting",
+            "tag": "D9 Lighting"
+          },
+          "custom3-11": {
+            "name": "Equipment",
+            "tag": "D10 Equipment"
+          },
+          "custom3-13": {
+            "name": "Other",
+            "tag": "D99 Other"
+          }
+        },
+        "categoryName": "Context Object",
+        "use": true
+      },
+      "custom6": {
+        "categoryElements": {
+          "custom4-0": {
+            "name": "Floor",
+            "tag": "E1 Floor"
+          },
+          "custom4-1": {
+            "name": "Wall",
+            "tag": "E2 Wall"
+          },
+          "custom4-2": {
+            "name": "Ceiling",
+            "tag": "E3 Ceiling"
+          },
+          "custom4-3": {
+            "name": "Door / Window",
+            "tag": "E4 Door / Window"
+          },
+          "custom4-5": {
+            "name": "Other",
+            "tag": "E99 Other"
+          }
+        },
+        "categoryName": "Context Group",
+        "use": true
+      },
+      "custom7": {
+        "categoryElements": {
+          "custom5-0": {
+            "name": "Dashed Line",
+            "tag": "F1 Dashed"
+          },
+          "custom5-1": {
+            "name": "Center Line",
+            "tag": "F2 Center"
+          },
+          "custom5-2": {
+            "name": "Hidden Object",
+            "tag": "F3 Hidden"
+          },
+          "custom5-3": {
+            "name": "Detail Model",
+            "tag": "F4 Detail"
+          },
+          "custom5-4": {
+            "name": "Not in Scope Area",
+            "tag": "F5 Not in Scope"
+          },
+          "custom5-5": {
+            "name": "Annotation",
+            "tag": "F6 Annotation"
+          },
+          "custom5-6": {
+            "name": "Comments",
+            "tag": "F7 Comments"
+          }
+        },
+        "categoryName": "Utility",
+        "use": true
+      }
+    },
+    "visibilities": {
+      "showAll": {
+        "name": "Show All",
+        "tag": {
+          "SScene": false
+        },
+        "use": true
+      },
+      "view": {
+        "name": "Presentations",
+        "tag": {
+          "!": false,
+          "2d_graphic": false,
+          "SScene": false,
+          "grid": false,
+          "hidden": false,
+          "space": false,
+          "tiling": false,
+          "viewport": false
+        },
+        "use": true
+      },
+      "elevation": {
+        "name": "Elevations",
+        "tag": {
+          "2d_graphic": false,
+          "SScene": false,
+          "hidden": false,
+          "space": false,
+          "viewport": false
+        },
+        "use": true
+      },
+      "section": {
+        "name": "Sections",
+        "tag": {
+          "2d_graphic": false,
+          "SScene": false,
+          "hidden": false,
+          "space": false,
+          "viewport": false
+        },
+        "use": true
+      },
+      "architecture": {
+        "name": "Architecture",
+        "tag": {
+          "3d_object": false,
+          "hidden": false,
+          "image": false,
+          "space": false,
+          "tiling": false,
+          "viewport": false
+        },
+        "use": true
+      },
+      "finishing": {
+        "name": "Finishing",
+        "tag": {
+          "1. ": false,
+          "3d_object": false,
+          "C. ": false,
+          "E. ": false,
+          "F. ": false,
+          "M. ": false,
+          "P. ": false,
+          "Q. ": false,
+          "hidden": false,
+          "image": false,
+          "space": false,
+          "viewport": false
+        },
+        "use": true
+      },
+      "dimension": {
+        "name": "Dimensioning",
+        "tag": {
+          "1. ": false,
+          "3d_object": false,
+          "C. ": false,
+          "E. ": false,
+          "F. ": false,
+          "L. ": false,
+          "M. ": false,
+          "P. ": false,
+          "Q. ": false,
+          "hidden": false,
+          "image": false,
+          "space": false,
+          "tiling": false,
+          "viewport": false
+        },
+        "use": true
+      },
+      "engineering": {
+        "name": "Engineering",
+        "tag": {
+          "1. ": false,
+          "2. ": false,
+          "3d_object": false,
+          "hidden": false,
+          "image": false,
+          "proxy": false,
+          "space": false,
+          "viewport": false
+        },
+        "use": true
+      },
+      "structure": {
+        "name": "Structure",
+        "tag": {
+          "1. ": false,
+          "2. ": false,
+          "3d_object": false,
+          "A. ": false,
+          "C. ": false,
+          "E. ": false,
+          "F. ": false,
+          "L. ": false,
+          "M. ": false,
+          "P. ": false,
+          "Q. ": false,
+          "image": false,
+          "proxy": false,
+          "space": false,
+          "viewport": false
+        },
+        "use": true
+      },
+      "custom": {
+        "name": "Custom",
+        "tag": {
+        },
+        "use": true
+      }
+    }
+  },
+  "ifcs": [
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "1. GEOGRAPHIC"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "1. VEGETATION"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "1. ANIMAL"
+    },
+    {
+      "ifc": "IfcActor",
+      "tag": "1. HUMAN"
+    },
+    {
+      "ifc": "IfcVehicle",
+      "tag": "1. VEHICLE"
+    },
+    {
+      "ifc": "IfcBuilding",
+      "tag": "2. BUILDING"
+    },
+    {
+      "ifc": "IfcSite",
+      "tag": "2. PROPERTY"
+    },
+    {
+      "ifc": "IfcSite",
+      "tag": "2. SETBACK"
+    },
+    {
+      "ifc": "IfcSite",
+      "tag": "2. SITE ELEMENT"
+    },
+    {
+      "ifc": "IfcBuildingStorey",
+      "tag": "3. BASEMENT"
+    },
+    {
+      "ifc": "IfcBuildingStorey",
+      "tag": "3. LEVEL"
+    },
+    {
+      "ifc": "IfcChimney",
+      "tag": "A. CHIMNEY"
+    },
+    {
+      "ifc": "IfcCurtainWall",
+      "tag": "A. CURTAIN WALL"
+    },
+    {
+      "ifc": "IfcDoor",
+      "tag": "A. DOOR"
+    },
+    {
+      "ifc": "IfcCovering",
+      "tag": "A. DECORATION"
+    },
+    {
+      "ifc": "IfcCovering",
+      "tag": "A. FINISHING CEILING"
+    },
+    {
+      "ifc": "IfcCovering",
+      "tag": "A. FINISHING FLOOR"
+    },
+    {
+      "ifc": "IfcCovering",
+      "tag": "A. FINISHING WALL"
+    },
+    {
+      "ifc": "IfcRailing",
+      "tag": "A. RAILING"
+    },
+    {
+      "ifc": "IfcRamp",
+      "tag": "A. RAMP"
+    },
+    {
+      "ifc": "IfcRoof",
+      "tag": "A. ROOF"
+    },
+    {
+      "ifc": "IfcShadingDevice",
+      "tag": "A. SHADING"
+    },
+    {
+      "ifc": "IfcSpace",
+      "tag": "A. SPACE"
+    },
+    {
+      "ifc": "IfcStair",
+      "tag": "A. STAIR"
+    },
+    {
+      "ifc": "IfcWall",
+      "tag": "A. WALL"
+    },
+    {
+      "ifc": "IfcWindow",
+      "tag": "A. WINDOW"
+    },
+    {
+      "ifc": "IfcFurniture",
+      "tag": "I. FURNITURE"
+    },
+    {
+      "ifc": "IfcFurniture",
+      "tag": "I. DECORATION"
+    },
+    {
+      "ifc": "IfcCovering",
+      "tag": "I. COVERING"
+    },
+    {
+      "ifc": "IfcCovering",
+      "tag": "I. PARTITION"
+    },
+    {
+      "ifc": "IfcBuildingElementProxy",
+      "tag": "I. EQUIPMENT"
+    },
+    {
+      "ifc": "IfcCableCarrierFitting",
+      "tag": "E. CABLE CARRIER FITTING"
+    },
+    {
+      "ifc": "IfcCableCarrierSegment",
+      "tag": "E. CABLE CARRIER SEGMENT"
+    },
+    {
+      "ifc": "IfcCableFitting",
+      "tag": "E. CABLE FITTING"
+    },
+    {
+      "ifc": "IfcCableSegment",
+      "tag": "E. CABLE SEGMENT"
+    },
+    {
+      "ifc": "IfcElectricDistributionBoard",
+      "tag": "E. ELECTRIC DISTRIBUTION BOARD"
+    },
+    {
+      "ifc": "IfcElectricFlowStorageDevice",
+      "tag": "E. ELECTRIC FLOW STORAGE"
+    },
+    {
+      "ifc": "IfcElectricGenerator",
+      "tag": "E. ELECTRIC GENERATOR"
+    },
+    {
+      "ifc": "IfcElectricMotor",
+      "tag": "E. ELECTRIC MOTOR"
+    },
+    {
+      "ifc": "IfcElectricTimeControl",
+      "tag": "E. ELECTRIC TIME CONTROL"
+    },
+    {
+      "ifc": "IfcJunctionBox",
+      "tag": "E. JUNCTION BOX"
+    },
+    {
+      "ifc": "IfcLightFixture",
+      "tag": "E. LIGHT FIXTURE"
+    },
+    {
+      "ifc": "IfcProtectiveDevice",
+      "tag": "E. PROTECTIVE DEVICE"
+    },
+    {
+      "ifc": "IfcTransformer",
+      "tag": "E. TRANSFORMER"
+    },
+    {
+      "ifc": "IfcProtectiveDeviceTrippingUnit",
+      "tag": "E. TRIPPING UNIT"
+    },
+    {
+      "ifc": "IfcFireSuppressionTerminal",
+      "tag": "F. FIRE SUPPRESSION"
+    },
+    {
+      "ifc": "IfcActuator",
+      "tag": "M. ACTUATOR"
+    },
+    {
+      "ifc": "IfcAirTerminal",
+      "tag": "M. AIR TERMINAL"
+    },
+    {
+      "ifc": "IfcAirTerminalBox",
+      "tag": "M. AIR TERMINAL BOX"
+    },
+    {
+      "ifc": "IfcAirToAirHeatRecovery",
+      "tag": "M. AIR TO AIR HEAT RECOVERY"
+    },
+    {
+      "ifc": "IfcBoiler",
+      "tag": "M. BOILER"
+    },
+    {
+      "ifc": "IfcChiller",
+      "tag": "M. CHILLER"
+    },
+    {
+      "ifc": "IfcCoil",
+      "tag": "M. COIL"
+    },
+    {
+      "ifc": "IfcCompressor",
+      "tag": "M. COMPRESSOR"
+    },
+    {
+      "ifc": "IfcCondenser",
+      "tag": "M. CONDENSER"
+    },
+    {
+      "ifc": "IfcCooledBeam",
+      "tag": "M. COOLED BEAM"
+    },
+    {
+      "ifc": "IfcCoolingTower",
+      "tag": "M. COOLING TOWER"
+    },
+    {
+      "ifc": "IfcDamper",
+      "tag": "M. DAMPER"
+    },
+    {
+      "ifc": "IfcDuctFitting",
+      "tag": "M. DUCT FITTING"
+    },
+    {
+      "ifc": "IfcDuctSegment",
+      "tag": "M. DUCT SEGMENT"
+    },
+    {
+      "ifc": "IfcDuctSilencer",
+      "tag": "M. DUCT SILENCER"
+    },
+    {
+      "ifc": "IfcEngine",
+      "tag": "M. ENGINE"
+    },
+    {
+      "ifc": "IfcEvaporativeCooler",
+      "tag": "M. EVAPORATIVE COOLER"
+    },
+    {
+      "ifc": "IfcEvaporator",
+      "tag": "M. EVAPORATOR"
+    },
+    {
+      "ifc": "IfcFilter",
+      "tag": "M. FILTER"
+    },
+    {
+      "ifc": "IfcHeatExchanger",
+      "tag": "M. HEAT EXCHANGER"
+    },
+    {
+      "ifc": "IfcHumidifier",
+      "tag": "M. HUMIDIFIER"
+    },
+    {
+      "ifc": "IfcMotorConnection",
+      "tag": "M. MOTOR CONNECTION"
+    },
+    {
+      "ifc": "IfcTubeBundle",
+      "tag": "M. TUBE BUNDLE"
+    },
+    {
+      "ifc": "IfcVibrationIsolator",
+      "tag": "M. VIBRATION ISOLATOR"
+    },
+    {
+      "ifc": "IfcDistributionChamberElement",
+      "tag": "P. DISTRIBUTION CHAMBER"
+    },
+    {
+      "ifc": "IfcFlowInstrument",
+      "tag": "P. FLOW INSTRUMENT"
+    },
+    {
+      "ifc": "IfcFlowMeter",
+      "tag": "P. FLOW METER"
+    },
+    {
+      "ifc": "IfcInterceptor",
+      "tag": "P. INTERCEPTOR"
+    },
+    {
+      "ifc": "IfcPipeFitting",
+      "tag": "P. PIPE FITTING"
+    },
+    {
+      "ifc": "IfcPipeSegment",
+      "tag": "P. PIPE SEGMENT"
+    },
+    {
+      "ifc": "IfcPump",
+      "tag": "P. PUMP"
+    },
+    {
+      "ifc": "IfcValve",
+      "tag": "P. VALVE"
+    },
+    {
+      "ifc": "IfcWasteTerminal",
+      "tag": "P. WASTE TERMINAL"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "L. HARDSCAPE"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "L. SOFTSCAPE"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "L. TOPOGRAPHY"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "L. WATER FEATURE"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "L. LAWN"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "L. SHRUB"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "L. TREE"
+    },
+    {
+      "ifc": "IfcGeographicElement",
+      "tag": "L. WALKWAY"
+    },
+    {
+      "ifc": "IfcDiscreteAccessory",
+      "tag": "Q. ACCESSORY"
+    },
+    {
+      "ifc": "IfcAlarm",
+      "tag": "Q. ALARM"
+    },
+    {
+      "ifc": "IfcAudioVisualAppliance",
+      "tag": "Q. AUDIO VISUAL APPLIANCE"
+    },
+    {
+      "ifc": "IfcBurner",
+      "tag": "Q. BURNER"
+    },
+    {
+      "ifc": "IfcCommunicationsAppliance",
+      "tag": "Q. COMMUNICATIONS APPLIANCE"
+    },
+    {
+      "ifc": "IfcController",
+      "tag": "Q. CONTROLLER"
+    },
+    {
+      "ifc": "IfcElectricAppliance",
+      "tag": "Q. ELECTRIC APPLIANCE"
+    },
+    {
+      "ifc": "IfcFan",
+      "tag": "Q. FAN"
+    },
+    {
+      "ifc": "IfcFastener",
+      "tag": "Q. FASTENER"
+    },
+    {
+      "ifc": "IfcFurniture",
+      "tag": "Q. FURNITURE"
+    },
+    {
+      "ifc": "IfcSystemFurnitureElement",
+      "tag": "Q. FURNITURE ELEMENT"
+    },
+    {
+      "ifc": "IfcLamp",
+      "tag": "Q. LAMP"
+    },
+    {
+      "ifc": "IfcMechanicalFastener",
+      "tag": "Q. MECHANICAL FASTENER"
+    },
+    {
+      "ifc": "IfcMedicalDevice",
+      "tag": "Q. MEDICAL DEVICE"
+    },
+    {
+      "ifc": "IfcOutlet",
+      "tag": "Q. OUTLET"
+    },
+    {
+      "ifc": "IfcSanitaryTerminal",
+      "tag": "Q. SANITARY"
+    },
+    {
+      "ifc": "IfcSensor",
+      "tag": "Q. SENSOR"
+    },
+    {
+      "ifc": "IfcSolarDevice",
+      "tag": "Q. SOLAR DEVICE"
+    },
+    {
+      "ifc": "IfcSpaceHeater",
+      "tag": "Q. SPACE HEATER"
+    },
+    {
+      "ifc": "IfcStackTerminal",
+      "tag": "Q. STACK"
+    },
+    {
+      "ifc": "IfcSwitchingDevice",
+      "tag": "Q. SWITCH"
+    },
+    {
+      "ifc": "IfcTank",
+      "tag": "Q. TANK"
+    },
+    {
+      "ifc": "IfcTransportElement",
+      "tag": "Q. TRANSPORT ELEMENT"
+    },
+    {
+      "ifc": "IfcUnitaryControlElement",
+      "tag": "Q. UNITARY CONTROL ELEMENT"
+    },
+    {
+      "ifc": "IfcUnitaryEquipment",
+      "tag": "Q. UNITARY EQUIPMENT"
+    },
+    {
+      "ifc": "IfcBeam",
+      "tag": "S. BEAM"
+    },
+    {
+      "ifc": "IfcColumn",
+      "tag": "S. COLUMN"
+    },
+    {
+      "ifc": "IfcFooting",
+      "tag": "S. FOOTING"
+    },
+    {
+      "ifc": "IfcMember",
+      "tag": "S. MEMBER"
+    },
+    {
+      "ifc": "IfcPile",
+      "tag": "S. PILE"
+    },
+    {
+      "ifc": "IfcPlate",
+      "tag": "S. PLATE"
+    },
+    {
+      "ifc": "IfcReinforcingBar",
+      "tag": "S. REINFORCING BAR"
+    },
+    {
+      "ifc": "IfcReinforcingMesh",
+      "tag": "S. REINFORCING MESH"
+    },
+    {
+      "ifc": "IfcSlab",
+      "tag": "S. SLAB"
+    },
+    {
+      "ifc": "IfcTendon",
+      "tag": "S. TENDON"
+    },
+    {
+      "ifc": "IfcTendonAnchor",
+      "tag": "S. TENDON ANCHOR"
+    }
+  ],
+  "paths": {
+    "styles_folder": "C:/Sketchup Library/Styles",
+    "grids_folder": "C:/Sketchup Library/Extensions/5D/5d_plus_samples/grids/style 1",
+    "labels_folder": "C:/Sketchup Library/Extensions/5D/5d_plus_samples/labels/style 1",
+    "tags_folder": "C:/Sketchup Library/Extensions/5D/Tags",
+    "crs_folder": "C:/Sketchup Library/Extensions/Curic Section/Tags and Materials"
+  }
+}
