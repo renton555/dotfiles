@@ -1,0 +1,185 @@
+---
+- name: The Master Workstation Setup
+  hosts: myhosts
+  vars:
+    linux_user: tluedke
+
+    # 1. WINDOWS SOFTWARE (Chocolatey)
+    windows_software:
+      - bitwarden
+      - notepadplusplus
+      - autohotkey
+      - git
+      - github-desktop
+      - notion
+      - telegram
+      - vivaldi
+      - microsoft-windows-terminal
+      - obsidian
+      - chezmoi
+      - powertoys
+      - espanso
+      - icloud
+      - jre8  # Java 8 Runtime
+      - libreoffice-fresh
+      - listary
+      - logioptionsplus
+      - vscode
+      - signal
+      - ruby
+      - python
+      - revo-uninstaller
+      - powershell-core
+
+    # 2. WSL2 LINUX SOFTWARE (APT)
+    linux_software:
+      - pipx
+      - jq
+      - socat
+      - cargo
+      - ruby-full
+      - python3
+      - nodejs
+      - npm
+      - tmux
+      - lua5.1
+      - luarocks
+      - golang
+      - ansible
+      - bat
+      - clang
+      - curl
+      - dash
+      - fzf
+      - gcc
+      - git
+      - make
+      - neovim
+      - pandoc
+      - python3-pip
+      - python3-pynvim
+      - ripgrep
+      - tree
+      - unzip
+      - xclip
+      - build-essential
+    
+    # 3. LANGUAGE-SPECIFIC PACKAGES
+    npm_globals:
+      - prettier
+      - typescript
+    
+    pipx_packages:
+      - black
+      - poetry
+      - yt-dlp
+
+  tasks:
+
+#    # PHASE 1: WINDOWS SETUP
+#    - name: Install Windows software via Chocolatey
+#      chocolatey.chocolatey.win_chocolatey:
+#        name: "{{ item }}"
+#        state: present
+#      loop: "{{ windows_software }}"
+#
+#    # PHASE 2: ENABLE & UPDATE WSL2
+#    - name: Enable Windows Subsystem for Linux
+#      ansible.windows.win_optional_feature:
+#        name: Microsoft-Windows-Subsystem-Linux
+#        state: present
+#      register: wsl_feature
+#
+#    - name: Enable Virtual Machine Platform (Required for WSL2)
+#      ansible.windows.win_optional_feature:
+#        name: VirtualMachinePlatform
+#        state: present
+#      register: vmp_feature
+#
+#    # ADD THIS NEW TASK:
+#    - name: Ensure the WSL engine is updated to the latest version
+#      ansible.windows.win_shell: wsl --update
+#      register: wsl_update
+#      changed_when: >
+#        'Downloading' in wsl_update.stdout or 
+#        'Installing' in wsl_update.stdout or
+#        'Upgrading' in wsl_update.stdout
+#      ignore_errors: true
+#
+#    - name: Reboot Windows if features were just enabled
+#      ansible.windows.win_reboot:
+#      when: wsl_feature.reboot_required or vmp_feature.reboot_required
+
+    # PHASE 3: WSL2 OS INSTALLATION
+#    - name: Ensure Ubuntu is installed in WSL
+#      ansible.windows.win_shell: wsl --install -d Ubuntu --no-launch
+#      register: wsl_install
+#      changed_when: "'Installing' in wsl_install.stdout"
+#
+# If this is a brand-new Windows machine, I highly recommend commenting out Phases 4, 5, and 6 on your very first run. Let Ansible install Windows and WSL. Then, manually open Ubuntu from the Start Menu, type in your desired UNIX username and password, close it, uncomment the rest of the playbook, and run it again.
+
+     # PHASE 4: LINUX SOFTWARE (The Pass-Through Trick)
+    - name: Update apt cache inside WSL2
+      ansible.windows.win_shell: wsl -d Ubuntu -u root -- apt-get update
+      changed_when: false
+ 
+    - name: Install Linux software inside WSL2
+      ansible.windows.win_shell: wsl -d Ubuntu -u root -- apt-get install -y {{ item }}
+      loop: "{{ linux_software }}"
+
+    - name: Install Chezmoi binary in WSL2
+      ansible.windows.win_shell: >
+        wsl -d Ubuntu -u root -- 
+        bash -c "curl -fsLS get.chezmoi.io | sh -s -- -b /usr/local/bin"
+     
+     # PHASE 5: LANGUAGE PACKAGE MANAGERS (WSL2)
+     # --- NPM (Node.js) ---
+    - name: Install global NPM packages
+      ansible.windows.win_shell: wsl -d Ubuntu -u root -- npm install -g {{ item }}
+      loop: "{{ npm_globals }}"
+     # Note: NPM sometimes throws warnings to stderr, which Ansible interprets as a failure.
+     # ignore_errors allows it to proceed even if NPM complains about a deprecation.
+      ignore_errors: yes
+ 
+     # --- PIPX (Python Isolated Apps) ---
+     # Pipx is the modern, safe way to install global Python CLI tools 
+     # without breaking your system environment.
+    - name: Install Python CLI tools via Pipx
+      ansible.windows.win_shell: wsl -d Ubuntu -- pipx install {{ item }}
+      loop: "{{ pipx_packages }}"
+      ignore_errors: yes
+ 
+# PHASE 6: DEPLOY DOTFILES VIA CHEZMOI
+    - name: Initialize and apply chezmoi on Windows
+      ansible.windows.win_shell: |
+        if (!(Get-Command chezmoi -ErrorAction SilentlyContinue)) {
+            Write-Host "Chezmoi not found, skipping apply."
+        } else {
+            if (Test-Path "$env:USERPROFILE\.local\share\chezmoi") {
+                Remove-Item -Recurse -Force "$env:USERPROFILE\.local\share\chezmoi"
+            }
+            chezmoi init --apply --force https://github.com/renton555/dotfiles.git
+        }
+
+    - name: Initialize and apply chezmoi on WSL2
+      # We use 'wsl -u {{ your_linux_user }}' to ensure it runs as you, not root
+      ansible.windows.win_shell: >
+       wsl -d Ubuntu -u {{ linux_user }} --
+       bash -c 'export BW_SESSION=$(bw.exe unlock --raw);
+       chezmoi init --apply --force https://github.com/renton555/dotfiles.git'
+      register: chezmoi_wsl
+      changed_when: "'applied' in chezmoi_wsl.stdout"
+
+    # PHASE 7: POST-DOTFILES CONFIGURATION
+    - name: Clone Tmux Plugin Manager (TPM)
+      ansible.windows.win_shell: >
+        wsl -d Ubuntu -u {{ linux_user }} --
+        bash -c "if [ ! -d ~/.tmux/plugins/tpm ]; then git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm; fi"
+      changed_when: false
+
+    - name: Install Tmux Plugins via TPM headless script
+      ansible.windows.win_shell: >
+        wsl -d Ubuntu -u {{ linux_user }} --
+        bash -c "~/.tmux/plugins/tpm/bin/install_plugins"
+      register: tpm_install
+      changed_when: "'Installed' in tpm_install.stdout or 'Saved' in tpm_install.stdout"
