@@ -91,8 +91,6 @@
         --accept-package-agreements 
         --accept-source-agreements
       loop:
-        - Microsoft.WindowsTerminalPreview
-        - XPensys.XPen
         - Google.Antigravity # (If you have the clearance)
       register: winget_result
       # Teach Ansible to read Winget's text output to determine if a change was actually made
