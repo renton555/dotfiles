@@ -82,6 +82,26 @@
         name: "{{ item }}"
         state: present
       loop: "{{ windows_software }}"
+      
+    - name: Install exclusive software via Winget
+      ansible.windows.win_shell: >
+        winget install --id {{ item }} 
+        --exact 
+        --silent 
+        --accept-package-agreements 
+        --accept-source-agreements
+      loop:
+        - Microsoft.WindowsTerminalPreview
+        - XPensys.XPen
+        - Google.Antigravity # (If you have the clearance)
+      register: winget_result
+      # Teach Ansible to read Winget's text output to determine if a change was actually made
+      changed_when: "'Successfully installed' in winget_result.stdout"
+      # Prevent Ansible from crashing if Winget says the app is already installed
+      failed_when: 
+        - winget_result.rc != 0
+        - "'already installed' not in winget_result.stdout"
+        - "'No available upgrade' not in winget_result.stdout"
 
     # PHASE 2: ENABLE & UPDATE WSL2
     - name: Enable Windows Subsystem for Linux
