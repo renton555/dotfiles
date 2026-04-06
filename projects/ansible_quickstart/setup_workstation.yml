@@ -109,7 +109,7 @@
     - name: Reboot Windows if features were just enabled
       ansible.windows.win_reboot:
       when: wsl_feature.reboot_required or vmp_feature.reboot_required
-
+      
     # PHASE 3: WSL2 OS INSTALLATION
 #    - name: Ensure Ubuntu is installed in WSL
 #      ansible.windows.win_shell: wsl --install -d Ubuntu --no-launch
@@ -165,21 +165,21 @@
       # We use 'wsl -u {{ your_linux_user }}' to ensure it runs as you, not root
       ansible.windows.win_shell: >
        wsl -d Ubuntu -u {{ linux_user }} --
-       bash -c "export BW_SESSION=$(bw.exe unlock --raw);
-       chezmoi init --apply --force https://github.com/renton555/dotfiles.git"
+       bash -c 'export BW_SESSION=$(bw.exe unlock --raw);
+       chezmoi init --apply --force https://github.com/renton555/dotfiles.git'
       register: chezmoi_wsl
       changed_when: "'applied' in chezmoi_wsl.stdout"
 
     # PHASE 7: POST-DOTFILES CONFIGURATION
     - name: Clone Tmux Plugin Manager (TPM)
       ansible.windows.win_shell: >
-        wsl -d Ubuntu -u {{ linux_user }} -- 
+        wsl -d Ubuntu -u {{ linux_user }} --
         bash -c "if [ ! -d ~/.tmux/plugins/tpm ]; then git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm; fi"
       changed_when: false
 
     - name: Install Tmux Plugins via TPM headless script
       ansible.windows.win_shell: >
-        wsl -d Ubuntu -u {{ linux_user }} -- 
+        wsl -d Ubuntu -u {{ linux_user }} --
         bash -c "~/.tmux/plugins/tpm/bin/install_plugins"
       register: tpm_install
       changed_when: "'Installed' in tpm_install.stdout or 'Saved' in tpm_install.stdout"
