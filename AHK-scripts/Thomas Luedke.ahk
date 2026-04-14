@@ -1,4 +1,15 @@
 #Requires AutoHotkey v2.0
+#SingleInstance Force
+
+; ==============================================================================
+; 🚦 SMART BOOT WAIT (With 30-Second Timeout)
+; ==============================================================================
+; todo - this is Gemini's 15th solution to the problem of auto startup
+; Wait for the Windows Desktop process to exist (max 30 seconds)
+ProcessWait("explorer.exe", 30)
+
+; Wait for the Taskbar to render (max 30 seconds)
+WinWait("ahk_class Shell_TrayWnd", , 30)
 
 ; Check if the script is running as admin
 if not A_IsAdmin
@@ -9,19 +20,8 @@ if not A_IsAdmin
 }
 
 ; --- The rest of your script goes below ---
-
-#SingleInstance Force
 SetTitleMatchMode 2
-
 SendMode "Input"
-SetTitleMatchMode 2
-
-
-; ─────────────────────────────
-; 2️⃣ Notion-Only Hotstrings
-; ─────────────────────────────
-
-
 
 ; ==============================================================================
 ; 0. General Purpose Hotkeys and Remaps
@@ -108,6 +108,7 @@ CapsLock & g::Send "{AppsKey}" ; Context Menu
 #HotIf WinActive("ahk_exe Notion.exe")
 
 :X:/synb::
+CapsLock & s::
 {
     SendInput "/synced"
     Sleep 100
@@ -122,10 +123,10 @@ CapsLock & g::Send "{AppsKey}" ; Context Menu
 ; proof of concept:  ? to open keyboard shortcut reference
 CapsLock & ?::Send "^!/"     ; Undo
 
-; create reminder
+; create reminder - defaults to tomorrow at 7am
 CapsLock & r::
 {
-    SendInput "@r"
+    SendInput "@remind tomorrow 7am"
     Sleep 100
     SendInput "{Enter}" 
 }
@@ -153,9 +154,27 @@ CapsLock & Right::Send "\"  ; right sidebar toggle
 CapsLock & Left::Send "^!+{Left}"  ; left sidebar toggle
 CapsLock & Right::Send "^!+{Right}"  ; right sidebar toggle
 
+; create reminder - defaults to tomorrow at 7am
+CapsLock & r::
+{
+    SendInput "@@"
+    Sleep 100
+    SendInput "{Right}"
+    SendInput "{Enter}"
+}
+
+
 #HotIf ; Reset context sensitivity
 
 ; 2.4.  Bluebeam:
 ; ==============================================================================; 
+#HotIf WinActive("ahk_exe Revu.exe")
+
+CapsLock & Left::Send "!x"  ; tool toggle
+CapsLock & Right::Send "!p"  ; right sidebar toggle
+CapsLock & Down::Send "!l"  ; markups list toggle
+CapsLock & Up::Send "^!+{Up}"  ; all panels toggle
+
+#HotIf ; Reset context sensitivity
 ; 2.1.  SketchUp:
 ; ==============================================================================

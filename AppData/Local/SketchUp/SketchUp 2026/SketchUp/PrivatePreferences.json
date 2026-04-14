@@ -11,32 +11,37 @@
         "5D+ Plus": {
             "converted_2.1.0": "true",
             "converted_2.1.4": "true",
-            "crs_folder": "\"C:/02-Dotfiles/01 Settings/02 Curic Section\"",
+            "converted_2.2.1": "true",
+            "crs_folder": "\"C:/Sketchup Library/Extensions/Curic Section/Tags and Materials\"",
             "deep_select_level": "0",
             "draw_info": "false",
-            "grids_folder": "\"\"",
+            "grids_folder": "\"C:/Sketchup Library/Extensions/5D/5d_plus_samples/grids/style 1\"",
             "grids_styles_folder": "\"style 1\"",
             "info_box_fixed": "false",
-            "instance": "\"458e7a35-7e53-4177-af6c-3873e6fe200e\"",
-            "instance_date": "\"2026-03-30\"",
-            "labels_folder": "\"\"",
+            "instance": "\"bacbfd8b-e7f5-49a6-b4e8-1ba42ed4a262\"",
+            "instance_date": "\"2026-04-13\"",
+            "labels_folder": "\"C:/Sketchup Library/Extensions/5D/5d_plus_samples/labels/style 1\"",
             "labels_styles_folder": "\"style 1\"",
             "language": "\"en-US\"",
             "last_export_path": "\"C:/03-Temp/5D Settings2026-03-01/newer/even newer\"",
-            "last_import_path": "\"C:/03-Temp/5D Settings2026-03-01/newer/even newer\"",
+            "last_import_path": "\"C:/Users/hsd/.config/5dplus\"",
             "latestUrls": "{\"homepageEn\"=>\"https://5dplus.info\", \"homepageVi\"=>\"https://5dplus.info\", \"facebook\"=>\"https://www.facebook.com/5dplus.sketchup\", \"email\"=>\"support@5dplus.info\", \"store\"=>\"https://5dplus.info/store.html\", \"userOrders\"=>\"https://app.lemonsqueezy.com/my-orders\", \"samples\"=>\"https://5dplus.info/download/plus/index.html\", \"userManualEn\"=>\"https://www.dropbox.com/scl/fi/vyw8u73krqxshdb860t2g/5D-PLUS-USER-MANUAL-2.0.paper?rlkey=v3hi9fceo13d8hecesy41bwqc&st=0mwx4wau&dl=0\", \"userManualVi\"=>\"https://www.dropbox.com/scl/fi/04kfwykwqyzm0viryj0um/5D-PLUS-H-NG-D-N-S-D-NG-2.0.paper?rlkey=dmo9u2bqw8jl6o43cugvipfdt&st=3agrr36a&dl=0\", \"releaseNotesEn\"=>\"https://www.canva.com/design/DAG-OrOAsoo/XckzRMY4vkHMKACwhOkXCA/view?embed\", \"releaseNotesVi\"=>\"https://www.canva.com/design/DAG-OrOAsoo/XckzRMY4vkHMKACwhOkXCA/view?embed\", \"noticeEn\"=>\"https://www.canva.com/design/DAG5am8iYBo/mSs8TZaMv3PelfaYXHHy9A/view?embed\", \"noticeVi\"=>\"https://www.canva.com/design/DAG5am8iYBo/mSs8TZaMv3PelfaYXHHy9A/view?embed\", \"tutorialsEn\"=>{\"autoIfc\"=>\"https://www.youtube.com/embed/mC0PgYDbpdo?si=SpZyoLCHFqZL_ZeH\", \"clippingMask\"=>\"https://www.canva.com/design/DAHALTa0QbI/aRMo50LjRAWe6d6J3weR8Q/view?embed\", \"columnGrid\"=>\"https://www.canva.com/design/DAG_HSSwDJ0/LSnbp2-VKjLLXrTXuHisXw/view?embed\", \"detailScene\"=>\"https://www.canva.com/design/DAG_DoCbE40/U1OyEUQKVOV9WOiXUgBUkg/view?embed\", \"grids\"=>\"https://www.canva.com/design/DAG_t-Sjl90/vDcv7EfMYa5GbmimwQobnA/view?embed\", \"lessonStyles\"=>\"https://www.canva.com/design/DAG0d4tPYpQ/MFou2r2ehmu8DgMQKh2Clg/view?embed\", \"lessonTags\"=>\"https://www.canva.com/design/DAG0d6cO2K4/XDrxUXidBU_Z5ggoPUi5TQ/view?embed\", \"license\"=>\"https://www.youtube.com/embed/IZmxtP_u-gU?si=TXlDz3oOxGysuC-QF\", \"sectionLabel\"=>\"https://www.canva.com/design/DAG_EAjmi6c/1qjQYZs-mT8DGjN5vjbTXQ/view?embed\", \"selector\"=>\"https://www.youtube.com/embed/3lS4FvwqEVg?si=u-Pz4eHvVZkHpSJE\"}, \"tutorialsVi\"=>{\"autoIfc\"=>\"https://www.youtube.com/embed/mC0PgYDbpdo?si=SpZyoLCHFqZL_ZeH\", \"clippingMask\"=>\"https://www.canva.com/design/DAHALTa0QbI/aRMo50LjRAWe6d6J3weR8Q/view?embed\", \"columnGrid\"=>\"https://www.canva.com/design/DAG_HSSwDJ0/LSnbp2-VKjLLXrTXuHisXw/view?embed\", \"detailScene\"=>\"https://www.canva.com/design/DAG_DoCbE40/U1OyEUQKVOV9WOiXUgBUkg/view?embed\", \"grids\"=>\"https://www.canva.com/design/DAG_t-Sjl90/vDcv7EfMYa5GbmimwQobnA/view?embed\", \"lessonStyles\"=>\"https://www.canva.com/design/DAG0d7ub6UQ/vHnXgM73tYbFewtydbVhGw/view?embed\", \"lessonTags\"=>\"https://www.canva.com/design/DAG0d6RrpLk/xGXZXJ3BYRn9r22f5JPd_Q/view?embed\", \"license\"=>\"https://www.youtube.com/embed/IZmxtP_u-gU?si=TXlDz3oOxGysuC-QF\", \"sectionLabel\"=>\"https://www.canva.com/design/DAG_EAjmi6c/1qjQYZs-mT8DGjN5vjbTXQ/view?embed\", \"selector\"=>\"https://www.youtube.com/embed/3lS4FvwqEVg?si=u-Pz4eHvVZkHpSJE\"}}",
             "latestVersion": "\"2.1.5\"",
             "newVersion": "false",
             "select_deepest": "false",
             "show_classify": "false",
             "show_visibility": "false",
-            "styles_folder": "\"C:/01-Local Work/02-SketchUp/07-Styles\"",
-            "tags_folder": "\"C:/02-Dotfiles/01 Settings/02 Curic Section\"",
+            "styles_folder": "\"C:/Sketchup Library/Styles\"",
+            "symbols_folder": "",
+            "tags_folder": "\"C:/Sketchup Library/Extensions/5D/Tags\"",
             "translated": "true"
+        },
+        "AmplitudeGuides": {
+            "ShowOnlyUrgent": false
         },
         "Application": {
             "lastSeenMarketingNotificationId": 19,
-            "RunCounterSU": 133
+            "RunCounterSU": 152
         },
         "Common": {
             "AcceptedTerms": true
@@ -55,9 +60,11 @@
             "License Checked": "true"
         },
         "Curic Section View": {
-            "section_state": "\"ev_section\""
+            "section_state": ""
         },
         "Curic Single-Line Text": {
+            "fixed_line_height": "1",
+            "fixed_line_height_char": "\"Z\"",
             "License Checked": "true"
         },
         "Curic Studio": {
@@ -70,13 +77,13 @@
             "1.0.2": "\"1772164593\""
         },
         "CURIC::ScalePlusPlus": {
-            "1.1.1": "\"1773681582\""
+            "1.1.1": "\"1775491156\""
         },
         "CURIC::SingleText": {
-            "1.0.0": "\"1773681582\""
+            "1.0.0": "\"1775491156\""
         },
         "CURIC::Studio": {
-            "1.2.0": "\"1773681582\""
+            "1.2.0": "\"1775491156\""
         },
         "curic_behavior": {
             "state": "0"
@@ -85,7 +92,7 @@
             "multi_object": "false",
             "object_mode": "0",
             "radius": "41.71294568723089",
-            "solid_tool": "1"
+            "solid_tool": "2"
         },
         "curic_lengthsnapping": {
             "length": "0.125"
@@ -99,8 +106,11 @@
             "show_distance_opposite": "true",
             "show_vbo_loban": "false"
         },
+        "curic_stretch": {
+            "make_unique": "false"
+        },
         "ExtensionErrorsDialog": {
-            "Geometry": "01d9d0cb00030000000002c9000001d60000066b000003d3000002c9000001f40000066b000003d300000000000000000a00000002c9000001f40000066b000003d3"
+            "Geometry": "01d9d0cb0003000000000bb8000001c300000d33000003c100000bb8000001e200000d33000003c100000001000000000a0000000bb8000001e200000d33000003c1"
         },
         "Extensions": {
             "5D+ Auto Info1.6.1": 1,
@@ -109,6 +119,7 @@
             "5D+ Auto Tag2.5.3": 1,
             "5D+ Library1.4.1": 1,
             "5D+ Plus2.1.5": 1,
+            "5D+ Plus2.2.3": 1,
             "5D+ Snippet1.0.0": 0,
             "5d_auto_info.rb": 1,
             "5d_auto_layout.rb": 1,
@@ -174,6 +185,7 @@
             "Fbu Definitions Plus": 1,
             "Fbu_Definitions_Plus.rb": 1,
             "FlexTools2.17.0": 1,
+            "FlexTools2.18.3": 1,
             "habitat_site_context.rb": 0,
             "ladb_opencutlist.rb": 1,
             "Lost & Found Hidden Windows1.0.0": 1,
@@ -196,8 +208,13 @@
         "F3dFlex": {
             "opt_check_latest_versions__": "true",
             "opt_component_finder__cid": "\"167472817418969589922909793416\"",
-            "opt_current_version__flextools_2": "\"2.17.0\"",
-            "opt_c__": "214",
+            "opt_current_version__flextools_2": "\"2.18.3\"",
+            "opt_c__": "20",
+            "opt_dont_show_again_expiration_notification__component_finder_pack": "",
+            "opt_dont_show_notification_auto_renew__component_finder_pack": "",
+            "opt_dont_show_notification_expired__component_finder_pack": "",
+            "opt_dont_show_notification_going_to_expire_past_due__component_finder_pack": "",
+            "opt_dont_show_notification_going_to_expire__component_finder_pack": "",
             "opt_latest_version__component_finder": "\"1.8.1\"",
             "opt_latest_version__component_finder_pack": "\"1.8.1\"",
             "opt_latest_version__flextools_2": "\"2.18.3\"",
@@ -232,12 +249,12 @@
             "core.muted_update_build": "\"202603071721\"",
             "core.presets": "{\"tool_smart_draw_options\"=>{\"action_0\"=>{\"_default\"=>{\"shape_offset\"=>\"0\", \"construction\"=>false, \"rectangle_centered\"=>false, \"measure_from_vertex\"=>false, \"pull_centered\"=>false, \"ask_name\"=>false}}, \"action_2\"=>{\"_default\"=>{\"shape_offset\"=>\"0\", \"construction\"=>false, \"measure_from_vertex\"=>false, \"measure_reversed\"=>false, \"pull_centered\"=>false, \"ask_name\"=>true}}}, \"tool_smart_reshape_options\"=>{\"action_0\"=>{\"_default\"=>{\"stretch_measure_type\"=>\"offset\", \"axes\"=>\"entity\", \"centred\"=>false, \"make_unique\"=>false}}}, \"cutlist_options\"=>{\"0\"=>{\"HSD 2025\"=>{\"auto_orient\"=>false, \"flipped_detection\"=>false, \"smart_material\"=>false, \"dynamic_attributes_name\"=>true, \"part_number_with_letters\"=>false, \"part_number_sequence_by_group\"=>true, \"part_folding\"=>false, \"hide_entity_names\"=>false, \"hide_descriptions\"=>false, \"hide_tags\"=>false, \"hide_cutting_dimensions\"=>true, \"hide_bbox_dimensions\"=>false, \"hide_final_areas\"=>true, \"hide_edges\"=>false, \"hide_faces\"=>true, \"hide_material_colors\"=>false, \"minimize_on_highlight\"=>false, \"tags\"=>[\"\"], \"group_order_strategy\"=>\"material_type>material_name>-std_thickness>-std_width\", \"part_order_strategy\"=>\"-edge_pattern>-thickness>-width>-length>-count>name>tags>thickness_layer_count\", \"dimension_column_order_strategy\"=>\"thickness>width>length\"}, \"HSD 2026\"=>{\"auto_orient\"=>false, \"flipped_detection\"=>false, \"smart_material\"=>false, \"dynamic_attributes_name\"=>false, \"part_number_with_letters\"=>false, \"part_number_sequence_by_group\"=>true, \"part_folding\"=>true, \"hide_entity_names\"=>false, \"hide_descriptions\"=>false, \"hide_tags\"=>false, \"hide_cutting_dimensions\"=>false, \"hide_bbox_dimensions\"=>false, \"hide_final_areas\"=>true, \"hide_edges\"=>false, \"hide_faces\"=>true, \"hide_material_colors\"=>false, \"minimize_on_highlight\"=>false, \"tags\"=>[\"\"], \"group_order_strategy\"=>\"material_type>material_name>-std_thickness>-std_width\", \"part_order_strategy\"=>\"-edge_pattern>-thickness>-width>-length>-count>name>tags>thickness_layer_count\", \"dimension_column_order_strategy\"=>\"thickness>width>length\"}}}, \"materials_options\"=>{\"0\"=>{\"HSD Materials 2025\"=>{\"material_order_strategy\"=>\"type>name\"}}}, \"cutlist_labels_options\"=>{\"0\"=>{\"Testing 3x10\"=>{\"page_width\"=>\"8.5\\\"\", \"page_height\"=>\"11\\\"\", \"margin_top\"=>\"0.5\\\"\", \"margin_right\"=>\"0.1875\\\"\", \"margin_bottom\"=>\"0.5\\\"\", \"margin_left\"=>\"0.1875\\\"\", \"spacing_h\"=>\"0\", \"spacing_v\"=>\"0.125\\\"\", \"col_count\"=>3, \"row_count\"=>10, \"cutting_marks\"=>false, \"layout\"=>[{\"formula\"=>\"part.name\", \"x\"=>-0.47619047619047616, \"y\"=>-0.41666666666666663, \"rotation\"=>0, \"size\"=>\"2.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#0079bf\", \"custom_formula\"=>\"\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>-0.16666666666666666, \"rotation\"=>0, \"size\"=>\"1.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_width + \\\" x \\\" + @bbox_length\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>0.41666666666666663, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start\", \"color\"=>\"#0079bf\", \"custom_formula\"=>\"if @tags.length > 0\\nbadges = @tags.map { |word| word.upcase }\\n\\\"[\\\" + badges.join(\\\"]\\\\n[\\\")+\\\"]\\\"\\nend\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>0.08333333333333333, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_thickness + \\\" \\\" + @material_name[4..]\"}, {\"formula\"=>\"custom\", \"x\"=>0.47619047619047616, \"y\"=>0.3333333333333333, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Label\\\")\\nhpath.split(\\\" > \\\")[0...-1].map{ |item| \\\"\\#{item} →\\\"}.join(\\\"\\\\n\\\")\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>0.41666666666666663, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Label\\\")\\nhpath.split(\\\" > \\\").last.upcase\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>-0.41666666666666663, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"COMPONENT\\\"\"}], \"part_order_strategy\"=>\"number>name>entity_named_path>entity_name>bin\"}, \"Testing 2x4\"=>{\"page_width\"=>\"8.5\\\"\", \"page_height\"=>\"11\\\"\", \"margin_top\"=>\"0.5\\\"\", \"margin_right\"=>\"0.1875\\\"\", \"margin_bottom\"=>\"0.5\\\"\", \"margin_left\"=>\"0.1875\\\"\", \"spacing_h\"=>\"0\", \"spacing_v\"=>\"0.125\\\"\", \"col_count\"=>2, \"row_count\"=>4, \"cutting_marks\"=>false, \"layout\"=>[{\"formula\"=>\"part.name\", \"x\"=>-0.46875, \"y\"=>-0.16666666666666669, \"rotation\"=>0, \"size\"=>\"1.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.08333333333333334, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_width + \\\" x \\\" + @bbox_length\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#eb5a46\", \"custom_formula\"=>\"if @tags.length > 0\\nbadges = @tags.map { |word| word.upcase }\\n\\n\\\"[\\\" + badges.join(\\\"]\\\\n[\\\")+\\\"]\\\"\\nend\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"1.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#FF0000\", \"custom_formula\"=>\"@instance_name\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.16666666666666669, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_thickness+\\\" \\\" +@material_name[4..]\"}, {\"formula\"=>\"custom\", \"x\"=>0.46875, \"y\"=>0.33333333333333337, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Label\\\")\\nhpath.split(\\\" > \\\")[0...-1].map{ |item| \\\"\\#{item} →\\\"}.join(\\\"\\\\n\\\")\"}, {\"formula\"=>\"custom\", \"x\"=>0.4166666666666667, \"y\"=>0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Label\\\")\\nhpath.split(\\\" > \\\").last.upcase\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'ASSEMBLY'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.16666666666666669, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'COMPONENT'\"}], \"part_order_strategy\"=>\"number>name>entity_named_path>entity_name>bin\"}, \"Christiana 2x4\"=>{\"page_width\"=>\"8.5\\\"\", \"page_height\"=>\"11\\\"\", \"margin_top\"=>\"0.5\\\"\", \"margin_right\"=>\"0.1875\\\"\", \"margin_bottom\"=>\"0.5\\\"\", \"margin_left\"=>\"0.1875\\\"\", \"spacing_h\"=>\"0\", \"spacing_v\"=>\"0.125\\\"\", \"col_count\"=>2, \"row_count\"=>4, \"cutting_marks\"=>false, \"layout\"=>[{\"formula\"=>\"custom\", \"x\"=>0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"end-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Contents\\\")\\n\\n# 1. Split the string using a regex that ignores commas inside brackets.\\n# The split results are mapped and stripped of whitespace.\\nitems = hpath.split(/,(?![^\\\\[]*?\\\\])/).map(&:strip) \\n\\n# Initialize storage\\nno_brackets = []\\nbracket_groups = {} # Dictionary to store groups, key = content inside []\\n\\n# Changed variable name to lowercase\\nbracket_regex = /\\\\[(.*?)\\\\]/ \\n\\nitems.each do |item|\\n  # Attempt to match the bracket content\\n  match = item.match(bracket_regex)\\n\\n  if match\\n    # 1. Item contains brackets. Extract the content for the key.\\n    bracket_content = match[1].strip \\n    \\n    # 2. OMIT THE BRACKETED PART from the item string for cleaner output.\\n    # We replace the bracketed pattern with an empty string and strip any resulting whitespace.\\n    clean_item = item.gsub(bracket_regex, '').strip + \\\" ⬜\\\"\\n    \\n    # 3. Add the CLEAN item to the corresponding group.\\n    if bracket_groups.key?(bracket_content)\\n      bracket_groups[bracket_content] << clean_item\\n    else\\n      bracket_groups[bracket_content] = [clean_item]\\n    end\\n  else\\n    # 4. Item does not contain brackets.\\n    no_brackets << item+\\\" ⬜\\\"\\n  end\\nend\\n\\n# --- 5. Format and Join the Final Output ---\\n\\nfinal_output = []\\n\\n# A. List items without brackets first\\nfinal_output << @component_definition.name.upcase + \\\" ⬜\\\"\\n\\nfinal_output << no_brackets[1...].join(\\\"\\\\n \\\")\\n\\n# B. List items grouped by bracket content\\nbracket_groups.each do |content, items_list|\\n  # Create a distinct heading for the group\\n  final_output << \\\"------------------------------\\\\n[\\#{content}]\\\"\\n  # Join the cleaned items\\n  final_output << items_list.join(\\\"\\\\n\\\")\\nend\\n\\n# Return the result, joining the separate sections with newlines\\nfinal_output.join(\\\"\\\\n\\\")\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start-top\", \"color\"=>\"#FF0000\", \"custom_formula\"=>\"@component_instance\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_thickness+\\\" \\\" +@material_name[5..] \"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.16666666666666669, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"hpath = @component_instance.get_attribute(\\\"OpenCutList\\\", \\\"Contents\\\")\\n\\n# 1. Split the string using a regex that ignores commas inside brackets.\\n# The split results are mapped and stripped of whitespace.\\nitems = @filename[0..-5] + \\\" - \\\" + hpath.split(/,(?![^\\\\[]*?\\\\])/).map(&:strip)[0]\\n\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'ASSEMBLY'\"}, {\"formula\"=>\"custom\", \"x\"=>0.46875, \"y\"=>-0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'COMPONENTS'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.08333333333333334, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'MATERIAL/FINISH'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>-0.25, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'WORK ORDER'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.16666666666666669, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'⬜ Fabrication ____________________________'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.25, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'⬜ Finishing ______________________________'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.33333333333333337, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'⬜ Installation _____________________________'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.4166666666666667, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'⬜ Comments _____________________________'\"}, {\"formula\"=>\"custom\", \"x\"=>-0.46875, \"y\"=>0.08333333333333334, \"rotation\"=>0, \"size\"=>\"0.5\", \"anchor\"=>\"start\", \"color\"=>\"#000000\", \"custom_formula\"=>\"'QC AUDIT / NOTES'\"}], \"part_order_strategy\"=>\"name>number>entity_named_path>entity_name>bin\"}, \"Christiana 3/4 x 2 1/4\"=>{\"page_width\"=>\"8.5\\\"\", \"page_height\"=>\"11\\\"\", \"margin_top\"=>\"0.5\\\"\", \"margin_right\"=>\"0.1875\\\"\", \"margin_bottom\"=>\"0.5\\\"\", \"margin_left\"=>\"0.1875\\\"\", \"spacing_h\"=>\"0\", \"spacing_v\"=>\"0.125\\\"\", \"col_count\"=>3, \"row_count\"=>10, \"cutting_marks\"=>false, \"layout\"=>[{\"formula\"=>\"part.name\", \"x\"=>-0.47619047619047616, \"y\"=>-0.5, \"rotation\"=>0, \"size\"=>\"2.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#0079bf\", \"custom_formula\"=>\"\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>-0.16666666666666666, \"rotation\"=>0, \"size\"=>\"1.5\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@bbox_width + \\\" x \\\" + @bbox_length\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>0.08333333333333333, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"start-top\", \"color\"=>\"#0079bf\", \"custom_formula\"=>\"if @tags.length > 0\\nbadges = @tags.map { |word| word.upcase }\\n\\\"[\\\" + badges.join(\\\"]\\\\n[\\\")+\\\"]\\\"\\nend\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>0.16666666666666666, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"@component_instance\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>-0.25, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"DIMENSIONS\\\"\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>-0.08333333333333333, \"rotation\"=>0, \"size\"=>\"1\", \"anchor\"=>\"end\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\nitems = @filename[0..-5] + \\\" - \\\" + @path[1]\\n\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>-0.25, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"end-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"WORK ORDER\\\"\"}, {\"formula\"=>\"custom\", \"x\"=>-0.47619047619047616, \"y\"=>0, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"start-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"CATEGORY\\\"\"}, {\"formula\"=>\"custom\", \"x\"=>0.44444444444444436, \"y\"=>0, \"rotation\"=>0, \"size\"=>\"0.75\", \"anchor\"=>\"end-top\", \"color\"=>\"#000000\", \"custom_formula\"=>\"\\\"ASSEMBLY / GROUP\\\"\"}], \"part_order_strategy\"=>\"name>number>entity_named_path>entity_name>bin\"}}}, \"tool_smart_handle_options\"=>{\"action_1\"=>{\"_default\"=>{\"copy_measure_type\"=>\"inside\", \"axes\"=>\"entity\", \"mirror\"=>false}}, \"action_2\"=>{\"_default\"=>{\"copy_measure_type\"=>\"outside\", \"axes\"=>\"context\", \"mirror\"=>true}}, \"action_3\"=>{\"_default\"=>{\"axes\"=>\"entity\"}}, \"action_4\"=>{\"_default\"=>{\"axes\"=>\"entity\"}}}, \"tool_smart_paint_options\"=>{\"action_1\"=>{\"_default\"=>{\"edges\"=>0}}, \"action_0\"=>{\"_default\"=>{\"instances\"=>0}}}, \"tool_smart_axes_options\"=>{\"action_0\"=>{\"_default\"=>{\"direction\"=>0}}}, \"cutlist_packing_options\"=>{\"0\"=>{\"Jeffstiana 2025\"=>{\"problem_type\"=>\"rectangleguillotine\", \"optimization_mode\"=>\"auto\", \"objective\"=>\"auto\", \"rectangleguillotine_cut_type\"=>\"exact\", \"rectangleguillotine_number_of_stages\"=>3, \"rectangleguillotine_first_stage_orientation\"=>\"vertical\", \"rectangleguillotine_keep_size\"=>\"\", \"irregular_allowed_rotations\"=>\"0\", \"irregular_allow_mirroring\"=>false, \"spacing\"=>\"1/8\\\"\", \"trimming\"=>\"1/4\\\"\", \"items_formula\"=>\"@number + \\\" - \\\" + @name\", \"origin_corner\"=>0, \"hide_part_list\"=>false, \"part_drawing_type\"=>1, \"colorization\"=>2, \"highlight_primary_cuts\"=>true, \"hide_edges_preview\"=>false, \"time_limit\"=>20, \"verbosity_level\"=>0}}}, \"cutlist_write2d_options\"=>{\"0\"=>{\"Ilya 2025\"=>{\"part_drawing_type\"=>\"1\", \"file_format\"=>\"dxf\", \"unit\"=>0, \"use_count\"=>true, \"anchor\"=>false, \"smoothing\"=>false, \"merge_holes\"=>false, \"merge_holes_overflow\"=>\"0\", \"include_paths\"=>false, \"parts_stroke_color\"=>nil, \"parts_fill_color\"=>\"#000000\", \"parts_holes_stroke_color\"=>\"#000000\", \"parts_holes_fill_color\"=>\"#FFFFFF\", \"parts_depths_stroke_color\"=>nil, \"parts_depths_fill_color\"=>nil, \"parts_paths_stroke_color\"=>\"#0068FF\", \"parts_paths_fill_color\"=>nil}}}, \"cutlist_export_options\"=>{\"0\"=>{\"Door Order\"=>{\"source\"=>1, \"format\"=>\"xlsx\", \"csv_col_sep\"=>2, \"csv_encoding\"=>0, \"source_col_defs\"=>[[{\"name\"=>\"material_type\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_std_dimension\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"part_count\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_volume\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_final_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}], [{\"name\"=>\"name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"bbox_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_length\", \"title\"=>\"Height\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"count\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"\", \"title\"=>\"Material/Finish\", \"formula\"=>\"@material_name[6..]\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}], [{\"name\"=>\"number\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"path\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"instance_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"cutting_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"cutting_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"cutting_thickness\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_thickness\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"final_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"material_type\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"tags\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"edge_ymin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_ymax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_xmin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_xmax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"face_zmax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"face_zmin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"layer\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}]]}, \"Drawer Order\"=>{\"source\"=>1, \"format\"=>\"xlsx\", \"csv_col_sep\"=>2, \"csv_encoding\"=>0, \"source_col_defs\"=>[[{\"name\"=>\"material_type\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_std_dimension\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"part_count\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_cutting_volume\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"total_final_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}], [{\"name\"=>\"name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"bbox_length\", \"title\"=>\"Width\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_width\", \"title\"=>\"Height\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_thickness\", \"title\"=>\"Depth\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"count\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"\", \"title\"=>\"Material\", \"formula\"=>\"@material_name[6..]\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}], [{\"name\"=>\"number\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"path\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"instance_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"cutting_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"cutting_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"cutting_thickness\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_length\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_width\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"bbox_thickness\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"final_area\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"right\", \"hidden\"=>false}, {\"name\"=>\"material_type\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_name\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"material_url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"description\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"url\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"tags\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}, {\"name\"=>\"edge_ymin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_ymax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_xmin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"edge_xmax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"face_zmax\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"face_zmin\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"center\", \"hidden\"=>false}, {\"name\"=>\"layer\", \"title\"=>\"\", \"formula\"=>\"\", \"align\"=>\"left\", \"hidden\"=>false}]]}}}}",
             "settings.dialog_font_size": "1",
-            "settings.dialog_left": "1823",
-            "settings.dialog_maximized_height": "1417",
-            "settings.dialog_maximized_width": "2560",
+            "settings.dialog_left": "2576",
+            "settings.dialog_maximized_height": "959",
+            "settings.dialog_maximized_width": "1759",
             "settings.dialog_print_margin": "1",
             "settings.dialog_table_row_size": "1",
-            "settings.dialog_top": "1058",
+            "settings.dialog_top": "178",
             "settings.language": "\"en\"",
             "settings.smart_axes_last_action": "1",
             "settings.smart_draw_last_action": "0",
@@ -249,12 +266,12 @@
             "first_run": "false"
         },
         "MainFrame": {
-            "ResetImages": "26.1.189"
+            "ResetImages": "26.1.252"
         },
         "MainWindow": {
-            "DockWidgetState": "7b0a2020202022616c6c446f636b57696467657473223a205b0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20312c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a202d312c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574220a20202020202020207d2c0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226c6f636174696f6e223a20322c0a2020202020202020202020202020202020202020202020202272656374223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a202020202020202020202020202020202020202020202020202020202278223a20323137362c0a202020202020202020202020202020202020202020202020202020202279223a202d310a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20322c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a20302c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f446f636b696e67547261795f313136220a20202020202020207d2c0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226c6f636174696f6e223a20332c0a2020202020202020202020202020202020202020202020202272656374223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203330302c0a202020202020202020202020202020202020202020202020202020202278223a2033302c0a202020202020202020202020202020202020202020202020202020202279223a202d310a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20302c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a20302c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f446f636b696e67547261795f313137220a20202020202020207d0a202020205d2c0a2020202022636c6f736564446f636b57696467657473223a205b0a202020205d2c0a2020202022666c6f6174696e6757696e646f7773223a205b0a202020205d2c0a20202020226d61696e57696e646f7773223a205b0a20202020202020207b0a20202020202020202020202022616666696e6974696573223a205b0a2020202020202020202020205d2c0a2020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20313230372c0a20202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a2037320a2020202020202020202020207d2c0a20202020202020202020202022697356697369626c65223a20747275652c0a202020202020202020202020226d756c746953706c69747465724c61796f7574223a207b0a20202020202020202020202020202020226672616d6573223a207b0a20202020202020202020202020202020202020202232223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313230372c0a20202020202020202020202020202020202020202020202020202020227769647468223a20313731332c0a202020202020202020202020202020202020202020202020202020202278223a203438382c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202232222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a2031300a20202020202020202020202020202020202020207d2c0a20202020202020202020202020202020202020202233223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f446f636b696e67547261795f313136220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313230372c0a20202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a202020202020202020202020202020202020202020202020202020202278223a20323230362c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202233222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313136222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a20300a20202020202020202020202020202020202020207d2c0a20202020202020202020202020202020202020202234223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f446f636b696e67547261795f313137220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313230372c0a20202020202020202020202020202020202020202020202020202020227769647468223a203438332c0a202020202020202020202020202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202234222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313137222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a20300a20202020202020202020202020202020202020207d0a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c61796f7574223a207b0a2020202020202020202020202020202020202020226368696c6472656e223a205b0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202234222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313137222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313230372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203438332c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a20302c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343239310a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203133350a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202232222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313230372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a20313731332c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a203438382c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343238370a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a2038300a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202233222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313136222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313230372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a20323230362c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343239310a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203335340a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020226973436f6e7461696e6572223a20747275652c0a202020202020202020202020202020202020202022697356697369626c65223a2066616c73652c0a2020202020202020202020202020202020202020226f626a6563744e616d65223a2022222c0a2020202020202020202020202020202020202020226f7269656e746174696f6e223a20312c0a20202020202020202020202020202020202020202273697a696e67496e666f223a207b0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313230372c0a20202020202020202020202020202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226d617853697a65223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a2031363737373231352c0a20202020202020202020202020202020202020202020202020202020227769647468223a2031363737373231350a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a20202020202020202020202020202020202020202020202020202020227769647468223a2038300a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020207d0a2020202020202020202020207d2c0a202020202020202020202020226e6f726d616c47656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20302c0a20202020202020202020202020202020227769647468223a20302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a20300a2020202020202020202020207d2c0a202020202020202020202020226f7074696f6e73223a2033372c0a2020202020202020202020202273637265656e496e646578223a20302c0a2020202020202020202020202273637265656e53697a65223a207b0a2020202020202020202020202020202022686569676874223a20313434302c0a20202020202020202020202020202020227769647468223a20323536300a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a2020202020202020202020202277696e646f775374617465223a20300a20202020202020207d0a202020205d2c0a202020202273637265656e496e666f223a205b0a20202020202020207b0a20202020202020202020202022646576696365506978656c526174696f223a20312e352c0a2020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20313434302c0a20202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a20300a2020202020202020202020207d2c0a20202020202020202020202022696e646578223a20302c0a202020202020202020202020226e616d65223a20224e3037220a20202020202020207d0a202020205d2c0a202020202273657269616c697a6174696f6e56657273696f6e223a20330a7d0a",
-            "Geometry": "01d9d0cb0003000000000000fffffff9000009ff0000056f000000630000001a000009fe0000056e00000000020000000a000000000000000017000009ff0000056f",
-            "ToolBarState": "00000001000000320000000600000003000000000000001a0054006f006f006c004200610072005f0030002f00310032003901000000000000000000000000000000002e0000001a0054006f006f006c004200610072005f0032002f00310030003301000000000000000000000000000000005c0000001e0054006f006f006c004200610072005f0030002f00320034003200320032010000000000000000000000000000000004000000000000001a0054006f006f006c004200610072005f0034002f00350030003201000000000000000000000000000000002e0000001e0054006f006f006c004200610072005f0031002f0032003400320031003201000000000000000000000000000000005c0000001a0054006f006f006c004200610072005f0030002f00330035003501000000000000000000000000000000008a0000001a0054006f006f006c004200610072005f0030002f003300360032010000000000000000000000000000000006000000000000001a0054006f006f006c004200610072005f0030002f00310033003701000000000000000000000000000000002e0000001a0054006f006f006c004200610072005f0030002f00350030003101000000000000000000000000000000005c0000001a0054006f006f006c004200610072005f0030002f00340039003901000000000000000000000000000000008a0000001a0054006f006f006c004200610072005f0030002f0034003700350100000000000000000000000000000000b80000001a0054006f006f006c004200610072005f0030002f0033003600300100000000000000000000000000000000e60000001a0054006f006f006c004200610072005f0030002f003400370037010000000000000000000000000000000008000000000000001e0054006f006f006c004200610072005f0030002f0032003100390039003200000000000000000000000000000000035a000000260054006f006f006c004200610072005f0035002f0046006c006500780054006f006f006c0073000000000000000000000000000100000008000004340000001a0054006f006f006c004200610072005f0030002f0033003600370100000000000000000000000000000004340000001a0054006f006f006c004200610072005f0030002f0033003600350100000000000000000000000000000004340000001a0054006f006f006c004200610072005f0030002f003900390038000000000000000000000000000000000508000000380054006f006f006c004200610072005f0035002f00440079006e0061006d0069006300200043006f006d0070006f006e0065006e0074007301010000009600000096000000010000000300000508000000360054006f006f006c004200610072005f0035002f00500072006f00660069006c00650020004200750069006c0064006500720020003400000000000000000000000000010000000f000006c20000002c0054006f006f006c004200610072005f0035002f002b0044006500660069006e006900740069006f006e00730000000000000000000000000001000000050000000a00000000000000280054006f006f006c004200610072005f0035002f00440049004f00320020005500740069006c007301000000000000000000000000010000000600000001000000320054006f006f006c004200610072005f0035002f00530074007200650074006300680020004f007000740069006f006e00730100000000000000000000000001000000060000008e0000002a0054006f006f006c004200610072005f0035002f00430075007200690063002000440049004f0020003200000000000000000000000000010000000c000001e8000000240054006f006f006c004200610072005f0035002f004300750072006900630020004f0049000000000000000000000000000100000003000002560000002e0054006f006f006c004200610072005f0035002f0043007500720069006300200053007400720065007400630068000000000000000000000000000100000003000002c4000000280054006f006f006c004200610072005f0035002f0043007500720069006300200041007800650073000000000000000000000000000100000001000002f20000002e0054006f006f006c004200610072005f0035002f004300750072006900630020005300630061006c0065002b002b000000000000000000000000000100000001000003200000002a0054006f006f006c004200610072005f0035002f004300750072006900630020005300700061006300650000000000000000000000000001000000010000034e0000002a0054006f006f006c004200610072005f0035002f0043007500720069006300200041006c00690067006e0000000000000000000000000001000000010000037c000000340054006f006f006c004200610072005f0035002f0053006f006c0069006400200049006e00730070006500630074006f007200b200000000000000000000000000010000000100000001000000000000003e0054006f006f006c004200610072005f0035002f004300750072006900630020004c0065006e00670074006800200053006e0061007000700069006e006701010000014b0000015e000000010000000d0000000100000001000000000000001a0054006f006f006c004200610072005f0030002f0032003100310100000000000000000000000000000000000000000200000010000000000000002e0054006f006f006c004200610072005f0035002f00430075007200690063002000530065006300740069006f006e0000000000000000000000000001000000100000018c000000380054006f006f006c004200610072005f0035002f00430075007200690063002000530065006300740069006f006e00200056006900650077000000000000000000000000000100000005000002220000003a0054006f006f006c004200610072005f0035002f004f00700065006e004300750074004c0069007300740020002d00200054006f006f006c0073000000000000000000000000000100000006000002f00000002a0054006f006f006c004200610072005f0035002f004f00700065006e004300750074004c0069007300740000000000000000000000000001000000010000031e000000240054006f006f006c004200610072005f0035002f00350044002b00200050006c00750073000000000000000000000000000100000004000003ac0000002e0054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f00200049006e0066006f000000000000000000000000000100000001000003da000000320054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020004c00610079006f0075007400000000000000000000000000010000000100000408000000340054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020004d006500610073007500720065000000000000000000000000000100000001000004360000002c0054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020005400610067000000000000000000000000000100000001000004640000002a0054006f006f006c004200610072005f0035002f00350044002b0020004c00690062007200610072007900000000000000000000000000010000000100000492000000520054006f006f006c004200610072005f0035002f004300750072006900630020004c0065006e00670074006800200053006e0061007000700069006e0067003a003a0049006d00700065007200690061006c000000000000000000000000000100000008000005a6000000400054006f006f006c004200610072005f0035002f00430075007200690063002000530069006e0067006c0065002d004c0069006e006500200054006500780074000000000000000000000000000100000001000005d4000000320054006f006f006c004200610072005f0035002f0043006f006d0070006f006e0065006e00740020004e0061006d00650072000000000000000000000000000100000001000006020000002c0054006f006f006c004200610072005f0035002f004300750074006c00690073007400200050007200650070000000000000000000000000000100000001000006300000003e0054006f006f006c004200610072005f0035002f0043007500720069006300200044006500650070002000500072006f00700065007200740069006500730000000000000000000000000001000000020000067e0000004a0054006f006f006c004200610072005f0035002f004c006f007300740020002600200046006f0075006e0064002000480069006400640065006e002000570069006e0064006f0077007300000000000000000000000000010000000100000001000000000000001a0054006f006f006c004200610072005f0033002f0032003200310100000000000000000000000000"
+            "DockWidgetState": "7b0a2020202022616c6c446f636b57696467657473223a205b0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20312c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a202d312c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574220a20202020202020207d2c0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226c6f636174696f6e223a20322c0a2020202020202020202020202020202020202020202020202272656374223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a202020202020202020202020202020202020202020202020202020202278223a20323137362c0a202020202020202020202020202020202020202020202020202020202279223a202d310a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20322c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a20302c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f446f636b696e67547261795f313136220a20202020202020207d2c0a20202020202020207b0a202020202020202020202020226c617374506f736974696f6e223a207b0a20202020202020202020202020202020226c617374466c6f6174696e6747656f6d65747279223a207b0a202020202020202020202020202020202020202022686569676874223a20302c0a2020202020202020202020202020202020202020227769647468223a20302c0a20202020202020202020202020202020202020202278223a20302c0a20202020202020202020202020202020202020202279223a20300a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c6173744f7665726c6179656447656f6d657472696573223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226c6f636174696f6e223a20332c0a2020202020202020202020202020202020202020202020202272656374223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203330302c0a202020202020202020202020202020202020202020202020202020202278223a2033302c0a202020202020202020202020202020202020202020202020202020202279223a202d310a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022706c616365686f6c64657273223a205b0a20202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020226973466c6f6174696e6757696e646f77223a2066616c73652c0a202020202020202020202020202020202020202020202020226974656d496e646578223a20302c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77220a20202020202020202020202020202020202020207d0a202020202020202020202020202020205d2c0a2020202020202020202020202020202022746162496e646578223a20302c0a2020202020202020202020202020202022776173466c6f6174696e67223a2066616c73650a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f446f636b696e67547261795f313137220a20202020202020207d0a202020205d2c0a2020202022636c6f736564446f636b57696467657473223a205b0a202020205d2c0a2020202022666c6f6174696e6757696e646f7773223a205b0a202020205d2c0a20202020226d61696e57696e646f7773223a205b0a20202020202020207b0a20202020202020202020202022616666696e6974696573223a205b0a2020202020202020202020205d2c0a2020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a2037320a2020202020202020202020207d2c0a20202020202020202020202022697356697369626c65223a20747275652c0a202020202020202020202020226d756c746953706c69747465724c61796f7574223a207b0a20202020202020202020202020202020226672616d6573223a207b0a20202020202020202020202020202020202020202232223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a20313833332c0a202020202020202020202020202020202020202020202020202020202278223a203336382c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202232222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a2031300a20202020202020202020202020202020202020207d2c0a20202020202020202020202020202020202020202233223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f446f636b696e67547261795f313137220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203336332c0a202020202020202020202020202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202233222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313137222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a20300a20202020202020202020202020202020202020207d2c0a20202020202020202020202020202020202020202234223a207b0a2020202020202020202020202020202020202020202020202263757272656e74546162496e646578223a20302c0a20202020202020202020202020202020202020202020202022646f636b57696467657473223a205b0a2020202020202020202020202020202020202020202020202020202022536b6574636855705f446f636b696e67547261795f313136220a2020202020202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a202020202020202020202020202020202020202020202020202020202278223a20323230362c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226964223a202234222c0a2020202020202020202020202020202020202020202020202269734e756c6c223a2066616c73652c0a202020202020202020202020202020202020202020202020226d61696e57696e646f77556e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313136222c0a202020202020202020202020202020202020202020202020226f7074696f6e73223a20300a20202020202020202020202020202020202020207d0a202020202020202020202020202020207d2c0a20202020202020202020202020202020226c61796f7574223a207b0a2020202020202020202020202020202020202020226368696c6472656e223a205b0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202233222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313137222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203336332c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a20302c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343239310a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203133340a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202232222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f4d61696e57696e646f772d70657273697374656e7443656e7472616c446f636b576964676574222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a20313833332c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a203336382c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343239310a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203139310a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020207b0a202020202020202020202020202020202020202020202020202020202267756573744964223a202234222c0a20202020202020202020202020202020202020202020202020202020226973436f6e7461696e6572223a2066616c73652c0a2020202020202020202020202020202020202020202020202020202022697356697369626c65223a20747275652c0a20202020202020202020202020202020202020202020202020202020226f626a6563744e616d65223a2022536b6574636855705f446f636b696e67547261795f313136222c0a202020202020202020202020202020202020202020202020202020202273697a696e67496e666f223a207b0a20202020202020202020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203335342c0a2020202020202020202020202020202020202020202020202020202020202020202020202278223a20323230362c0a2020202020202020202020202020202020202020202020202020202020202020202020202279223a20300a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d617853697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a203532343238372c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203532343239310a20202020202020202020202020202020202020202020202020202020202020207d2c0a2020202020202020202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a20202020202020202020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a202020202020202020202020202020202020202020202020202020202020202020202020227769647468223a203335340a20202020202020202020202020202020202020202020202020202020202020207d0a202020202020202020202020202020202020202020202020202020207d0a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020205d2c0a2020202020202020202020202020202020202020226973436f6e7461696e6572223a20747275652c0a202020202020202020202020202020202020202022697356697369626c65223a2066616c73652c0a2020202020202020202020202020202020202020226f626a6563744e616d65223a2022222c0a2020202020202020202020202020202020202020226f7269656e746174696f6e223a20312c0a20202020202020202020202020202020202020202273697a696e67496e666f223a207b0a2020202020202020202020202020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a20313235352c0a20202020202020202020202020202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202020202020202020202020202279223a20300a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226d617853697a65223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a2031363737373231352c0a20202020202020202020202020202020202020202020202020202020227769647468223a2031363737373231350a2020202020202020202020202020202020202020202020207d2c0a202020202020202020202020202020202020202020202020226d696e53697a65223a207b0a2020202020202020202020202020202020202020202020202020202022686569676874223a2039302c0a20202020202020202020202020202020202020202020202020202020227769647468223a2038300a2020202020202020202020202020202020202020202020207d0a20202020202020202020202020202020202020207d0a202020202020202020202020202020207d0a2020202020202020202020207d2c0a202020202020202020202020226e6f726d616c47656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20302c0a20202020202020202020202020202020227769647468223a20302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a20300a2020202020202020202020207d2c0a202020202020202020202020226f7074696f6e73223a2033372c0a2020202020202020202020202273637265656e496e646578223a20312c0a2020202020202020202020202273637265656e53697a65223a207b0a2020202020202020202020202020202022686569676874223a20313434302c0a20202020202020202020202020202020227769647468223a20323536300a2020202020202020202020207d2c0a20202020202020202020202022756e697175654e616d65223a2022536b6574636855705f4d61696e57696e646f77222c0a2020202020202020202020202277696e646f775374617465223a20300a20202020202020207d0a202020205d2c0a202020202273637265656e496e666f223a205b0a20202020202020207b0a20202020202020202020202022646576696365506978656c526174696f223a20312c0a2020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20313038302c0a20202020202020202020202020202020227769647468223a20313932302c0a202020202020202020202020202020202278223a20302c0a202020202020202020202020202020202279223a20300a2020202020202020202020207d2c0a20202020202020202020202022696e646578223a20302c0a202020202020202020202020226e616d65223a20225c5c5c5c2e5c5c444953504c415931220a20202020202020207d2c0a20202020202020207b0a20202020202020202020202022646576696365506978656c526174696f223a20312e352c0a2020202020202020202020202267656f6d65747279223a207b0a2020202020202020202020202020202022686569676874223a20313434302c0a20202020202020202020202020202020227769647468223a20323536302c0a202020202020202020202020202020202278223a20313932302c0a202020202020202020202020202020202279223a20300a2020202020202020202020207d2c0a20202020202020202020202022696e646578223a20312c0a202020202020202020202020226e616d65223a20224e3037220a20202020202020207d0a202020205d2c0a202020202273657269616c697a6174696f6e56657273696f6e223a20330a7d0a",
+            "Geometry": "01d9d0cb0003000000000780fffffff90000117f0000059f000008980000009c00000d50000002fd00000001020000000a0000000780000000170000117f0000059f",
+            "ToolBarState": "00000001000000320000000500000003000000000000001a0054006f006f006c004200610072005f0030002f00310032003901000000000000000000000000000000002e0000001a0054006f006f006c004200610072005f0032002f00310030003301000000000000000000000000000000005c0000001e0054006f006f006c004200610072005f0030002f00320034003200320032010000000000000000000000000000000004000000000000001a0054006f006f006c004200610072005f0034002f00350030003201000000000000000000000000000000002e0000001e0054006f006f006c004200610072005f0031002f0032003400320031003201000000000000000000000000000000005c0000001a0054006f006f006c004200610072005f0030002f00330035003501000000000000000000000000000000008a0000001a0054006f006f006c004200610072005f0030002f003300360032010000000000000000000000000000000006000000000000001a0054006f006f006c004200610072005f0030002f00310033003701000000000000000000000000000000002e0000001a0054006f006f006c004200610072005f0030002f00350030003101000000000000000000000000000000005c0000001a0054006f006f006c004200610072005f0030002f00340039003901000000000000000000000000000000008a0000001a0054006f006f006c004200610072005f0030002f0034003700350100000000000000000000000000000000b80000001a0054006f006f006c004200610072005f0030002f0033003600300100000000000000000000000000000000e60000001a0054006f006f006c004200610072005f0030002f00340037003701000000000000000000000000000000000c000000000000001e0054006f006f006c004200610072005f0030002f0032003100390039003200000000000000000000000000000000035a000000340054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020004d006500610073007500720065000000000000000000000000000100000001000003880000001a0054006f006f006c004200610072005f0030002f00390039003800000000000000000000000000000000045c0000002c0054006f006f006c004200610072005f0035002f002b0044006500660069006e006900740069006f006e0073000000000000000000000000000100000005000004f00000002e0054006f006f006c004200610072005f0035002f004300750072006900630020005300630061006c0065002b002b0000000000000000000000000001000000010000051e0000003e0054006f006f006c004200610072005f0035002f004300750072006900630020004c0065006e00670074006800200053006e0061007000700069006e0067010100000273000001ca000000010000000d0000051e0000001a0054006f006f006c004200610072005f0030002f00330036003701000000000000000000000000000000051e0000001a0054006f006f006c004200610072005f0030002f00330036003501000000000000000000000000000000051e000000380054006f006f006c004200610072005f0035002f00440079006e0061006d0069006300200043006f006d0070006f006e0065006e007400730101000000960000009600000001000000030000051e000000260054006f006f006c004200610072005f0035002f0046006c006500780054006f006f006c0073000000000000000000000000000100000008000005f80000004a0054006f006f006c004200610072005f0035002f004c006f007300740020002600200046006f0075006e0064002000480069006400640065006e002000570069006e0064006f0077007300000000000000000000000000010000000100000626000000340054006f006f006c004200610072005f0035002f0053006f006c0069006400200049006e00730070006500630074006f007200b20000000000000000000000000001000000010000000b00000000000000320054006f006f006c004200610072005f0035002f00530074007200650074006300680020004f007000740069006f006e007301000000000000000000000000010000000600000000000000280054006f006f006c004200610072005f0035002f00440049004f00320020005500740069006c0073010000000000000000000000000100000006000000ce0000002a0054006f006f006c004200610072005f0035002f00430075007200690063002000440049004f0020003200000000000000000000000000010000000c00000228000000240054006f006f006c004200610072005f0035002f004300750072006900630020004f0049000000000000000000000000000100000003000002960000002e0054006f006f006c004200610072005f0035002f0043007500720069006300200053007400720065007400630068000000000000000000000000000100000003000003040000002a0054006f006f006c004200610072005f0035002f0043007500720069006300200041006c00690067006e000000000000000000000000000100000001000003320000002a0054006f006f006c004200610072005f0035002f0043007500720069006300200053007000610063006500000000000000000000000000010000000100000360000000280054006f006f006c004200610072005f0035002f0043007500720069006300200041007800650073000000000000000000000000000100000001000003a10000003a0054006f006f006c004200610072005f0035002f004f00700065006e004300750074004c0069007300740020002d00200054006f006f006c00730000000000000000000000000001000000060000047a0000003e0054006f006f006c004200610072005f0035002f0043007500720069006300200044006500650070002000500072006f0070006500720074006900650073000000000000000000000000000100000002000004c9000000360054006f006f006c004200610072005f0035002f00500072006f00660069006c00650020004200750069006c0064006500720020003400000000000000000000000000010000000f0000000100000001000000000000001a0054006f006f006c004200610072005f0030002f003200310031010000000000000000000000000000000000000000020000000c000000000000002e0054006f006f006c004200610072005f0035002f00430075007200690063002000530065006300740069006f006e000000000000000000000000000100000010000001b7000000400054006f006f006c004200610072005f0035002f00430075007200690063002000530069006e0067006c0065002d004c0069006e00650020005400650078007400000000000000000000000000010000000100000206000000380054006f006f006c004200610072005f0035002f00430075007200690063002000530065006300740069006f006e00200056006900650077000000000000000000000000000100000005000002a8000000240054006f006f006c004200610072005f0035002f00350044002b00200050006c00750073000000000000000000000000000000000336000000320054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020004c00610079006f00750074000000000000000000000000000100000001000003640000002e0054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f00200049006e0066006f000000000000000000000000000100000001000003920000002a0054006f006f006c004200610072005f0035002f00350044002b0020004c006900620072006100720079000000000000000000000000000100000001000003c00000002c0054006f006f006c004200610072005f0035002f00350044002b0020004100750074006f0020005400610067000000000000000000000000000100000001000003ee0000002a0054006f006f006c004200610072005f0035002f004f00700065006e004300750074004c0069007300740000000000000000000000000001000000010000041c000000320054006f006f006c004200610072005f0035002f0043006f006d0070006f006e0065006e00740020004e0061006d006500720000000000000000000000000001000000010000044a0000002c0054006f006f006c004200610072005f0035002f004300750074006c0069007300740020005000720065007000000000000000000000000000010000000100000672000000520054006f006f006c004200610072005f0035002f004300750072006900630020004c0065006e00670074006800200053006e0061007000700069006e0067003a003a0049006d00700065007200690061006c00000000000000000000000000010000000800000001000000000000001a0054006f006f006c004200610072005f0033002f0032003200310100000000000000000000000000"
         },
         "Measure++": {
             "first_run": "false"
@@ -276,7 +293,8 @@
         },
         "OpenedTimeForLocalRecentFiles": {
             "C:\\01-Local Work\\01-Projects\\810-Riverview\\810 Riverview_T.skp": 1772641446,
-            "C:\\Users\\thoma\\OneDrive\\Desktop\\tired.skp": 1772165105
+            "C:\\Users\\thoma\\OneDrive\\Desktop\\tired.skp": 1772165105,
+            "G:\\Shared drives\\Haskel Sears Design\\99-Archive-Projects\\24\\24-008-granny's\\shop drawings\\skp\\grannys 6.12.2024 (back bar updated).skp": 1775444791
         },
         "Overlays": {
             "extension-5d.plus.classification": {
@@ -306,13 +324,14 @@
             "EnvironmentsBrowserImage": 4,
             "EnvironmentsBrowserView": 0,
             "GettingStartedSelectDropDown": false,
+            "InvalidFilePathsDlg": false,
             "LastUpdateCheck": 0.0,
             "MaterialListCtrl": 1,
             "MatPromoEnableMetalness": false,
             "MatPromoEnableRoughness": false,
             "MatPromoMetallicFactor": 0.10000000149011612,
             "MatPromoRoughnessFactor": 0.5,
-            "NewModelCount": 10,
+            "NewModelCount": 12,
             "OnlineTestURL": "",
             "PurgeOnSave": 2,
             "SelectedGPU": "SystemDefaultGPU",
@@ -326,7 +345,7 @@
             "WheelStyle": 0
         },
         "PrefsPS": {
-            "curPage": 2,
+            "curPage": 3,
             "cx": 750,
             "cy": 550,
             "x": 895,
@@ -369,13 +388,13 @@
             "Y": 150
         },
         "QtRubyWorkspace\\RubyToolBar-59652": {
-            "Floating": true,
-            "Height": 59,
-            "Tray": 1,
-            "Visible": false,
-            "Width": 235,
-            "X": 170,
-            "Y": 170
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 932,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59653": {
             "Floating": false,
@@ -383,17 +402,17 @@
             "Tray": 8,
             "Visible": true,
             "Width": 46,
-            "X": 940,
-            "Y": 1279
+            "X": 886,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59654": {
             "Floating": false,
             "Height": 36,
-            "Tray": 8,
+            "Tray": 1,
             "Visible": true,
             "Width": 46,
-            "X": 986,
-            "Y": 1279
+            "X": 858,
+            "Y": 0
         },
         "QtRubyWorkspace\\RubyToolBar-59655": {
             "Floating": false,
@@ -401,8 +420,8 @@
             "Tray": 8,
             "Visible": true,
             "Width": 46,
-            "X": 1032,
-            "Y": 1279
+            "X": 1024,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59656": {
             "Floating": false,
@@ -410,44 +429,44 @@
             "Tray": 8,
             "Visible": true,
             "Width": 46,
-            "X": 1078,
-            "Y": 1279
+            "X": 978,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59657": {
             "Floating": false,
             "Height": 36,
             "Tray": 8,
             "Visible": true,
-            "Width": 46,
-            "X": 1124,
-            "Y": 1279
+            "Width": 206,
+            "X": 680,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59658": {
             "Floating": false,
             "Height": 36,
-            "Tray": 8,
+            "Tray": 1,
             "Visible": true,
-            "Width": 142,
-            "X": 798,
-            "Y": 1279
+            "Width": 442,
+            "X": 1225,
+            "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59659": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 148,
+            "X": 1116,
+            "Y": 0
+        },
+        "QtRubyWorkspace\\RubyToolBar-59660": {
             "Floating": false,
             "Height": 36,
             "Tray": 8,
             "Visible": true,
             "Width": 46,
-            "X": 1440,
-            "Y": 1279
-        },
-        "QtRubyWorkspace\\RubyToolBar-59660": {
-            "Floating": false,
-            "Height": 36,
-            "Tray": 1,
-            "Visible": true,
-            "Width": 206,
-            "X": 442,
-            "Y": 72
+            "X": 1116,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59661": {
             "Floating": false,
@@ -455,7 +474,7 @@
             "Tray": 1,
             "Visible": true,
             "Width": 46,
-            "X": 708,
+            "X": 772,
             "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59662": {
@@ -464,7 +483,7 @@
             "Tray": 1,
             "Visible": true,
             "Width": 46,
-            "X": 868,
+            "X": 864,
             "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59663": {
@@ -472,8 +491,8 @@
             "Height": 36,
             "Tray": 1,
             "Visible": true,
-            "Width": 46,
-            "X": 800,
+            "Width": 78,
+            "X": 1146,
             "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59664": {
@@ -482,53 +501,53 @@
             "Tray": 1,
             "Visible": true,
             "Width": 346,
-            "X": 142,
+            "X": 201,
             "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59665": {
             "Floating": false,
-            "Height": 59,
+            "Height": 36,
             "Tray": 1,
             "Visible": false,
-            "Width": 37,
-            "X": 399,
-            "Y": 326
+            "Width": 154,
+            "X": 180,
+            "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59666": {
             "Floating": true,
             "Height": 59,
             "Tray": 1,
             "Visible": false,
-            "Width": 113,
-            "X": 411,
-            "Y": 430
+            "Width": 395,
+            "X": 627,
+            "Y": 458
         },
         "QtRubyWorkspace\\RubyToolBar-59667": {
-            "Floating": true,
-            "Height": 59,
-            "Tray": 1,
-            "Visible": false,
-            "Width": 197,
-            "X": 431,
-            "Y": 450
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 270,
+            "X": 1650,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59668": {
-            "Floating": true,
-            "Height": 59,
+            "Floating": false,
+            "Height": 36,
             "Tray": 1,
-            "Visible": false,
-            "Width": 69,
-            "X": 278,
-            "Y": 236
+            "Visible": true,
+            "Width": 110,
+            "X": 552,
+            "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59669": {
             "Floating": false,
             "Height": 36,
             "Tray": 1,
             "Visible": true,
-            "Width": 110,
-            "X": 488,
-            "Y": 36
+            "Width": 46,
+            "X": 1264,
+            "Y": 0
         },
         "QtRubyWorkspace\\RubyToolBar-59670": {
             "Floating": false,
@@ -537,7 +556,7 @@
             "Visible": true,
             "Width": 396,
             "X": 0,
-            "Y": 1279
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59671": {
             "Floating": false,
@@ -545,134 +564,134 @@
             "Tray": 8,
             "Visible": true,
             "Width": 148,
-            "X": 396,
-            "Y": 1279
+            "X": 518,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59672": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 8,
+            "Visible": true,
+            "Width": 46,
+            "X": 439,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59673": {
+            "Floating": false,
+            "Height": 36,
+            "Tray": 1,
+            "Visible": true,
+            "Width": 46,
+            "X": 818,
+            "Y": 36
+        },
+        "QtRubyWorkspace\\RubyToolBar-59674": {
             "Floating": false,
             "Height": 36,
             "Tray": 1,
             "Visible": true,
             "Width": 110,
-            "X": 598,
+            "X": 662,
             "Y": 36
         },
-        "QtRubyWorkspace\\RubyToolBar-59673": {
+        "QtRubyWorkspace\\RubyToolBar-59675": {
             "Floating": false,
             "Height": 59,
             "Tray": 1,
             "Visible": false,
             "Width": 37,
-            "X": 219,
-            "Y": 146
-        },
-        "QtRubyWorkspace\\RubyToolBar-59674": {
-            "Floating": false,
-            "Height": 36,
-            "Tray": 8,
-            "Visible": true,
-            "Width": 46,
-            "X": 752,
-            "Y": 1279
-        },
-        "QtRubyWorkspace\\RubyToolBar-59675": {
-            "Floating": false,
-            "Height": 36,
-            "Tray": 8,
-            "Visible": true,
-            "Width": 206,
-            "X": 546,
-            "Y": 1279
+            "X": 2457,
+            "Y": 340
         },
         "QtRubyWorkspace\\RubyToolBar-59676": {
             "Floating": false,
             "Height": 36,
-            "Tray": 1,
-            "Visible": true,
-            "Width": 442,
-            "X": 1293,
-            "Y": 0
-        },
-        "QtRubyWorkspace\\RubyToolBar-59677": {
-            "Floating": false,
-            "Height": 36,
-            "Tray": 1,
+            "Tray": 8,
             "Visible": true,
             "Width": 46,
-            "X": 846,
-            "Y": 36
+            "X": 1162,
+            "Y": 1327
+        },
+        "QtRubyWorkspace\\RubyToolBar-59677": {
+            "Floating": true,
+            "Height": 59,
+            "Tray": 1,
+            "Visible": false,
+            "Width": 37,
+            "X": 978,
+            "Y": 305
         },
         "QtRubyWorkspace\\RubyToolBar-59678": {
             "Floating": false,
             "Height": 36,
-            "Tray": 1,
+            "Tray": 8,
             "Visible": true,
-            "Width": 148,
-            "X": 1730,
-            "Y": 0
+            "Width": 46,
+            "X": 1070,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59679": {
             "Floating": false,
             "Height": 36,
             "Tray": 1,
             "Visible": true,
-            "Width": 218,
-            "X": 858,
-            "Y": 0
+            "Width": 206,
+            "X": 929,
+            "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59680": {
             "Floating": false,
             "Height": 36,
-            "Tray": 8,
+            "Tray": 1,
             "Visible": true,
             "Width": 46,
-            "X": 1662,
-            "Y": 1279
+            "X": 1528,
+            "Y": 0
         },
         "QtRubyWorkspace\\RubyToolBar-59681": {
             "Floating": false,
             "Height": 36,
-            "Tray": 8,
+            "Tray": 1,
             "Visible": true,
-            "Width": 78,
-            "X": 1584,
-            "Y": 1279
+            "Width": 46,
+            "X": 1574,
+            "Y": 0
         },
         "QtRubyWorkspace\\RubyToolBar-59682": {
-            "Floating": true,
-            "Height": 59,
+            "Floating": false,
+            "Height": 36,
             "Tray": 1,
-            "Visible": false,
-            "Width": 395,
-            "X": 331,
-            "Y": 350
+            "Visible": true,
+            "Width": 218,
+            "X": 1310,
+            "Y": 0
         },
         "QtRubyWorkspace\\RubyToolBar-59683": {
             "Floating": false,
             "Height": 36,
-            "Tray": 8,
+            "Tray": 1,
             "Visible": true,
-            "Width": 270,
-            "X": 1170,
-            "Y": 1279
+            "Width": 346,
+            "X": 206,
+            "Y": 36
         },
         "QtRubyWorkspace\\RubyToolBar-59684": {
             "Floating": false,
-            "Height": 36,
+            "Height": 59,
             "Tray": 1,
-            "Visible": true,
-            "Width": 46,
-            "X": 914,
-            "Y": 36
+            "Visible": false,
+            "Width": 37,
+            "X": 2637,
+            "Y": 520
         },
         "QtRubyWorkspace\\RubyToolBar-59685": {
             "Floating": false,
             "Height": 36,
-            "Tray": 1,
+            "Tray": 8,
             "Visible": true,
-            "Width": 46,
-            "X": 730,
-            "Y": 36
+            "Width": 396,
+            "X": 0,
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59686": {
             "Floating": false,
@@ -699,7 +718,7 @@
             "Visible": true,
             "Width": 46,
             "X": 1446,
-            "Y": 1279
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59689": {
             "Floating": false,
@@ -708,7 +727,7 @@
             "Visible": true,
             "Width": 46,
             "X": 1492,
-            "Y": 1279
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59690": {
             "Floating": false,
@@ -717,7 +736,7 @@
             "Visible": true,
             "Width": 46,
             "X": 1538,
-            "Y": 1279
+            "Y": 1327
         },
         "QtRubyWorkspace\\RubyToolBar-59691": {
             "Floating": false,
@@ -738,47 +757,47 @@
             "Y": 36
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar0": {
-            "BarID": 59653,
+            "BarID": 59652,
             "BarName": "5D+ Auto Info"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar1": {
-            "BarID": 59654,
+            "BarID": 59653,
             "BarName": "5D+ Auto Layout"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar10": {
-            "BarID": 59661,
+            "BarID": 59662,
             "BarName": "Curic Axes"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar11": {
-            "BarID": 59681,
+            "BarID": 59663,
             "BarName": "Curic Deep Properties"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar12": {
-            "BarID": 59664,
+            "BarID": 59683,
             "BarName": "Curic DIO 2"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar13": {
-            "BarID": 59665,
+            "BarID": 59684,
             "BarName": "DIO2 Utils"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar14": {
-            "BarID": 59682,
+            "BarID": 59666,
             "BarName": "Curic Length Snapping"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar15": {
-            "BarID": 59683,
+            "BarID": 59667,
             "BarName": "Curic Length Snapping::Imperial"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar16": {
-            "BarID": 59669,
+            "BarID": 59668,
             "BarName": "Curic OI"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar17": {
-            "BarID": 59686,
+            "BarID": 59669,
             "BarName": "Curic Scale++"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar18": {
-            "BarID": 59670,
+            "BarID": 59685,
             "BarName": "Curic Section"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar19": {
@@ -786,7 +805,7 @@
             "BarName": "Curic Section View"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar2": {
-            "BarID": 59655,
+            "BarID": 59654,
             "BarName": "5D+ Auto Measure"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar20": {
@@ -794,35 +813,35 @@
             "BarName": "Dynamic Components"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar21": {
-            "BarID": 59688,
+            "BarID": 59672,
             "BarName": "Curic Single-Line Text"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar22": {
-            "BarID": 59663,
+            "BarID": 59673,
             "BarName": "Curic Space"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar23": {
-            "BarID": 59672,
+            "BarID": 59674,
             "BarName": "Curic Stretch"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar24": {
-            "BarID": 59673,
+            "BarID": 59675,
             "BarName": "Stretch Options"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar25": {
-            "BarID": 59690,
+            "BarID": 59676,
             "BarName": "Cutlist Prep"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar26": {
-            "BarID": 59679,
+            "BarID": 59682,
             "BarName": "FlexTools"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar27": {
-            "BarID": 59674,
+            "BarID": 59678,
             "BarName": "OpenCutList"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar28": {
-            "BarID": 59675,
+            "BarID": 59679,
             "BarName": "OpenCutList - Tools"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar29": {
@@ -830,16 +849,16 @@
             "BarName": "Lost & Found Hidden Windows"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar3": {
-            "BarID": 59656,
+            "BarID": 59655,
             "BarName": "5D+ Auto Tag"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar30": {
-            "BarID": 59692,
+            "BarID": 59681,
             "BarName": "Solid Inspector²"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar31": {
-            "BarID": 59687,
-            "BarName": "Curic Text"
+            "BarID": 59682,
+            "BarName": "FlexTools"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar32": {
             "BarID": 59690,
@@ -874,7 +893,7 @@
             "BarName": "Lost & Found Hidden Windows"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar4": {
-            "BarID": 59657,
+            "BarID": 59656,
             "BarName": "5D+ Library"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar40": {
@@ -890,23 +909,23 @@
             "BarName": "Sandbox"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar5": {
-            "BarID": 59658,
+            "BarID": 59657,
             "BarName": "5D+ Plus"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar6": {
-            "BarID": 59691,
+            "BarID": 59658,
             "BarName": "Profile Builder 4"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar7": {
-            "BarID": 59678,
+            "BarID": 59659,
             "BarName": "+Definitions"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar8": {
-            "BarID": 59689,
+            "BarID": 59660,
             "BarName": "Component Namer"
         },
         "QtRubyWorkspace\\ToolbarsUser-Bar9": {
-            "BarID": 59677,
+            "BarID": 59661,
             "BarName": "Curic Align"
         },
         "QtRubyWorkspace\\ToolbarsUser-Summary": {
@@ -915,36 +934,36 @@
         "RecentFiles": {
             "LocalFiles": [
                 {
-                    "path": "C:\\01-Local Work\\01-Projects\\810-Riverview\\810 Riverview_T_hood.skp",
-                    "timestamp": 1774711739
+                    "path": "C:\\Users\\hsd\\Documents\\GitHub\\810-Riverview\\810 Riverview Closet 3.31.26.skp",
+                    "timestamp": 1776111533
                 },
                 {
-                    "path": "C:\\01-Local Work\\01-Projects\\810-Riverview\\810 Riverview_T.skp",
-                    "timestamp": 1774642121
+                    "path": "C:\\Users\\hsd\\Documents\\GitHub\\26-017-Chase-Marsh\\05-Design\\01-SketchUp-CAD\\Chase Marsh.skp",
+                    "timestamp": 1776106553
                 },
                 {
-                    "path": "C:\\01-Local Work\\01-Projects\\26-006-Studio-1000-Scenic-Hwy\\Door and Shadow box.skp",
-                    "timestamp": 1774642086
+                    "path": "C:\\Users\\hsd\\Documents\\GitHub\\810-Riverview\\810 Riverview_T_hood.skp",
+                    "timestamp": 1776093883
                 },
                 {
-                    "path": "G:\\Shared drives\\Haskel Sears Design\\01-Leads\\26-007-Legacy-Box\\02-Takeoffs\\inspo for boothss\\2nd rest.skp",
-                    "timestamp": 1774557147
+                    "path": "C:\\Users\\hsd\\Documents\\GitHub\\25-26-340-Frazier\\340 Frazier.skp",
+                    "timestamp": 1775828618
                 },
                 {
-                    "path": "G:\\Shared drives\\Haskel Sears Design\\99-Archive-Projects\\24\\2nd restaurant\\skp\\2nd 5.6.2024 updated column spacing.skp",
-                    "timestamp": 1774556175
+                    "path": "C:\\Users\\hsd\\Desktop\\MSM Liquor Cabinet.skp",
+                    "timestamp": 1775651312
+                },
+                {
+                    "path": "C:\\Users\\hsd\\Documents\\GitHub\\810-Riverview\\810 Riverview_T_hood 2.skp",
+                    "timestamp": 1775496780
                 },
                 {
                     "path": "G:\\Shared drives\\Haskel Sears Design\\99-Archive-Projects\\24\\24-008-granny's\\shop drawings\\skp\\grannys 6.12.2024 (back bar updated).skp",
-                    "timestamp": 1774556015
+                    "timestamp": 1775444791
                 },
                 {
-                    "path": "C:\\01-Local Work\\01-Projects\\26-006-Studio-1000-Scenic-Hwy\\New Model.skp",
-                    "timestamp": 1774555631
-                },
-                {
-                    "path": "C:\\01-Local Work\\01-Projects\\26-006-Studio-1000-Scenic-Hwy\\Studio 2026-03-23.skp",
-                    "timestamp": 1774440149
+                    "path": "C:\\01-Local Work\\01-Projects\\810-Riverview\\810 Riverview_T_hood.skp",
+                    "timestamp": 1774711739
                 }
             ]
         },
@@ -982,7 +1001,7 @@
             "ToolTipEnabled": true
         },
         "TPDT": {
-            "Data": "78 120 10 7 44 67 0 41 78 89 16 71 57 2 88 104 12 86 107 112 4 109 110 71 123 6 77 98 84 81 81 2 117 26 116 "
+            "Data": "78 120 10 7 44 67 0 41 78 89 16 71 57 2 88 104 12 86 107 112 4 109 110 70 121 14 66 104 88 80 83 1 117 26 116 "
         },
         "WebCommonDialog_5d.auto_tag.custom_dialog": {
             "Height": 565,
@@ -1004,8 +1023,8 @@
         },
         "WebCommonDialog_5d.plus.main_dialog": {
             "Height": 753,
-            "Left": 611,
-            "Top": 291,
+            "Left": 28,
+            "Top": 1,
             "Width": 290
         },
         "WebCommonDialog_5d.plus.scenes_dialog": {
@@ -1033,9 +1052,9 @@
             "Width": 960
         },
         "WebCommonDialog_com.componentnamer.dialog": {
-            "Height": 1173,
-            "Left": 389,
-            "Top": 142,
+            "Height": 990,
+            "Left": 757,
+            "Top": 1,
             "Width": 736
         },
         "WebCommonDialog_com.F3d_FlexTools.ComponentFinderDialog": {
@@ -1044,10 +1063,13 @@
             "Top": 204,
             "Width": 506
         },
+        "WebCommonDialog_com.F3d_FlexTools.InstallerDialog": {
+            "UseContentSize": false
+        },
         "WebCommonDialog_Controller.section.views": {
             "Height": 473,
-            "Left": 3051,
-            "Top": 151,
+            "Left": 2036,
+            "Top": 841,
             "Width": 139
         },
         "WebCommonDialog_Curic Deep Properties.dialog.material": {
@@ -1064,8 +1086,8 @@
         },
         "WebCommonDialog_curic.section.dialog.main": {
             "Height": 500,
-            "Left": 615,
-            "Top": 761,
+            "Left": 1549,
+            "Top": 525,
             "Width": 290
         },
         "WebCommonDialog_curic.section.dialog.materials": {
@@ -1076,8 +1098,8 @@
         },
         "WebCommonDialog_ExtensionManager": {
             "Height": 668,
-            "Left": 784,
-            "Top": 289,
+            "Left": 245,
+            "Top": 185,
             "Width": 1000
         },
         "WebCommonDialog_ExtensionStore": {
@@ -1087,11 +1109,11 @@
             "Width": 1006
         },
         "WebCommonDialog_fr.lairdubois.opencutlist": {
-            "Height": 1448,
-            "Left": 0,
-            "Top": -8,
+            "Height": 990,
+            "Left": 2576,
+            "Top": 178,
             "UseContentSize": true,
-            "Width": 2560
+            "Width": 1759
         },
         "WebCommonDialog_fr.lairdubois.opencutlist.modal": {
             "Height": 730,
@@ -1171,7 +1193,7 @@
         },
         "Workspace\\Trays\\Dialogs\\Scenes": {
             "Expand": true,
-            "height": 587
+            "height": 61
         },
         "Workspace\\Trays\\Dialogs\\Shadows": {
             "Expand": true,
@@ -1213,7 +1235,7 @@
         },
         "Workspace\\Trays\\Tray-0\\Pane-3": {
             "Expanded": true,
-            "Minimized": true,
+            "Minimized": false,
             "PaneId": 12
         },
         "Workspace\\Trays\\Tray-0\\Pane-4": {
@@ -1223,7 +1245,7 @@
         },
         "Workspace\\Trays\\Tray-0\\Pane-5": {
             "Expanded": true,
-            "Minimized": false,
+            "Minimized": true,
             "PaneId": 9
         },
         "Workspace\\Trays\\Tray-0\\Pane-6": {

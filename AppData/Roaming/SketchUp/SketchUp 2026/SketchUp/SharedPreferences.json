@@ -4,7 +4,7 @@
             "sendok": 1
         },
         "Application": {
-            "LastSECopyVersion": "26.1.189"
+            "LastSECopyVersion": "26.1.252"
         },
         "LayerListCtrl": {
             "SortAsc": true,
@@ -70,6 +70,9 @@
         },
         "StyleEditTab": {
             "curPage": 0
+        },
+        "Tools": {
+            "FovDisplayMode": 0
         },
         "VersionDlg": {
             "Suppress": 26
@@ -199,5 +202,5 @@
     "iOS Only": {},
     "Android Only": {},
     "Linux Only": {},
-    "timestamp": 1774918375280
+    "timestamp": 1776124085149
 }

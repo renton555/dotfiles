@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevuUserPreferences Version="3">
   <Record Key="ProfileManager">
-    <Path>C:\Users\thoma\AppData\Roaming\Bluebeam Software\Revu\21\</Path>
+    <Path>C:\Users\hsd\AppData\Roaming\Bluebeam Software\Revu\21\</Path>
     <Active>Thomas Luedke</Active>
   </Record>
   <Record Key="Measurement Creation Context">
@@ -1839,6 +1839,94 @@ subtracting 150 feet for doorways</Value>
       <Value>DS-G</Value>
       <Value>Hardware - 6 - Coat Hook</Value>
       <Value>Labor - Painted Arched Cased Opening</Value>
+      <Value>Trim - LS2 - Hardie Lap Siding 6 1/4" "Ford's Entry"</Value>
+      <Value>Trim - LS1 - Hardie Lap Siding 6 1/4" </Value>
+      <Value>Trim - LP2 - Lighted Pallet wall</Value>
+      <Value>Trim - 2x6 Chair Rail at Brick</Value>
+      <Value>Trim - Random wood planking at bar wall</Value>
+      <Value>Trim - Knee Wall Cap Apron</Value>
+      <Value>Trim - Knee Wall Cap Panel</Value>
+      <Value>Trim - VS1 - Vertical Siding</Value>
+      <Value>Millwork - Penny Wall</Value>
+      <Value>Penny</Value>
+      <Value>PEN-1</Value>
+      <Value>added 40 for return walls </Value>
+      <Value>Add 85 sf for boh</Value>
+      <Value>Trim - 2x6 Casing</Value>
+      <Value>Trim - 2x8 Trim at Panoramic Door</Value>
+      <Value>TR-16</Value>
+      <Value>TR-17</Value>
+      <Value>Trim - 2x4 Casing at Interior Window</Value>
+      <Value>Trim - 1x Spruce Light Cove</Value>
+      <Value>TR-18</Value>
+      <Value>Trim - 1x Spruce Light Cove (sf)</Value>
+      <Value>Trim - 1x Spruce Cladding (sf)</Value>
+      <Value>Doubled for back</Value>
+      <Value>Added 84 sf for liquor storage east wall on floor plan</Value>
+      <Value>Millwork - Foot Rail - Round Tube Powder Coated</Value>
+      <Value>Foot</Value>
+      <Value>RFI:  What is TR1?</Value>
+      <Value>BA1</Value>
+      <Value>Trim - Base - 1x6 Spruce</Value>
+      <Value>Banquette - One Sided</Value>
+      <Value>Banquette - Back to Back</Value>
+      <Value>Banquette - U Shape</Value>
+      <Value>Trim - WS1 - Wainscot Cap</Value>
+      <Value>Trim - 2x6 + 2x4 Chair Rail at Brick</Value>
+      <Value>Island</Value>
+      <Value>Kitchen</Value>
+      <Value>BS Add Option B</Value>
+      <Value>BS Add Option</Value>
+      <Value>Backsplash</Value>
+      <Value>Blue - Den Countertop</Value>
+      <Value>Den - 25" deep</Value>
+      <Value>Main Vanity - 25" deep</Value>
+      <Value>Hall Vanity - 25" deep</Value>
+      <Value>Hardware - Countertop Bracket</Value>
+      <Value>Cove</Value>
+      <Value>Need to add for buck and install</Value>
+      <Value>58% markup for buck, install, markup and coordination of matt nooga</Value>
+      <Value>provided by micromatic</Value>
+      <Value>Millwork - Awning</Value>
+      <Value>Awning</Value>
+      <Value>Orange - Acoustic Cloud</Value>
+      <Value>Trim - Custom at Bulkhead above Bar</Value>
+      <Value>Millwork - DP1 Aluminum Panels</Value>
+      <Value>Trim - WS1 - 2x6 Baseboard</Value>
+      <Value>Trim - WS1 - Wainscot Corners</Value>
+      <Value>Trim - WS1 - Wainscot Battens</Value>
+      <Value>Trim - WS1 - 2x4 Crown</Value>
+      <Value>Trim - TBD Jamb Ext or Casing</Value>
+      <Value>Trim - WS1 - 1x10 Horizontal with no Gaps on #15 Felt</Value>
+      <Value>Trim - 2x8 Casing</Value>
+      <Value>TR-15</Value>
+      <Value>Millwork - Custom Window with divided lites</Value>
+      <Value>doubled</Value>
+      <Value>Acrylic / Plexi light cove millwork</Value>
+      <Value>Millwork - Frost Rail - Budget</Value>
+      <Value>Millwork - Hammered Copper Sheet Countertop</Value>
+      <Value>Upholstery  Cushion- One Sided</Value>
+      <Value>Upholstery - Cushion</Value>
+      <Value>Upholstery - U Shape</Value>
+      <Value>Banq-3</Value>
+      <Value>U-1</Value>
+      <Value>Banq-1</Value>
+      <Value>U=1</Value>
+      <Value>Upholstery - One Sided</Value>
+      <Value>Upholstery - Ushion</Value>
+      <Value>Labor - Curve</Value>
+      <Value>Banquette - 33"H</Value>
+      <Value>Upholstery - Seat and Back</Value>
+      <Value>Orange - Glass Block - Install only</Value>
+      <Value>Tile - T-1</Value>
+      <Value>Wood Finish Panel and Cap</Value>
+      <Value>5</Value>
+      <Value>5"</Value>
+      <Value>42</Value>
+      <Value>Wood</Value>
+      <Value>Millwork - Tabletop on owner-provided base</Value>
+      <Value>Table</Value>
+      <Value>Priced as walnut</Value>
     </Source>
     <Source Key="Label">
       <Value>12"</Value>
@@ -3357,6 +3445,82 @@ subtracting 150 feet for doorways</Value>
       <Value>DS-G</Value>
       <Value>Hardware - 6 - Coat Hook</Value>
       <Value>Labor - Painted Arched Cased Opening</Value>
+      <Value>TR-12</Value>
+      <Value>TR-10</Value>
+      <Value>TR-13</Value>
+      <Value>TR-8</Value>
+      <Value>TR-9</Value>
+      <Value>Penny</Value>
+      <Value>PEN-1</Value>
+      <Value>added 40 for return walls </Value>
+      <Value>Add 85 sf for boh</Value>
+      <Value>Trim - 2x6 Chair Rail at Brick</Value>
+      <Value>Trim - 2x6 Casing</Value>
+      <Value>TR-16</Value>
+      <Value>TR-17</Value>
+      <Value>TR-15</Value>
+      <Value>TR-18</Value>
+      <Value>Trim - 1x Spruce Light Cove</Value>
+      <Value>Trim - 1x Spruce Light Cove (sf)</Value>
+      <Value>Trim - 1x Spruce Cladding (sf)</Value>
+      <Value>Doubled for back</Value>
+      <Value>Added 84 sf for liquor storage east wall on floor plan</Value>
+      <Value>Millwork - Foot Rail - Round Tube Powder Coated</Value>
+      <Value>Foot</Value>
+      <Value>RFI:  What is TR1?</Value>
+      <Value>BA1</Value>
+      <Value>Trim - Base - 1x6 Spruce</Value>
+      <Value>Banq-1</Value>
+      <Value>Banq-2</Value>
+      <Value>Banq-3</Value>
+      <Value>Island</Value>
+      <Value>Kitchen</Value>
+      <Value>BS Add Option B</Value>
+      <Value>BS Add Option</Value>
+      <Value>Backsplash</Value>
+      <Value>Blue - Den Countertop</Value>
+      <Value>Den - 25" deep</Value>
+      <Value>Main Vanity - 25" deep</Value>
+      <Value>Hall Vanity - 25" deep</Value>
+      <Value>Hardware - Countertop Bracket</Value>
+      <Value>Orange Scope</Value>
+      <Value>Green Scope</Value>
+      <Value>Cabinet - Upper - Frameless - Painted</Value>
+      <Value>Cove</Value>
+      <Value>Need to add for buck and install</Value>
+      <Value>58% markup for buck, install, markup and coordination of matt nooga</Value>
+      <Value>provided by micromatic</Value>
+      <Value>Trim - Knee Wall Cap Panel</Value>
+      <Value>Millwork - Awning</Value>
+      <Value>Awning</Value>
+      <Value>DP1</Value>
+      <Value>TR-14</Value>
+      <Value>TR-11</Value>
+      <Value>Win</Value>
+      <Value>Trim - 2x4 Casing at Interior Window</Value>
+      <Value>Trim - 2x8 Casing</Value>
+      <Value>doubled</Value>
+      <Value>Frost</Value>
+      <Value>Banquette - One Sided</Value>
+      <Value>Upholstery  Cushion- One Sided</Value>
+      <Value>Upholstery - Cushion</Value>
+      <Value>Banquette - U Shape</Value>
+      <Value>Upholstery - U Shape</Value>
+      <Value>U-1</Value>
+      <Value>U=1</Value>
+      <Value>Upholstery - One Sided</Value>
+      <Value>Upholstery - Ushion</Value>
+      <Value>Labor - Curve</Value>
+      <Value>Banquette - 33"H</Value>
+      <Value>Upholstery - Seat and Back</Value>
+      <Value>Wood Finish Panel and Cap</Value>
+      <Value>5</Value>
+      <Value>5"</Value>
+      <Value>42</Value>
+      <Value>Wood</Value>
+      <Value>Millwork - Tabletop on owner-provided base</Value>
+      <Value>Table</Value>
+      <Value>Priced as walnut</Value>
     </Source>
     <Source Key="Search">
       <Value>finish schedule</Value>
@@ -3478,10 +3642,13 @@ subtracting 150 feet for doorways</Value>
       <Value>qss-1</Value>
       <Value>13</Value>
       <Value>15</Value>
+      <Value>engine</Value>
+      <Value>TR1</Value>
+      <Value>wr1</Value>
+      <Value>LP1</Value>
     </Source>
     <Source Key="Author">
       <Value>Thomas Luedke</Value>
-      <Value>matt</Value>
     </Source>
   </Record>
   <Record Key="Search">
@@ -3526,8 +3693,8 @@ subtracting 150 feet for doorways</Value>
       <Sort>0</Sort>
       <Direction>1</Direction>
     </Explorer>
-    <AppClosedFiles>G:\Shared drives\Haskel Sears Design\01-Leads\26-018-Fords-Garage\02-Takeoffs\Ford’s Garage Takeoff.pdf</AppClosedFiles>
-    <AppClosedFiles>G:\Shared drives\Haskel Sears Design\01-Leads\26-018-Fords-Garage\02-Takeoffs\Ford’s Garage Takeoff.pdf</AppClosedFiles>
+    <AppClosedFiles>G:\Shared drives\Haskel Sears Design\25-022-810-Riverview\05-Design\04-Latest Drawings\810 Riverview.pdf</AppClosedFiles>
+    <AppClosedFiles>G:\Shared drives\Haskel Sears Design\25-022-810-Riverview\05-Design\04-Latest Drawings\810 Riverview.pdf</AppClosedFiles>
   </Record>
   <Record Key="Flags" />
   <Record Key="Studio">
@@ -4037,7 +4204,7 @@ subtracting 150 feet for doorways</Value>
       <ExportExcludeFilteredMarkups>True</ExportExcludeFilteredMarkups>
       <InkCursor>Default</InkCursor>
       <LastSelectedPrecisionInt>1</LastSelectedPrecisionInt>
-      <LastSelectedScaleInt>9</LastSelectedScaleInt>
+      <LastSelectedScaleInt>10</LastSelectedScaleInt>
       <LastSelectedSeparateYScale>False</LastSelectedSeparateYScale>
       <MarkupDimmer>30</MarkupDimmer>
       <MarkupTabUseRichText>False</MarkupTabUseRichText>
@@ -4097,7 +4264,7 @@ subtracting 150 feet for doorways</Value>
       <Style>0</Style>
     </MarkupSummaryIncludeTotals>
     <Misc>
-      <InitialOpenDirectory>C:\03-Temp</InitialOpenDirectory>
+      <InitialOpenDirectory>C:\Users\hsd\Downloads</InitialOpenDirectory>
       <LastPageRotation>180</LastPageRotation>
       <NewWorkflows>COLLAB:5;DOC_MGMT:5;DRAWINGS:4;DRAWING_MGMT:5;ISSUES:5;MARKUPS:5;TAKEOFF:5;</NewWorkflows>
       <ShowRulers>False</ShowRulers>
@@ -4197,7 +4364,7 @@ subtracting 150 feet for doorways</Value>
       <ImageBandSize_5684b2f397b05ecb511ad8be0b360fd4>4</ImageBandSize_5684b2f397b05ecb511ad8be0b360fd4>
       <ImageBandSize_5b88caa33973cd02389a2fca20410359>4</ImageBandSize_5b88caa33973cd02389a2fca20410359>
       <ImageBandSize_bdd9db59edf1b051aaf4e96f555402bf>4</ImageBandSize_bdd9db59edf1b051aaf4e96f555402bf>
-      <PageRange>1</PageRange>
+      <PageRange>2</PageRange>
       <PagesPerSheet>0</PagesPerSheet>
       <PagesPerSheetHeight>1</PagesPerSheetHeight>
       <PagesPerSheetLayout>0</PagesPerSheetLayout>
@@ -4227,7 +4394,7 @@ subtracting 150 feet for doorways</Value>
       <PrintRasterLevel_5684b2f397b05ecb511ad8be0b360fd4>5000</PrintRasterLevel_5684b2f397b05ecb511ad8be0b360fd4>
       <PrintRasterLevel_5b88caa33973cd02389a2fca20410359>5000</PrintRasterLevel_5b88caa33973cd02389a2fca20410359>
       <PrintRasterLevel_bdd9db59edf1b051aaf4e96f555402bf>5000</PrintRasterLevel_bdd9db59edf1b051aaf4e96f555402bf>
-      <PrintRotation>90</PrintRotation>
+      <PrintRotation>0</PrintRotation>
       <PrintScaleCustom>1</PrintScaleCustom>
       <PrintScaleType>0</PrintScaleType>
       <PrintSpaces>False</PrintSpaces>
@@ -4308,7 +4475,7 @@ subtracting 150 feet for doorways</Value>
       <TakeVectorSnapshots>True</TakeVectorSnapshots>
     </Snapshot>
     <Space>
-      <Highlight>True</Highlight>
+      <Highlight>False</Highlight>
     </Space>
     <Spelling>
       <CheckUppercase>False</CheckUppercase>
@@ -4329,7 +4496,7 @@ subtracting 150 feet for doorways</Value>
     <Studio>
       <Dashboard.CloseRelatedDocs>False</Dashboard.CloseRelatedDocs>
       <Dashboard.OpenDocsSplitView>False</Dashboard.OpenDocsSplitView>
-      <Dashboard.SplitRatio>0.6232018</Dashboard.SplitRatio>
+      <Dashboard.SplitRatio>0.4972777</Dashboard.SplitRatio>
       <DockTab.CurrentView>ProjectList</DockTab.CurrentView>
       <Documents.Explorer.ShowDetails>False</Documents.Explorer.ShowDetails>
       <Force.Proxy>False</Force.Proxy>
@@ -4373,13 +4540,13 @@ subtracting 150 feet for doorways</Value>
       <StandardFavoritesPath />
       <UseGpu>True</UseGpu>
       <UseStandardFavorites>False</UseStandardFavorites>
-      <WebView2Runtime>146.0.3856.72</WebView2Runtime>
+      <WebView2Runtime>146.0.3856.109</WebView2Runtime>
     </Web>
     <ActivePanel>Window</ActivePanel>
   </Record>
   <Record Key="Eula">
-    <User>thoma</User>
-    <AcceptedVersion>21.6</AcceptedVersion>
+    <User>hsd</User>
+    <AcceptedVersion>21.9</AcceptedVersion>
     <Checksum>103881692</Checksum>
   </Record>
   <Record Key="ShowAgainDialogs">
@@ -4395,5 +4562,6 @@ subtracting 150 feet for doorways</Value>
     <OpenProjectsInSplitView Result="OK">True</OpenProjectsInSplitView>
     <RebuildingLegend Result="OK">True</RebuildingLegend>
     <ColorProcessingTransparentWarning Result="OK">True</ColorProcessingTransparentWarning>
+    <DefViewerShowAgain Result="OK">False</DefViewerShowAgain>
   </Record>
 </RevuUserPreferences>

@@ -49,6 +49,10 @@
     <Feature>Markup.Previous</Feature>
   </Shortcut>
   <Shortcut>
+    <Keys>196680</Keys>
+    <Feature>Markup.Hide</Feature>
+  </Shortcut>
+  <Shortcut>
     <Keys>86</Keys>
     <Feature>Select</Feature>
   </Shortcut>
@@ -257,6 +261,10 @@
     <Feature>File.Open</Feature>
   </Shortcut>
   <Shortcut>
+    <Keys>196685</Keys>
+    <Feature>Document.BatchSummary</Feature>
+  </Shortcut>
+  <Shortcut>
     <Keys>393283</Keys>
     <Feature>Document.CopyPageToSnapShot</Feature>
   </Shortcut>
@@ -283,10 +291,6 @@
   <Shortcut>
     <Keys>131152</Keys>
     <Feature>Document.Print</Feature>
-  </Shortcut>
-  <Shortcut>
-    <Keys>196697</Keys>
-    <Feature>Document.ReplacePages</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>327789</Keys>
@@ -469,12 +473,24 @@
     <Feature>Markup.UnGroup</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>458823</Keys>
+    <Keys>262215</Keys>
     <Feature>Markup.RemoveFromGroup</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>85</Keys>
     <Feature>Markup.Underline</Feature>
+  </Shortcut>
+  <Shortcut>
+    <Keys>65625</Keys>
+    <Feature>SplitCount</Feature>
+  </Shortcut>
+  <Shortcut>
+    <Keys>89</Keys>
+    <Feature>SplitPoly</Feature>
+  </Shortcut>
+  <Shortcut>
+    <Keys>196697</Keys>
+    <Feature>SplitPolyAll</Feature>
   </Shortcut>
   <Shortcut>
     <Keys>83</Keys>
@@ -733,6 +749,10 @@
     <Feature>ContextMenu</Feature>
   </Shortcut>
   <Shortcut>
+    <Keys>458792</Keys>
+    <Feature>ShowMarkupsTab</Feature>
+  </Shortcut>
+  <Shortcut>
     <Keys>262219</Keys>
     <Feature>ShowBfxTab</Feature>
   </Shortcut>
@@ -761,7 +781,7 @@
     <Feature>Toggle.StayOnTop</Feature>
   </Shortcut>
   <Shortcut>
-    <Keys>65651</Keys>
+    <Keys>458790</Keys>
     <Feature>Toggle.Panels</Feature>
   </Shortcut>
   <Shortcut>
