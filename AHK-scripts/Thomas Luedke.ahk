@@ -132,7 +132,7 @@ CapsLock & r::
 }
 
 Ctrl & Space::Send "^p" ; command palette like Obsidian
-Ctrl & D:: Send "^L" ; dark mode like vivaldi
+^+d::Send "^+l" ; dark mode like vivaldi
 CapsLock & Left::Send "^\"  ; left sidebar toggle
 CapsLock & Right::Send "^+\"  ; right sidebar toggle
 
@@ -176,5 +176,15 @@ CapsLock & Down::Send "!l"  ; markups list toggle
 CapsLock & Up::Send "^!+{Up}"  ; all panels toggle
 
 #HotIf ; Reset context sensitivity
-; 2.1.  SketchUp:
+
+
+; 2.5.  Vivaldi:
 ; ==============================================================================
+#HotIf WinActive("ahk_exe vivaldi.exe")
+
+CapsLock & Left::Send "^t"  ; tab bar toggle
+CapsLock & Right::Send "{F4}"  ; panel toggle
+CapsLock & Down::Send "!l"  ; markups list toggle
+CapsLock & Up::Send "^!+{Up}"  ; all panels toggle
+
+#HotIf ; Reset context sensitivity

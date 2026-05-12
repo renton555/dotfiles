@@ -944,4 +944,8 @@
     <Keys>196687</Keys>
     <Feature>Document.OCR</Feature>
   </Shortcut>
+  <Shortcut>
+    <Keys>69</Keys>
+    <Feature>Edit.EraseContent</Feature>
+  </Shortcut>
 </KeyboardShortcuts>

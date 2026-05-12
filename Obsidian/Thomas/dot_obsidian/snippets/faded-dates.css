@@ -1,0 +1,51 @@
+/* --------------------------------------------- */
+/* 1. OBSIDIAN TASKS PLUGIN DATES                */
+/* --------------------------------------------- */
+.task-due,
+.task-scheduled,
+.task-start,
+.task-done,
+.task-created,
+.task-cancelled {
+    color: var(--text-muted) !important; 
+    font-size: 80% !important;
+}
+
+.tasks-backlink {
+    font-size: 0.7em;
+    opacity: 0.6;
+    filter: grayscale(60%);
+}
+
+.tasks-edit, .tasks-postpone {
+    font-size: var(--font-ui-smaller);
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-left: 1em;
+}
+
+.tasks-edit::after {
+    content: '[edit]';
+}
+
+.tasks-postpone::after {
+    content: '[move]';
+}
+/* Optional: Grayscale the emojis inside the Tasks dates so they match 
+.task-due,
+.task-scheduled,
+.task-start,
+.task-done,
+.task-created,
+.task-cancelled {
+    filter: grayscale(100%);
+}*/
+
+/* --------------------------------------------- */
+/* 2. DATAVIEW INLINE FIELDS (Task annotations)  */
+/* --------------------------------------------- */
+/* This targets dates written like [due:: 2026-03-23] in Dataview */
+.dataview.inline-field-value {
+    color: var(--text-muted) !important;
+    font-size: 80% !important;
+}

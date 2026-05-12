@@ -1,0 +1,51 @@
+/* --------------------------------------------- */
+/* METADATA MENU: Icons on the Left (File Pane)  */
+/* --------------------------------------------- */
+
+/* 1. Ensure the file row acts as a strict flex container */
+.nav-file-title {
+    display: flex !important;
+    align-items: center !important;
+}
+
+/* 2. Grab the Metadata Menu icon and shove it to the front */
+.nav-file-title [class*="metadata-menu"] {
+    order: -1 !important; 
+    margin-right: 6px !important; /* Space between the icon and the file name */
+    margin-left: 0px !important;
+}
+
+/* Optional: If you want to slightly shrink the icon so it blends in better */
+.nav-file-title [class*="metadata-menu"] svg {
+    width: 14px !important;
+    height: 14px !important;
+    opacity: 0.8;
+}
+
+/* --------------------------------------------- */
+/* METADATA MENU: Icons on the Left (Tabs & Headers) */
+/* --------------------------------------------- */
+
+/* 1. The main Workspace Tabs at the very top */
+.workspace-tab-header-inner {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.workspace-tab-header-inner [class*="metadata-menu"] {
+    order: -1 !important;
+    margin-right: 6px !important;
+    margin-left: 0px !important;
+}
+
+/* 2. The View Header (Just above the note content) */
+.view-header-title-container {
+    display: flex !important;
+    align-items: center !important;
+}
+
+.view-header-title-container [class*="metadata-menu"] {
+    order: -1 !important;
+    margin-right: 8px !important;
+    margin-left: 0px !important;
+}

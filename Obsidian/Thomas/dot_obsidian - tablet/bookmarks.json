@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1773036967488,
+      "path": "notes/excalibrain.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1773037055067,
+      "path": "Production 2026-10-03.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1773037244335,
+      "path": "3-resources/Tasks Dump.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1774323214392,
+      "path": "_meta/dashboards/Tasks WIP.md",
+      "title": "Tasks WIP"
+    },
+    {
+      "type": "file",
+      "ctime": 1775525721189,
+      "path": "_meta/dashboards/Tasks Backlog.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1776029257360,
+      "path": "0-inbox/Inbox.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1775918673128,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1775779750116,
+          "path": "_meta/dashboards/Tasks - Upcoming.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1775866982520,
+          "path": "_meta/dashboards/Tasks - Backlog.md"
+        }
+      ],
+      "title": "Tasks"
+    },
+    {
+      "type": "group",
+      "ctime": 1775918723319,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1775866989083,
+          "path": "_meta/dashboards/Highlights.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1774314922239,
+          "path": "_meta/dashboards/Watching List.md",
+          "title": "Watching List"
+        },
+        {
+          "type": "file",
+          "ctime": 1774314654322,
+          "path": "_meta/dashboards/Reading List.md",
+          "title": "Reading List"
+        }
+      ],
+      "title": "Reading"
+    },
+    {
+      "type": "group",
+      "ctime": 1775918701060,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1774315170741,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1773778989919,
+              "path": "3-resources/Things Ashley intentionally says and does to make me feel bad.md"
+            }
+          ],
+          "title": "z"
+        },
+        {
+          "type": "file",
+          "ctime": 1775611742810,
+          "path": "3-resources/Obsidian.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1773446345198,
+          "path": "3-resources/Excalidraw Cheatsheet.md"
+        }
+      ],
+      "title": "Reference"
+    },
+    {
+      "type": "url",
+      "ctime": 1776123265540,
+      "url": "https://gemini.google.com/app",
+      "title": "Google Gemini"
+    }
+  ]
+}

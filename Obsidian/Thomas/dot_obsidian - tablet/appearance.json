@@ -1,0 +1,18 @@
+{
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 17,
+  "accentColor": "#20df60",
+  "showViewHeader": true,
+  "showRibbon": false,
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "faded-dates",
+    "mdm-icon-left"
+  ]
+}
