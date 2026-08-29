@@ -239,3 +239,7 @@ alias glf='git log --oneline --graph --decorate'
 export PATH="$PATH:$HOME/.tmux-tools"
 
 alias bw='bw.exe'
+
+# set nvim as manpager
+export MANPAGER='nvim +Man!'
+
